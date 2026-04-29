@@ -1,0 +1,219 @@
+### Fichas de desarrollo web, APIs y arquitectura aplicativa
+Fecha de trabajo: 29/04/2026
+
+
+============================================================
+1. CICLO DE VIDA DEL SOFTWARE
+============================================================
+
+Fases:
+- Necesidad.
+- Requisitos.
+- Analisis.
+- Diseño.
+- Construccion.
+- Pruebas.
+- Despliegue.
+- Operacion.
+- Mantenimiento.
+- Retirada.
+
+En Administracion:
+- Añadir normativa, seguridad, accesibilidad, interoperabilidad, contratacion y archivo/conservacion cuando aplique.
+
+Frase:
+"El ciclo de vida debe integrar requisitos funcionales, normativos, ENS, RGPD, ENI, accesibilidad, pruebas y operacion desde el inicio."
+
+
+============================================================
+2. ARQUITECTURAS
+============================================================
+
+Monolito:
+- Simple al inicio.
+- Puede dificultar escalado/evolucion.
+
+Capas:
+- Presentacion.
+- Negocio.
+- Datos.
+- Integracion.
+
+Microservicios:
+- Servicios independientes.
+- Escalado y despliegue granular.
+- Mayor complejidad operativa.
+
+Event-driven:
+- Comunicacion asincrona por eventos.
+- Desacoplamiento.
+- Riesgo de consistencia eventual y trazabilidad compleja.
+
+Respuesta madura:
+"No elegiria microservicios por moda; evaluaria complejidad, equipo, operacion, observabilidad, datos, transacciones y necesidad real de escalado independiente."
+
+
+============================================================
+3. WEB
+============================================================
+
+Frontend:
+- HTML.
+- CSS.
+- JavaScript/TypeScript.
+- Accesibilidad.
+- Responsive.
+- Validacion de entrada.
+
+Backend:
+- Logica de negocio.
+- APIs.
+- Seguridad.
+- Persistencia.
+- Integraciones.
+
+Riesgos:
+- XSS.
+- CSRF.
+- SQL injection.
+- Broken access control.
+- Exposicion de datos.
+- Gestion de sesion insegura.
+
+
+============================================================
+4. APIs
+============================================================
+
+REST:
+- Recursos.
+- HTTP.
+- JSON.
+- Metodos: GET, POST, PUT, PATCH, DELETE.
+
+SOAP:
+- XML.
+- WSDL.
+- Contrato formal.
+- Todavia presente en integraciones corporativas.
+
+API Gateway:
+- Autenticacion/autorizacion.
+- Cuotas.
+- Versionado.
+- Logs.
+- Transformacion.
+- Publicacion.
+
+Buenas practicas:
+- Versionar.
+- Documentar OpenAPI si procede.
+- Validar entradas.
+- Gestionar errores.
+- Idempotencia.
+- Trazabilidad.
+- Seguridad por finalidad.
+
+
+============================================================
+5. SEGURIDAD APLICATIVA
+============================================================
+
+Controles:
+- Validacion de entrada.
+- Escapado de salida.
+- Autenticacion robusta.
+- Autorizacion en servidor.
+- Gestion segura de sesiones.
+- Proteccion CSRF.
+- Parametrizacion SQL.
+- Gestion de secretos.
+- Registro de actividad.
+- SAST/DAST/SCA.
+
+Trampa:
+No confiar en validacion del frontend.
+
+Frase:
+"La seguridad aplicativa se incorporara desde el diseño y en el pipeline, con validacion, autorizacion robusta, gestion segura de sesiones, analisis de codigo/dependencias y pruebas de seguridad."
+
+
+============================================================
+6. DEVSECOPS
+============================================================
+
+Pipeline:
+1. Commit.
+2. Build.
+3. Tests.
+4. Analisis estatico.
+5. Analisis dependencias.
+6. Imagen/contenedor.
+7. Escaneo.
+8. Despliegue en entorno.
+9. Pruebas aceptacion.
+10. Promocion controlada.
+
+Controles:
+- Secretos fuera del codigo.
+- Aprobaciones.
+- Evidencias.
+- Rollback.
+- Separacion de entornos.
+
+
+============================================================
+7. ACCESIBILIDAD Y UX
+============================================================
+
+Requisitos:
+- Navegacion por teclado.
+- Contraste.
+- Textos alternativos.
+- Formularios claros.
+- Errores comprensibles.
+- Documentos accesibles.
+- Lenguaje claro.
+
+En Administracion:
+La accesibilidad no es mejora estetica; es garantia de igualdad en el acceso al servicio publico.
+
+
+============================================================
+8. TEST
+============================================================
+
+1. REST se basa habitualmente en:
+A. Recursos HTTP.
+B. Solo FTP.
+C. Solo correo.
+D. Solo SQL.
+Respuesta: A.
+
+2. La validacion de frontend:
+A. No basta; debe validarse tambien en servidor.
+B. Sustituye seguridad.
+C. Impide XSS siempre.
+D. Elimina autenticacion.
+Respuesta: A.
+
+3. Microservicios:
+A. Aumentan flexibilidad pero tambien complejidad operativa.
+B. Son siempre obligatorios.
+C. Eliminan observabilidad.
+D. Impiden APIs.
+Respuesta: A.
+
+4. SCA analiza:
+A. Dependencias/componentes software.
+B. Solo redes fisicas.
+C. Solo contratos.
+D. Solo usuarios.
+Respuesta: A.
+
+5. Accesibilidad en servicios publicos:
+A. Es requisito de igualdad y calidad, no solo estetica.
+B. Es opcional siempre.
+C. Solo importa en PDFs.
+D. Sustituye ENS.
+Respuesta: A.

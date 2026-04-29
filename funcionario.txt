@@ -948,6 +948,44 @@ Contiene:
 - Ejemplos de respuesta.
 - Mini test.
 
+29. fichas_redes_detalladas.txt
+Contiene:
+- OSI/TCP-IP.
+- IP, subredes, enrutamiento.
+- TCP/UDP, DNS, DHCP, NTP.
+- HTTP/HTTPS/TLS.
+- Firewall, WAF, IDS/IPS, VPN.
+- DMZ, alta disponibilidad y test.
+
+30. fichas_sistemas_cloud_detalladas.txt
+Contiene:
+- Sistemas operativos.
+- Virtualizacion y contenedores.
+- CPD.
+- Almacenamiento y backup.
+- Cloud.
+- Observabilidad, continuidad y test.
+
+31. fichas_bases_datos_sql.txt
+Contiene:
+- Modelo relacional.
+- Normalizacion.
+- SQL.
+- Transacciones ACID.
+- Indices.
+- Seguridad en bases de datos.
+- NoSQL, analitica y test.
+
+32. fichas_desarrollo_web_apis.txt
+Contiene:
+- Ciclo de vida software.
+- Arquitecturas.
+- Web.
+- APIs REST/SOAP/API Gateway.
+- Seguridad aplicativa.
+- DevSecOps.
+- Accesibilidad y test.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

@@ -1,0 +1,243 @@
+### Fichas detalladas de redes - Oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Dominar redes para test C1/A2 y para supuestos A2/A1 con seguridad, continuidad e interoperabilidad.
+
+
+============================================================
+1. MODELO OSI Y TCP/IP
+============================================================
+
+OSI:
+1. Fisica: bits, medios, señales.
+2. Enlace: tramas, MAC, Ethernet, VLAN.
+3. Red: IP, enrutamiento.
+4. Transporte: TCP, UDP.
+5. Sesion: control de dialogo.
+6. Presentacion: codificacion, cifrado, formatos.
+7. Aplicacion: HTTP, DNS, SMTP, etc.
+
+TCP/IP:
+- Acceso a red.
+- Internet.
+- Transporte.
+- Aplicacion.
+
+Trampa:
+OSI es modelo conceptual; TCP/IP es pila practica usada en Internet.
+
+
+============================================================
+2. IP, SUBREDES Y ENRUTAMIENTO
+============================================================
+
+Conceptos:
+- IPv4: 32 bits.
+- IPv6: 128 bits.
+- CIDR: notacion /n.
+- Gateway: salida a otras redes.
+- Routing: seleccion de ruta.
+- NAT: traduccion de direcciones.
+- VLAN: segmentacion logica a nivel 2.
+
+Aplicacion en Administracion:
+- Segmentar por criticidad: DMZ, aplicaciones, datos, administracion, usuarios.
+- Evitar redes planas.
+- Controlar rutas y accesos entre zonas.
+- Documentar direccionamiento.
+
+Frase de examen:
+"Definiria una arquitectura de red segmentada mediante VLAN/subredes y controles de enrutamiento/firewall, separando DMZ, servicios internos, bases de datos, administracion y usuarios."
+
+
+============================================================
+3. TCP Y UDP
+============================================================
+
+TCP:
+- Orientado a conexion.
+- Fiable.
+- Control de flujo.
+- Reenvio.
+- Orden.
+- Usado en HTTP(S), SSH, SMTP.
+
+UDP:
+- Sin conexion.
+- Menor latencia.
+- No garantiza entrega.
+- Usado en DNS, VoIP, streaming, NTP.
+
+Trampa:
+UDP no es "inseguro" por definicion; simplemente no ofrece garantias de transporte como TCP.
+
+
+============================================================
+4. DNS, DHCP, NTP
+============================================================
+
+DNS:
+- Traduce nombres a direcciones.
+- Critico para disponibilidad.
+- Riesgos: spoofing, cache poisoning, mala configuracion.
+- Controles: DNSSEC si procede, redundancia, registros correctos, monitorizacion.
+
+DHCP:
+- Asigna configuracion IP dinamica.
+- Riesgos: servidores DHCP no autorizados.
+- Controles: DHCP snooping, segmentacion, reservas.
+
+NTP:
+- Sincronizacion horaria.
+- Critico para logs, trazabilidad, certificados y auditoria.
+
+Frase:
+"La sincronizacion horaria mediante NTP confiable es esencial para trazabilidad, correlacion de logs y validez de evidencias."
+
+
+============================================================
+5. HTTP, HTTPS Y TLS
+============================================================
+
+HTTP:
+- Protocolo de aplicacion web.
+- Metodos: GET, POST, PUT, DELETE, PATCH.
+- Codigos: 2xx exito, 3xx redireccion, 4xx cliente, 5xx servidor.
+
+HTTPS:
+- HTTP sobre TLS.
+- Aporta cifrado, integridad y autenticacion del servidor.
+
+TLS:
+- Seguridad de transporte.
+- Certificados.
+- Versiones y suites seguras.
+
+Trampas:
+- HTTPS no arregla una aplicacion vulnerable.
+- TLS cifra en transito, no en reposo.
+- Certificado caducado puede tumbar servicio ciudadano.
+
+
+============================================================
+6. FIREWALL, WAF, IDS/IPS, VPN
+============================================================
+
+Firewall:
+- Filtra trafico por reglas.
+- Debe aplicar minimo privilegio.
+
+WAF:
+- Protege aplicaciones web frente a patrones comunes.
+- No sustituye desarrollo seguro.
+
+IDS/IPS:
+- IDS detecta.
+- IPS detecta y bloquea.
+
+VPN:
+- Tunel seguro.
+- Usar MFA y control de dispositivos cuando proceda.
+
+Frase:
+"El acceso administrativo remoto se permitiria solo mediante VPN corporativa, MFA, dispositivos autorizados, registro de actividad y privilegios minimos."
+
+
+============================================================
+7. DMZ Y ARQUITECTURA SEGURA
+============================================================
+
+DMZ:
+- Zona intermedia para servicios expuestos.
+- Reduce exposicion directa de redes internas.
+
+Patron:
+Internet -> WAF/balanceador -> DMZ web -> capa aplicacion -> base de datos interna.
+
+Controles:
+- Solo puertos necesarios.
+- Sin acceso directo Internet-BD.
+- Logs.
+- Segmentacion.
+- Bastionado.
+- Monitorizacion.
+
+
+============================================================
+8. ALTA DISPONIBILIDAD DE RED
+============================================================
+
+Elementos:
+- Redundancia de enlaces.
+- Balanceadores.
+- Clustering.
+- DNS redundante.
+- Firewalls en alta disponibilidad.
+- Monitorizacion.
+- Pruebas de conmutacion.
+
+Indicadores:
+- Disponibilidad.
+- Latencia.
+- Perdida de paquetes.
+- Tiempo de conmutacion.
+- Saturacion.
+
+
+============================================================
+9. REDES EN SUPUESTOS
+============================================================
+
+Siempre incluir:
+- Segmentacion.
+- Minimo privilegio.
+- TLS.
+- Firewall/WAF.
+- VPN/MFA para administracion.
+- Logs y monitorizacion.
+- Alta disponibilidad si servicio critico.
+- Continuidad y pruebas.
+
+Respuesta corta:
+"La red se diseñaria en zonas de seguridad, con DMZ para servicios expuestos, segmentacion interna, reglas restrictivas, cifrado TLS, WAF, administracion por VPN con MFA, monitorizacion, logs centralizados y alta disponibilidad en componentes criticos."
+
+
+============================================================
+10. TEST
+============================================================
+
+1. TCP se diferencia de UDP porque:
+A. TCP es fiable y orientado a conexion.
+B. UDP siempre cifra.
+C. TCP no existe en Internet.
+D. UDP ordena siempre.
+Respuesta: A.
+
+2. DNS sirve para:
+A. Resolver nombres.
+B. Cifrar discos.
+C. Gestionar permisos de BD.
+D. Sustituir TLS.
+Respuesta: A.
+
+3. Una DMZ se usa para:
+A. Exponer servicios separandolos de redes internas.
+B. Guardar backups offline.
+C. Gestionar oposiciones.
+D. Sustituir RGPD.
+Respuesta: A.
+
+4. TLS protege principalmente:
+A. Comunicaciones en transito.
+B. Datos impresos.
+C. Contratos.
+D. Solo backups.
+Respuesta: A.
+
+5. NTP es importante para:
+A. Sincronizacion horaria y correlacion de logs.
+B. Diseño UX.
+C. Contratacion.
+D. SQL.
+Respuesta: A.

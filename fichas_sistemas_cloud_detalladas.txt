@@ -1,0 +1,219 @@
+### Fichas detalladas de sistemas, CPD y cloud
+Fecha de trabajo: 29/04/2026
+
+
+============================================================
+1. SISTEMAS OPERATIVOS
+============================================================
+
+Funciones:
+- Gestion de procesos.
+- Memoria.
+- Sistema de ficheros.
+- Usuarios y permisos.
+- Red.
+- Dispositivos.
+- Seguridad.
+- Logs.
+
+Windows Server:
+- Active Directory.
+- GPO.
+- DNS/DHCP.
+- Servicios.
+- Eventos.
+
+Linux/Unix:
+- Usuarios/grupos.
+- Permisos.
+- systemd.
+- SSH.
+- Logs.
+- Paquetes.
+- Shell.
+
+Frase:
+"La administracion se basara en configuracion segura, usuarios nominativos, minimo privilegio, registro de actividad, parcheo y monitorizacion."
+
+
+============================================================
+2. VIRTUALIZACION Y CONTENEDORES
+============================================================
+
+Virtualizacion:
+- Hipervisor.
+- Maquinas virtuales.
+- Aislamiento fuerte.
+- Consolidacion.
+- Snapshots con cautela.
+
+Contenedores:
+- Aislamiento a nivel de sistema operativo.
+- Imagenes.
+- Orquestacion.
+- Despliegue reproducible.
+- Menor peso que VM.
+
+Kubernetes/orquestacion:
+- Gestion de pods/servicios.
+- Escalado.
+- Configuracion.
+- Secretos.
+- Observabilidad.
+
+Trampas:
+- Contenedor no sustituye seguridad.
+- Imagenes deben ser confiables y escaneadas.
+- Secretos no deben ir en la imagen.
+
+
+============================================================
+3. CPD
+============================================================
+
+Elementos:
+- Energia.
+- Climatizacion.
+- Control de acceso fisico.
+- Deteccion/extincion incendios.
+- Comunicaciones.
+- Racks.
+- Monitorizacion ambiental.
+- Plan de continuidad.
+
+Riesgos:
+- Punto unico de fallo.
+- Falta de redundancia.
+- Obsolescencia.
+- Acceso fisico no controlado.
+- Copias en el mismo sitio sin proteccion.
+
+
+============================================================
+4. ALMACENAMIENTO Y BACKUP
+============================================================
+
+Conceptos:
+- DAS, NAS, SAN.
+- RAID.
+- Snapshots.
+- Backup completo, incremental, diferencial.
+- Copias offline/inmutables.
+- Retencion.
+- Pruebas de restauracion.
+
+Regla 3-2-1:
+- 3 copias.
+- 2 soportes.
+- 1 fuera de sitio/offline.
+
+Frase:
+"Una copia no probada no es una garantia de recuperacion; definiria politica de backup con RPO/RTO y pruebas periodicas."
+
+
+============================================================
+5. CLOUD
+============================================================
+
+Modelos:
+- IaaS: maquinas, redes, almacenamiento.
+- PaaS: plataforma de ejecucion/servicios gestionados.
+- SaaS: aplicacion completa.
+
+Despliegue:
+- Publica.
+- Privada.
+- Hibrida.
+- Multicloud.
+
+Controles sector publico:
+- ENS.
+- RGPD.
+- Localizacion de datos.
+- Reversibilidad.
+- Portabilidad.
+- Auditoria.
+- SLAs.
+- Subcontratacion.
+- Control de costes.
+
+
+============================================================
+6. OBSERVABILIDAD
+============================================================
+
+Tres pilares:
+- Logs.
+- Metricas.
+- Trazas.
+
+Uso:
+- Detectar incidencias.
+- Analizar rendimiento.
+- Auditar.
+- Mejorar capacidad.
+- Correlacionar eventos.
+
+Indicadores:
+- CPU/memoria/disco.
+- Latencia.
+- Tasa de error.
+- Saturacion.
+- Disponibilidad.
+- Tiempo de respuesta.
+
+
+============================================================
+7. CONTINUIDAD
+============================================================
+
+Conceptos:
+- BIA: impacto.
+- RTO: tiempo de recuperacion.
+- RPO: perdida maxima de datos.
+- DRP: plan de recuperacion.
+- Alta disponibilidad: evitar parada.
+- Contingencia: operar en modo degradado.
+
+Respuesta:
+"Definiria BIA, RTO y RPO por servicio, arquitectura de alta disponibilidad, copias verificadas, recuperacion ante desastre, pruebas periodicas y procedimientos de comunicacion."
+
+
+============================================================
+8. TEST
+============================================================
+
+1. IaaS ofrece:
+A. Infraestructura como servicio.
+B. Solo una app final.
+C. Solo soporte juridico.
+D. Solo datos abiertos.
+Respuesta: A.
+
+2. RPO mide:
+A. Perdida maxima asumible de datos en tiempo.
+B. Numero de servidores.
+C. Tiempo de login.
+D. Coste de licencia.
+Respuesta: A.
+
+3. Contenedores:
+A. No eliminan la necesidad de seguridad.
+B. Sustituyen RGPD.
+C. No usan imagenes.
+D. Siempre son maquinas fisicas.
+Respuesta: A.
+
+4. Observabilidad se apoya en:
+A. Logs, metricas y trazas.
+B. Solo reuniones.
+C. Solo contratos.
+D. Solo papel.
+Respuesta: A.
+
+5. Una estrategia de backup debe:
+A. Probar restauracion.
+B. No documentarse.
+C. Guardarse solo en el servidor afectado.
+D. No tener retencion.
+Respuesta: A.

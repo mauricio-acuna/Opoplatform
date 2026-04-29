@@ -1,0 +1,206 @@
+### Fichas de bases de datos y SQL
+Fecha de trabajo: 29/04/2026
+
+
+============================================================
+1. MODELO RELACIONAL
+============================================================
+
+Conceptos:
+- Tabla/relacion.
+- Fila/tupla.
+- Columna/atributo.
+- Clave primaria.
+- Clave foranea.
+- Restricciones.
+- Integridad referencial.
+
+Ventajas:
+- Consistencia.
+- Lenguaje SQL.
+- Transacciones.
+- Modelo maduro.
+
+Uso publico:
+- Expedientes.
+- Interesados.
+- Asientos registrales.
+- Catalogos.
+- Datos maestros.
+
+
+============================================================
+2. NORMALIZACION
+============================================================
+
+Objetivo:
+Reducir redundancia y evitar anomalias de insercion, actualizacion y borrado.
+
+Formas:
+- 1FN: valores atomicos.
+- 2FN: dependencias completas de clave.
+- 3FN: sin dependencias transitivas.
+
+Trampa:
+Normalizar mejora integridad, pero a veces se desnormaliza controladamente para rendimiento/analitica.
+
+
+============================================================
+3. SQL
+============================================================
+
+Tipos:
+- DDL: CREATE, ALTER, DROP.
+- DML: SELECT, INSERT, UPDATE, DELETE.
+- DCL: GRANT, REVOKE.
+- TCL: COMMIT, ROLLBACK.
+
+SELECT:
+- WHERE.
+- JOIN.
+- GROUP BY.
+- HAVING.
+- ORDER BY.
+
+Trampa:
+WHERE filtra filas antes de agrupar; HAVING filtra grupos.
+
+
+============================================================
+4. TRANSACCIONES ACID
+============================================================
+
+ACID:
+- Atomicidad: todo o nada.
+- Consistencia: pasa de estado valido a estado valido.
+- Aislamiento: transacciones concurrentes no interfieren indebidamente.
+- Durabilidad: confirmado persiste.
+
+Uso publico:
+- Registro de solicitud.
+- Pago.
+- Cambio de estado de expediente.
+- Notificacion.
+
+Frase:
+"Operaciones criticas deben ser transaccionales para preservar integridad y trazabilidad del expediente."
+
+
+============================================================
+5. INDICES
+============================================================
+
+Ventajas:
+- Mejoran busquedas.
+- Aceleran joins/filtros.
+
+Costes:
+- Ocupan espacio.
+- Penalizan escrituras.
+- Requieren mantenimiento.
+
+Trampa:
+Indexar todo no es buena practica.
+
+
+============================================================
+6. SEGURIDAD EN BASES DE DATOS
+============================================================
+
+Controles:
+- Roles y minimo privilegio.
+- Cuentas nominativas o de servicio controladas.
+- Cifrado en reposo si procede.
+- Cifrado en transito.
+- Auditoria.
+- Enmascaramiento/seudonimizacion.
+- Backup y restauracion.
+- Separacion de entornos.
+- No usar datos reales en desarrollo sin control.
+
+Frase:
+"La seguridad de base de datos combinara control de accesos, cifrado, auditoria, segregacion de entornos, copias verificadas y minimizacion de datos."
+
+
+============================================================
+7. NOSQL
+============================================================
+
+Tipos:
+- Clave-valor.
+- Documento.
+- Columnar.
+- Grafo.
+
+Cuando puede convenir:
+- Grandes volumenes.
+- Esquema flexible.
+- Alta escalabilidad.
+- Documentos JSON.
+- Relaciones complejas en grafos.
+
+Riesgo:
+- Consistencia eventual.
+- Consultas menos estandarizadas.
+- Gobierno de datos.
+
+Respuesta madura:
+"La eleccion SQL/NoSQL debe basarse en requisitos de consistencia, modelo de datos, volumen, consultas, escalabilidad, transacciones y gobierno."
+
+
+============================================================
+8. ANALITICA Y DATA WAREHOUSE
+============================================================
+
+Conceptos:
+- OLTP: transaccional.
+- OLAP: analitico.
+- ETL/ELT.
+- Data warehouse.
+- Data lake.
+- Calidad del dato.
+- Metadatos.
+- Linaje.
+
+Trampa:
+No cargar analitica pesada directamente sobre sistemas transaccionales criticos sin valorar impacto.
+
+
+============================================================
+9. TEST
+============================================================
+
+1. ACID se refiere a:
+A. Propiedades de transacciones.
+B. Capas OSI.
+C. Criterios de contratacion.
+D. Tipos de usuario.
+Respuesta: A.
+
+2. Una clave foranea:
+A. Relaciona tablas y preserva integridad referencial.
+B. Cifra siempre la base.
+C. Es un firewall.
+D. Es un metodo HTTP.
+Respuesta: A.
+
+3. HAVING filtra:
+A. Grupos.
+B. Puertos.
+C. Usuarios.
+D. Certificados.
+Respuesta: A.
+
+4. NoSQL:
+A. Puede ser util segun requisitos, pero no sustituye siempre al modelo relacional.
+B. Es siempre mejor.
+C. Esta prohibido.
+D. No almacena datos.
+Respuesta: A.
+
+5. Un indice:
+A. Mejora algunas consultas, pero tiene coste de escritura/almacenamiento.
+B. No ocupa espacio.
+C. Sustituye backups.
+D. Elimina integridad.
+Respuesta: A.
