@@ -986,6 +986,16 @@ Contiene:
 - DevSecOps.
 - Accesibilidad y test.
 
+33. test_tecnico_100.txt
+Contiene:
+- 100 preguntas tecnicas.
+- Redes.
+- Sistemas y cloud.
+- Continuidad y observabilidad.
+- Bases de datos.
+- Desarrollo y APIs.
+- DevSecOps, calidad, arquitectura, seguridad y sector publico.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

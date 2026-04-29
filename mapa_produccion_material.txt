@@ -25,8 +25,8 @@ ESTADO GENERAL
 | RGPD/LOPDGDD | Medio-alto | fichas_rgpd_lopdgdd, casos_ens_rgpd, tabla_bases_juridicas_rgpd_sector_publico | Test ampliado RGPD/ENS |
 | Contratacion TIC | Medio-alto | fichas_contratacion_publica_tic, plantilla_ppt_tic | PCAP detallado y mas casos |
 | Gobernanza/gestion A1-A2 | Medio-alto | fichas_gobernanza_tic_age, fichas_direccion_proyectos, fichas_itil_cobit_calidad | Casos de gobierno, auditoria y priorizacion |
-| Sistemas/redes/cloud | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_redes_detalladas, fichas_sistemas_cloud_detalladas | Test tecnico ampliado |
-| Desarrollo/datos/IA | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_bases_datos_sql, fichas_desarrollo_web_apis | Java/.NET especifico y test tecnico |
+| Sistemas/redes/cloud | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_redes_detalladas, fichas_sistemas_cloud_detalladas, test_tecnico_100 | Mas preguntas por dificultad |
+| Desarrollo/datos/IA | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_bases_datos_sql, fichas_desarrollo_web_apis, test_tecnico_100 | Java/.NET especifico |
 | Supuestos | Medio-alto | banco_supuestos, respuestas_modelo, plantillas | Aumentar a 30 supuestos |
 | Test | Inicial | banco_test_inicial_100 | Llegar a 500 preguntas |
 | Memoria | Inicial | glosario, mnemotecnias | Tarjetas y repasos espaciados |
@@ -53,7 +53,7 @@ Fase 3 - Cerrar tecnica comun:
 9. fichas_sistemas_cloud_detalladas.txt - creado
 10. fichas_bases_datos_sql.txt - creado
 11. fichas_desarrollo_web_apis.txt - creado
-12. test_tecnico_200.txt
+12. test_tecnico_100.txt - creado; pendiente ampliar a 200
 
 Fase 4 - Cerrar gestion A1/A2:
 13. plantilla_ppt_tic.txt - creado

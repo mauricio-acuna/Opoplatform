@@ -1,0 +1,659 @@
+### Test tecnico 100 preguntas - Redes, sistemas, cloud, BD y desarrollo
+Fecha de trabajo: 29/04/2026
+
+Claves:
+1A 2B 3A 4C 5A 6B 7A 8C 9B 10A
+11C 12A 13B 14A 15C 16B 17A 18C 19B 20A
+21B 22A 23C 24B 25A 26C 27B 28A 29C 30B
+31A 32C 33B 34A 35C 36B 37A 38C 39B 40A
+41C 42B 43A 44C 45B 46A 47C 48B 49A 50C
+51B 52A 53C 54B 55A 56C 57B 58A 59C 60B
+61A 62C 63B 64A 65C 66B 67A 68C 69B 70A
+71C 72B 73A 74C 75B 76A 77C 78B 79A 80C
+81B 82A 83C 84B 85A 86C 87B 88A 89C 90B
+91A 92C 93B 94A 95C 96B 97A 98C 99B 100A
+
+
+============================================================
+REDES
+============================================================
+
+1. La capa de red en OSI se asocia principalmente con:
+A. Direccionamiento y enrutamiento IP.
+B. Presentacion de datos.
+C. Control de sesiones.
+D. Interfaz de usuario.
+
+2. TCP se caracteriza por:
+A. No tener conexion.
+B. Fiabilidad y orientacion a conexion.
+C. No ordenar datos.
+D. Ser exclusivo de DNS.
+
+3. UDP se usa habitualmente cuando:
+A. Se prioriza baja latencia o simplicidad frente a garantias de entrega.
+B. Se necesita siempre retransmision.
+C. Se quiere sustituir IP.
+D. Se requiere contrato publico.
+
+4. DNS permite:
+A. Asignar direcciones dinamicas.
+B. Cifrar discos.
+C. Resolver nombres a direcciones.
+D. Crear expedientes.
+
+5. DHCP se utiliza para:
+A. Asignar configuracion IP dinamicamente.
+B. Firmar documentos.
+C. Cifrar TLS.
+D. Normalizar bases de datos.
+
+6. NTP es importante para:
+A. Mejorar CSS.
+B. Sincronizacion horaria y correlacion de logs.
+C. Gestionar contratos.
+D. Sustituir backups.
+
+7. Una DMZ se usa para:
+A. Separar servicios expuestos de redes internas.
+B. Evitar firewalls.
+C. Alojar datos sin seguridad.
+D. Sustituir RGPD.
+
+8. TLS aporta:
+A. Solo compresion.
+B. Solo routing.
+C. Cifrado/integridad/autenticacion en comunicaciones.
+D. Normalizacion SQL.
+
+9. Un WAF protege principalmente:
+A. Bases de datos fisicas.
+B. Aplicaciones web frente a ciertos ataques.
+C. Contratos.
+D. Sistemas de climatizacion.
+
+10. Una VPN de administracion debe reforzarse con:
+A. MFA, control de acceso y logs.
+B. Usuarios compartidos.
+C. Sin cifrado.
+D. Acceso anonimo.
+
+
+============================================================
+SISTEMAS Y CLOUD
+============================================================
+
+11. Un sistema operativo gestiona:
+A. Solo contratos.
+B. Solo diseño.
+C. Procesos, memoria, ficheros, usuarios, red y dispositivos.
+D. Solo presupuestos.
+
+12. Active Directory se asocia con:
+A. Gestion de identidades/directorio en entornos Windows.
+B. SQL.
+C. HTML.
+D. DNSSEC exclusivamente.
+
+13. systemd se asocia principalmente con:
+A. Contratacion.
+B. Gestion de servicios en Linux.
+C. Firma electronica.
+D. NoSQL.
+
+14. El hardening consiste en:
+A. Configurar de forma segura reduciendo superficie de ataque.
+B. Dar permisos maximos.
+C. Eliminar logs.
+D. No parchear.
+
+15. Una maquina virtual:
+A. Es siempre un contenedor.
+B. No necesita sistema operativo.
+C. Se ejecuta sobre un hipervisor.
+D. No puede aislar.
+
+16. Un contenedor:
+A. Siempre sustituye RGPD.
+B. Empaqueta aplicacion/dependencias con aislamiento a nivel de SO.
+C. Es un CPD fisico.
+D. No usa imagenes.
+
+17. Kubernetes se usa para:
+A. Orquestar contenedores.
+B. Hacer solo documentos.
+C. Sustituir DNS.
+D. Redactar pliegos.
+
+18. IaaS proporciona:
+A. Aplicacion final completa.
+B. Solo firma electronica.
+C. Infraestructura como servicio.
+D. Solo soporte juridico.
+
+19. SaaS proporciona:
+A. Solo maquinas virtuales.
+B. Aplicacion completa como servicio.
+C. Solo red fisica.
+D. Solo codigo fuente.
+
+20. La reversibilidad cloud busca:
+A. Recuperar o transferir servicio/datos sin dependencia indebida.
+B. Bloquear proveedor.
+C. Evitar auditoria.
+D. Eliminar copias.
+
+
+============================================================
+CONTINUIDAD Y OBSERVABILIDAD
+============================================================
+
+21. RTO indica:
+A. Perdida maxima de datos.
+B. Tiempo objetivo de recuperacion.
+C. Numero de usuarios.
+D. Codigo HTTP.
+
+22. RPO indica:
+A. Punto objetivo de recuperacion/perdida maxima asumible de datos.
+B. Tiempo de respuesta web.
+C. Version de TLS.
+D. Tipo de contrato.
+
+23. BIA significa:
+A. Backup interno anual.
+B. Base integrada administrativa.
+C. Analisis de impacto de negocio/servicio.
+D. Bus de integracion API.
+
+24. Observabilidad se apoya en:
+A. Solo contratos.
+B. Logs, metricas y trazas.
+C. Solo reuniones.
+D. Solo correos.
+
+25. Una copia de seguridad util debe:
+A. Probarse mediante restauracion.
+B. No documentarse.
+C. Guardarse solo en el servidor afectado.
+D. No tener politica de retencion.
+
+26. Alta disponibilidad busca:
+A. Aumentar deuda tecnica.
+B. Evitar toda seguridad.
+C. Reducir indisponibilidad mediante redundancia/conmutacion.
+D. Sustituir usuarios.
+
+27. Un plan de continuidad debe incluir:
+A. Solo colores de interfaz.
+B. RTO/RPO, roles, procedimientos, pruebas y comunicacion.
+C. Solo SQL.
+D. Solo un proveedor.
+
+28. Los logs de seguridad deben:
+A. Protegerse y conservarse segun necesidad.
+B. Ser publicos siempre.
+C. Borrarse inmediatamente siempre.
+D. No existir.
+
+29. Un SIEM sirve para:
+A. Crear formularios.
+B. Ejecutar SQL.
+C. Correlacionar y gestionar eventos de seguridad.
+D. Editar imagenes.
+
+30. EDR se asocia con:
+A. Contratacion.
+B. Deteccion y respuesta en endpoints.
+C. Normalizacion.
+D. DNS.
+
+
+============================================================
+BASES DE DATOS
+============================================================
+
+31. Una clave primaria:
+A. Identifica de forma unica registros.
+B. Es siempre cifrado.
+C. Es una VLAN.
+D. Es un SLA.
+
+32. Una clave foranea:
+A. Borra logs.
+B. Sustituye backups.
+C. Relaciona tablas y ayuda a integridad referencial.
+D. Es un firewall.
+
+33. La normalizacion busca:
+A. Duplicar datos.
+B. Reducir redundancia y anomalias.
+C. Eliminar integridad.
+D. Evitar SQL.
+
+34. 1FN exige:
+A. Valores atomicos.
+B. Microservicios.
+C. VPN.
+D. TLS.
+
+35. ACID incluye:
+A. Accesibilidad, coste, integridad, disponibilidad.
+B. API, cloud, IA, datos.
+C. Atomicidad, consistencia, aislamiento y durabilidad.
+D. Archivo, copia, indice, documento.
+
+36. COMMIT:
+A. Revierte cambios.
+B. Confirma una transaccion.
+C. Crea firewall.
+D. Inicia DNS.
+
+37. ROLLBACK:
+A. Revierte una transaccion.
+B. Firma documentos.
+C. Crea indices siempre.
+D. Gestiona DHCP.
+
+38. WHERE filtra:
+A. Grupos tras agregacion.
+B. Usuarios de Windows.
+C. Filas antes de agrupar.
+D. Certificados.
+
+39. HAVING filtra:
+A. Puertos.
+B. Grupos tras agregacion.
+C. Discos.
+D. VLAN.
+
+40. Un indice:
+A. Puede acelerar consultas con coste en escrituras/almacenamiento.
+B. Siempre mejora todo sin coste.
+C. Sustituye backups.
+D. No ocupa espacio.
+
+
+============================================================
+DESARROLLO Y APIS
+============================================================
+
+41. REST suele modelar:
+A. Solo procesos fisicos.
+B. Solo contratos.
+C. Recursos accesibles via HTTP.
+D. Solo ficheros locales.
+
+42. SOAP se basa habitualmente en:
+A. JSON sin contrato.
+B. XML/WSDL y contrato formal.
+C. Solo CSS.
+D. DNS.
+
+43. Un API Gateway puede:
+A. Centralizar seguridad, cuotas, logs y publicacion.
+B. Sustituir la base juridica.
+C. Eliminar autenticacion.
+D. Borrar trazabilidad.
+
+44. Idempotencia significa:
+A. Mas latencia.
+B. Sin seguridad.
+C. Repetir una operacion sin efecto adicional indebido.
+D. Cifrar discos.
+
+45. OpenAPI sirve para:
+A. Hacer backups.
+B. Documentar/describir APIs REST.
+C. Gestionar CPD fisico.
+D. Sustituir RGPD.
+
+46. XSS es:
+A. Inyeccion de scripts en contexto web.
+B. Protocolo de red.
+C. Tipo de contrato.
+D. Backup incremental.
+
+47. CSRF implica:
+A. Error de DNS.
+B. Indice SQL.
+C. Forzar peticiones no deseadas desde usuario autenticado.
+D. Virtualizacion.
+
+48. SQL injection se mitiga con:
+A. Concursos.
+B. Consultas parametrizadas y validacion.
+C. Usuarios compartidos.
+D. Logs publicos.
+
+49. SAST analiza:
+A. Codigo fuente/estatico.
+B. Solo trafico en produccion.
+C. Solo contratos.
+D. Solo DNS.
+
+50. DAST analiza:
+A. Solo codigo muerto.
+B. Solo pliegos.
+C. Aplicacion en ejecucion/dinamica.
+D. Presupuestos.
+
+
+============================================================
+DEVSECOPS Y CALIDAD
+============================================================
+
+51. CI significa:
+A. Control interno.
+B. Integracion continua.
+C. Carpeta interoperable.
+D. Contrato individual.
+
+52. CD puede referirse a:
+A. Entrega/despliegue continuo.
+B. Codigo derogado.
+C. Contrato digital.
+D. Copia destruida.
+
+53. SCA analiza:
+A. Solo estilos.
+B. Solo redes.
+C. Dependencias/componentes software.
+D. Solo usuarios.
+
+54. Gestion de secretos implica:
+A. Poner claves en codigo.
+B. Proteger credenciales fuera del codigo y con control.
+C. Compartir passwords.
+D. Desactivar MFA.
+
+55. Un entorno de preproduccion sirve para:
+A. Validar antes de produccion.
+B. Saltar pruebas.
+C. Sustituir auditoria.
+D. Publicar datos reales sin control.
+
+56. Un rollback es:
+A. Contrato menor.
+B. Registro de entrada.
+C. Reversion a estado/version anterior.
+D. Firewall.
+
+57. Las pruebas unitarias validan:
+A. Todo el organismo.
+B. Componentes pequeños/funciones.
+C. Solo accesibilidad.
+D. Solo CPD.
+
+58. Las pruebas de carga sirven para:
+A. Evaluar comportamiento bajo demanda/concurrencia.
+B. Firmar documentos.
+C. Normalizar datos.
+D. Gestionar EBEP.
+
+59. Accesibilidad web implica:
+A. Solo colores bonitos.
+B. Solo marketing.
+C. Posibilidad de uso por personas con discapacidad.
+D. Solo velocidad.
+
+60. WCAG se relaciona con:
+A. ENS.
+B. Accesibilidad web.
+C. SQL.
+D. DHCP.
+
+
+============================================================
+ARQUITECTURA Y OPERACION
+============================================================
+
+61. Un monolito:
+A. Puede ser simple, pero puede dificultar evolucion/escalado.
+B. Siempre esta prohibido.
+C. Siempre es inseguro.
+D. No puede tener capas.
+
+62. Microservicios:
+A. Reducen siempre complejidad.
+B. No necesitan observabilidad.
+C. Permiten despliegue/escalado granular con mayor complejidad operativa.
+D. Sustituyen pruebas.
+
+63. Arquitectura por capas separa:
+A. Solo redes fisicas.
+B. Presentacion, negocio, datos e integracion, entre otras.
+C. Solo contratos.
+D. Solo roles EBEP.
+
+64. Event-driven se basa en:
+A. Comunicacion asincrona mediante eventos.
+B. Solo SQL.
+C. Solo SOAP.
+D. Solo carpetas.
+
+65. Observabilidad en microservicios es:
+A. Innecesaria.
+B. Solo estetica.
+C. Critica por distribucion y trazabilidad.
+D. Ilegal.
+
+66. Una CMDB almacena:
+A. Datos de ciudadanos necesariamente.
+B. Activos/configuraciones y relaciones.
+C. Solo PDFs.
+D. Solo claves.
+
+67. Gestion de cambios busca:
+A. Controlar riesgos de modificaciones.
+B. Cambiar sin pruebas.
+C. Eliminar aprobaciones.
+D. Saltar seguridad.
+
+68. Una incidencia es:
+A. Causa raiz.
+B. Contrato.
+C. Interrupcion o degradacion de servicio.
+D. Catalogo.
+
+69. Un problema es:
+A. SLA.
+B. Causa subyacente de incidencias.
+C. Firewall.
+D. Metodo HTTP.
+
+70. Un SLA debe ser:
+A. Medible y verificable.
+B. Secreto.
+C. Vago.
+D. Posterior al contrato.
+
+
+============================================================
+SEGURIDAD Y SECTOR PUBLICO
+============================================================
+
+71. Minimo privilegio significa:
+A. Dar todos los permisos.
+B. No autenticar.
+C. Conceder solo permisos necesarios.
+D. Compartir usuario root.
+
+72. MFA mejora:
+A. Almacenamiento.
+B. Autenticacion.
+C. DNS.
+D. SQL.
+
+73. Cifrado en reposo protege:
+A. Datos almacenados.
+B. Solo paquetes en transito.
+C. Solo formularios.
+D. Solo contratos.
+
+74. Cifrado en transito protege:
+A. Datos impresos.
+B. Datos almacenados exclusivamente.
+C. Comunicaciones.
+D. Nominas.
+
+75. Bastionado:
+A. Aumenta puertos abiertos.
+B. Reduce superficie de ataque.
+C. Elimina logs.
+D. Evita parches.
+
+76. Gestion de vulnerabilidades implica:
+A. Identificar, priorizar y corregir/mitigar vulnerabilidades.
+B. Ignorarlas.
+C. Publicar credenciales.
+D. No inventariar.
+
+77. Un inventario de activos es:
+A. Opcional sin valor.
+B. Solo financiero.
+C. Base para seguridad, operacion y riesgos.
+D. Sustituto de backups.
+
+78. Separacion de entornos evita:
+A. Todo riesgo legal.
+B. Mezclar desarrollo/pruebas/produccion indebidamente.
+C. La necesidad de pruebas.
+D. El uso de APIs.
+
+79. Usar datos reales en desarrollo:
+A. Requiere control, minimizacion/anonimizacion o justificacion.
+B. Siempre es libre.
+C. Sustituye RGPD.
+D. Elimina ENS.
+
+80. Trazabilidad permite:
+A. Ocultar actuaciones.
+B. Saltar auditorias.
+C. Saber quien hizo que, cuando y desde donde.
+D. Reducir calidad.
+
+
+============================================================
+MIX FINAL
+============================================================
+
+81. La portabilidad cloud ayuda a:
+A. Dependencia del proveedor.
+B. Mover datos/servicios con menor bloqueo.
+C. Eliminar seguridad.
+D. Evitar SLAs.
+
+82. Un balanceador reparte:
+A. Trafico/carga entre servidores.
+B. Contratos.
+C. Expedientes juridicos.
+D. Roles RGPD.
+
+83. Una cola de mensajes ayuda a:
+A. Eliminar integraciones.
+B. Hacer solo SQL.
+C. Desacoplar procesos asincronos.
+D. Sustituir TLS.
+
+84. JSON es:
+A. Protocolo de routing.
+B. Formato ligero de intercambio de datos.
+C. Sistema operativo.
+D. Norma EBEP.
+
+85. XML es:
+A. Lenguaje/formato marcado estructurado.
+B. VPN.
+C. Firewall.
+D. SLA.
+
+86. Un certificado digital ayuda a:
+A. Normalizar bases.
+B. Gestionar CSS.
+C. Autenticidad/firma/cifrado segun uso.
+D. Crear VLAN.
+
+87. Un error 5xx HTTP indica normalmente:
+A. Error de cliente.
+B. Error de servidor.
+C. Redireccion.
+D. Exito.
+
+88. Un error 4xx HTTP indica normalmente:
+A. Error de cliente.
+B. Exito.
+C. Error de servidor siempre.
+D. DNS correcto.
+
+89. GET debe usarse normalmente para:
+A. Crear recursos con efectos laterales.
+B. Borrar datos.
+C. Obtener recursos sin efectos laterales significativos.
+D. Confirmar transacciones bancarias.
+
+90. POST se usa habitualmente para:
+A. Solo leer cache.
+B. Crear/enviar procesamiento de recursos.
+C. Resolver DNS.
+D. Sincronizar NTP.
+
+91. RBAC significa:
+A. Control de acceso basado en roles.
+B. Backup remoto anual completo.
+C. Registro bajo autorizacion contractual.
+D. Router de baja actividad.
+
+92. ABAC significa:
+A. Solo roles.
+B. Solo backups.
+C. Control de acceso basado en atributos.
+D. API sin seguridad.
+
+93. DLP se orienta a:
+A. Contratacion.
+B. Prevencion/control de fuga de informacion.
+C. Diseño visual.
+D. Routing.
+
+94. Una API sin versionado:
+A. Puede romper consumidores al cambiar.
+B. Es siempre mejor.
+C. No necesita documentacion.
+D. Sustituye gateway.
+
+95. Un contrato TIC debe exigir:
+A. Solo precio.
+B. Solo marca.
+C. Seguridad, SLAs, documentacion, transferencia y reversibilidad.
+D. Ningun entregable.
+
+96. ENI en integracion exige pensar en:
+A. Solo servidores.
+B. Interoperabilidad organizativa, semantica y tecnica.
+C. Solo TLS.
+D. Solo UI.
+
+97. ENS en sistemas tecnicos exige:
+A. Seguridad basada en riesgos y medidas proporcionales.
+B. Solo antivirus.
+C. Solo contraseñas.
+D. Nada en cloud.
+
+98. En una respuesta A1, cloud debe incluir:
+A. Solo escalabilidad.
+B. Solo ahorro.
+C. ENS, RGPD, reversibilidad, SLAs, seguridad y gobierno.
+D. Solo marca.
+
+99. En datos publicos, gobierno del dato incluye:
+A. Calidad, catalogo, metadatos, linaje y responsables.
+B. Solo tablas.
+C. Solo dashboards.
+D. Solo exportar CSV.
+
+100. Una buena arquitectura publica debe equilibrar:
+A. Servicio publico, seguridad, interoperabilidad, accesibilidad, operacion y cumplimiento.
+B. Solo moda tecnologica.
+C. Solo velocidad.
+D. Solo precio.
