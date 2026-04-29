@@ -1,0 +1,110 @@
+### Mapa de produccion de material - Opoplatform
+Fecha: 29/04/2026
+
+Objetivo:
+Ordenar el crecimiento del repositorio. Cada bloque debe terminar con:
+- Ficha teorica.
+- Tabla de memoria.
+- Test.
+- Mini supuesto o supuesto.
+- Respuesta modelo si aplica.
+
+
+============================================================
+ESTADO GENERAL
+============================================================
+
+| Bloque | Estado | Archivos existentes | Falta |
+|---|---|---|---|
+| Fuentes/convocatorias | Avanzado | fuentes_actualizadas_2026, seguimiento_convocatorias_2026 | Revisiones periodicas |
+| Estrategia C1/A2/A1 | Avanzado | matriz_decision, opo1/opo2/opo3 | Ajustar tras temario completo |
+| Normativa 39/40 | Medio-alto | fichas_ley_39_40_admon_digital | Mas test y articulos/plazos |
+| ENS | Medio-alto | tabla_ens | Casos especificos y test ampliado |
+| ENI | Medio | fichas_ley_39_40_admon_digital | Tabla NTI completa |
+| Constitucion/EBEP | Medio | fichas_constitucion_ebep | Test ampliado y plazos/derechos |
+| RGPD/LOPDGDD | Medio | fichas_rgpd_lopdgdd | Casos y tabla de bases juridicas |
+| Contratacion TIC | Medio | fichas_contratacion_publica_tic | Plantilla PPT/PCAP mas detallada |
+| Sistemas/redes/cloud | Medio | fichas_tecnicas_nucleo_tic | Profundizar por tema |
+| Desarrollo/datos/IA | Medio | fichas_tecnicas_nucleo_tic | Profundizar Java/.NET/web/datos |
+| Supuestos | Medio-alto | banco_supuestos, respuestas_modelo, plantillas | Aumentar a 30 supuestos |
+| Test | Inicial | banco_test_inicial_100 | Llegar a 500 preguntas |
+| Memoria | Inicial | glosario, mnemotecnias | Tarjetas y repasos espaciados |
+| Control de estudio | Medio | calendario_12_semanas, control_estudio | Cuadro mensual y revision |
+
+
+============================================================
+ORDEN DE PRODUCCION RECOMENDADO
+============================================================
+
+Fase 1 - Cerrar nucleo administrativo:
+1. tabla_plazos_ley_39.txt
+2. tabla_eni_nti.txt
+3. fichas_rd_203_2021.txt
+4. test_normativa_200.txt
+
+Fase 2 - Cerrar seguridad/datos:
+5. casos_ens_rgpd.txt
+6. tabla_bases_juridicas_rgpd_sector_publico.txt
+7. test_ens_rgpd_150.txt
+
+Fase 3 - Cerrar tecnica comun:
+8. fichas_redes_detalladas.txt
+9. fichas_sistemas_cloud_detalladas.txt
+10. fichas_bases_datos_sql.txt
+11. fichas_desarrollo_web_apis.txt
+12. test_tecnico_200.txt
+
+Fase 4 - Cerrar gestion A1/A2:
+13. plantilla_ppt_tic.txt
+14. fichas_itil_cobit_calidad.txt
+15. fichas_direccion_proyectos.txt
+16. fichas_gobernanza_tic_age.txt
+
+Fase 5 - Practica intensiva:
+17. banco_supuestos_30.txt
+18. respuestas_modelo_10_nuevas.txt
+19. simulacro_a2_1.txt
+20. simulacro_a1_1.txt
+
+
+============================================================
+CRITERIOS DE CALIDAD POR ARCHIVO
+============================================================
+
+Una ficha buena debe tener:
+- Idea fuerza.
+- Conceptos clave.
+- Relacion con sistemas publicos.
+- Trampas de test.
+- Frase reutilizable.
+- Mini test.
+
+Un supuesto bueno debe tener:
+- Enunciado realista.
+- Puntos esperados.
+- Normativa aplicable.
+- Arquitectura/solucion.
+- Riesgos.
+- Indicadores.
+- Respuesta modelo.
+
+Un test bueno debe tener:
+- Preguntas no obvias.
+- Distractores plausibles.
+- Clave de respuestas.
+- Bloque identificado.
+- Explicacion en los fallos dificiles, al menos en una segunda version.
+
+
+============================================================
+PROXIMOS 5 ARCHIVOS A CREAR
+============================================================
+
+1. tabla_plazos_ley_39.txt
+2. tabla_eni_nti.txt
+3. fichas_rd_203_2021.txt
+4. casos_ens_rgpd.txt
+5. plantilla_ppt_tic.txt
+
+Razon:
+Estos cinco hacen que el material pase de "base muy buena" a "preparacion defendible en supuesto practico".

@@ -860,6 +860,46 @@ Contiene:
 - Mnemotecnias ENI.
 - Mnemotecnias para supuestos, contratacion, incidentes, cloud y expediente electronico.
 
+18. seguimiento_convocatorias_2026.txt
+Contiene:
+- Estado vivo de A1 TIC, A2 GSI y C1 TAI a 29/04/2026.
+- Fechas de convocatorias, inscripcion, admitidos/excluidos y subsanacion.
+- Enlaces BOE/INAP.
+- Rutina de revision de convocatorias.
+
+19. mapa_produccion_material.txt
+Contiene:
+- Estado general del material.
+- Orden recomendado de produccion.
+- Criterios de calidad por ficha, supuesto y test.
+- Proximos archivos a crear.
+
+20. tabla_plazos_ley_39.txt
+Contiene:
+- Computo de plazos.
+- Tabla de plazos frecuentes.
+- Silencio administrativo.
+- Notificaciones y plazos.
+- Errores de examen.
+- Mini test.
+
+21. tabla_eni_nti.txt
+Contiene:
+- Idea central del ENI.
+- Dimensiones de interoperabilidad.
+- NTI imprescindibles para oposiciones.
+- Documento, expediente, digitalizacion, copiado autentico e intercambio de datos.
+- Mini test.
+
+22. fichas_rd_203_2021.txt
+Contiene:
+- RD 203/2021 como puente entre Ley 39/2015, Ley 40/2015 y sistemas reales.
+- Materias conectadas.
+- Uso en supuestos.
+- Arquitectura tipo.
+- Trampas de examen.
+- Mini test.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

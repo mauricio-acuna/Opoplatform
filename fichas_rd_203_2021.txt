@@ -1,0 +1,127 @@
+### RD 203/2021 - Actuacion y funcionamiento del sector publico por medios electronicos
+Fecha de trabajo: 29/04/2026
+
+Fuente:
+- BOE-A-2021-5032: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-5032
+
+
+============================================================
+1. IDEA FUERZA
+============================================================
+
+El RD 203/2021 desarrolla la actuacion y funcionamiento electronico del sector publico. Es el puente practico entre Ley 39/2015, Ley 40/2015 y los sistemas que hay que construir.
+
+En examen:
+- Ley 39/2015: procedimiento.
+- Ley 40/2015: regimen juridico/funcionamiento.
+- RD 203/2021: como se articula la actuacion electronica.
+
+Frase reutilizable:
+"Ademas de las Leyes 39/2015 y 40/2015, aplicaria el RD 203/2021 para concretar el funcionamiento electronico del sector publico, especialmente en sede, registro, identificacion, firma, notificaciones, expediente y servicios electronicos."
+
+
+============================================================
+2. MATERIAS QUE CONECTA
+============================================================
+
+| Materia | Conexion con sistemas |
+|---|---|
+| Sede electronica | Punto juridico de relacion electronica con ciudadanos. |
+| Portal de internet | Informacion institucional y acceso a servicios. |
+| Registro electronico | Entrada/salida de solicitudes, escritos y comunicaciones. |
+| Identificacion y firma | Acceso seguro y validez de actuaciones. |
+| Notificaciones electronicas | Puesta a disposicion, evidencias y plazos. |
+| Expediente electronico | Tramitacion ordenada, documentos, indice y archivo. |
+| Carpeta ciudadana | Relacion integrada del ciudadano con la Administracion. |
+| Actuacion automatizada | Actos producidos por sistemas con garantias. |
+| Archivo electronico | Conservacion y recuperacion documental. |
+
+
+============================================================
+3. COMO USARLO EN SUPUESTOS
+============================================================
+
+Sede electronica:
+"El diseño se ajustara al RD 203/2021 en cuanto a sede, servicios electronicos, identificacion, firma, registro, notificaciones y acceso del interesado."
+
+Registro:
+"El registro electronico debera generar recibo, fecha/hora, asiento, organo destinatario e integrarse con expediente y SIR cuando proceda."
+
+Notificaciones:
+"La notificacion electronica se gestionara con puesta a disposicion, aviso no constitutivo, evidencia de acceso/rechazo y computo de plazos."
+
+Expediente:
+"El expediente debe integrar documentos, indice, metadatos, firmas, trazabilidad y archivo, aplicando Ley 39/2015, ENI y RD 203/2021."
+
+
+============================================================
+4. ARQUITECTURA TIPO RD 203/2021
+============================================================
+
+Capas:
+1. Portal informativo.
+2. Sede electronica.
+3. Identidad y firma.
+4. Registro electronico.
+5. Gestor de expedientes.
+6. Gestor documental/archivo.
+7. Notificaciones.
+8. Interoperabilidad/datos.
+9. Seguridad ENS.
+10. Monitorizacion y soporte.
+
+Idea:
+El RD 203/2021 ayuda a justificar por que todas estas piezas no son caprichos tecnicos, sino elementos del funcionamiento electronico.
+
+
+============================================================
+5. TRAMPAS DE EXAMEN
+============================================================
+
+1. Citar solo Ley 39/2015 y olvidar RD 203/2021 en administracion electronica.
+2. Confundir portal y sede.
+3. Diseñar formularios sin registro.
+4. Mandar emails como notificacion.
+5. Crear PDFs sin expediente/documento interoperable.
+6. Automatizar sin organo responsable ni trazabilidad.
+7. No integrar archivo electronico.
+
+
+============================================================
+6. MINI TEST
+============================================================
+
+1. El RD 203/2021 desarrolla principalmente:
+A. Funcionamiento electronico del sector publico.
+B. Solo regimen disciplinario.
+C. Solo contratos.
+D. Solo oposiciones.
+Respuesta: A.
+
+2. En administracion electronica, RD 203/2021 conecta especialmente con:
+A. Ley 39/2015 y Ley 40/2015.
+B. Solo Codigo Civil.
+C. Solo normativa penal.
+D. Solo convenios privados.
+Respuesta: A.
+
+3. En un supuesto de sede electronica, RD 203/2021 se usa para:
+A. Justificar elementos de funcionamiento electronico.
+B. Elegir color corporativo.
+C. Evitar ENS.
+D. Sustituir RGPD.
+Respuesta: A.
+
+4. Una notificacion electronica requiere:
+A. Solo email.
+B. Puesta a disposicion, evidencias y computo de plazos.
+C. Solo llamada telefonica.
+D. Ninguna trazabilidad.
+Respuesta: B.
+
+5. La arquitectura de tramitacion electronica debe integrar:
+A. Sede, identidad, registro, expediente, notificaciones, archivo, seguridad e interoperabilidad.
+B. Solo web estatica.
+C. Solo correo.
+D. Solo hojas de calculo.
+Respuesta: A.

@@ -24,6 +24,9 @@ Datos clave:
 Seguimiento 2026:
 - BOE-A-2026-7228: Resolucion de 25 de marzo de 2026, publicada el 30 de marzo de 2026, designando tribunal calificador.
 - URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7228
+- BOE-A-2026-7229: Resolucion de 25 de marzo de 2026, publicada el 30 de marzo de 2026, relacion provisional de personas admitidas/excluidas y anuncio del lugar del primer ejercicio.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7229
+- INAP A1 ingreso libre: https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-superior-de-sistemas-y-tecnologias-de-la-informacion-de-la-administracion-del-estado-ingreso-libre-convocatoria-2024-2025
 
 Temas especialmente relevantes citados en la convocatoria A1:
 - Gobernanza TIC en AGE.
@@ -44,6 +47,8 @@ Fuente:
 - BOE-A-2025-26262
 - Resolucion de 18 de diciembre de 2025, publicada el 22 de diciembre de 2025.
 - URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+- INAP A2 ingreso libre: https://sede.inap.gob.es/en/node/734
+- INAP A2 promocion interna: https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-de-gestion-de-sistemas-e-informatica-de-la-administracion-del-estado-promocion-interna-convocatoria-2025
 
 Datos clave:
 - 680 plazas de turno libre.
@@ -66,6 +71,8 @@ Fuente:
 - BOE-A-2025-26262
 - Resolucion de 18 de diciembre de 2025, publicada el 22 de diciembre de 2025.
 - URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+- INAP C1 ingreso libre: https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-de-tecnicos-auxiliares-de-informatica-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025
+- INAP C1 indice: https://sede.inap.gob.es/tai
 
 Datos clave:
 - 1.030 plazas de ingreso libre.

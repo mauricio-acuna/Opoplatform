@@ -1,0 +1,131 @@
+### Seguimiento de convocatorias TIC AGE 2026
+Fecha de revision: 29/04/2026
+
+Objetivo:
+Mantener separada la situacion viva de las convocatorias respecto al material teorico. Esto evita estudiar con fechas antiguas o perder plazos.
+
+
+============================================================
+A1 TIC - CUERPO SUPERIOR DE SISTEMAS Y TECNOLOGIAS
+============================================================
+
+Convocatoria:
+- Resolucion de 16/12/2025.
+- Publicacion BOE: 18/12/2025.
+- Referencia: BOE-A-2025-25938.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-25938
+
+Plazas:
+- Acceso libre: 290.
+- Promocion interna: 100.
+
+Inscripcion:
+- Del 19/12/2025 al 20/01/2026, ambos inclusive.
+
+Estado visto en INAP/BOE:
+- Tribunal calificador designado por resolucion de 25/03/2026.
+- Publicacion BOE: 30/03/2026.
+- Referencia: BOE-A-2026-7228.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7228
+
+- Relacion provisional de admitidos y excluidos aprobada por resolucion de 25/03/2026.
+- Publicacion BOE: 30/03/2026.
+- Referencia: BOE-A-2026-7229.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7229
+
+- INAP indica plazo de subsanacion del 31/03/2026 al 15/04/2026.
+
+Riesgo operativo:
+- Si no se entro en plazo de inscripcion, esta convocatoria sirve como guia real de temario, estructura y tiempos, pero no como objetivo de presentacion.
+
+Accion:
+- Usar convocatoria A1 2025 como base de temario.
+- Descargar/archivar listados, instrucciones y anuncios del INAP si se va a concurrir.
+- Revisar periodicamente INAP para fecha del primer ejercicio y listados definitivos.
+
+
+============================================================
+A2 GSI - GESTION DE SISTEMAS E INFORMATICA
+============================================================
+
+Convocatoria:
+- Resolucion de 18/12/2025.
+- Publicacion BOE: 22/12/2025.
+- Referencia: BOE-A-2025-26262.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+
+Plazas:
+- Acceso libre: 680.
+- Promocion interna: 520.
+
+Inscripcion:
+- Del 23/12/2025 al 22/01/2026, ambos inclusive.
+
+Estado visto en INAP:
+- Resolucion de 12/03/2026 del INAP con relaciones provisionales de admitidos/excluidos y anuncio de fecha/lugar de ejercicios.
+- Publicacion en INAP: 17/03/2026.
+- Subsanacion indicada por INAP: del 18/03/2026 al 31/03/2026.
+
+Accion:
+- Usar esta convocatoria como referencia principal A2.
+- Priorizar test + supuesto practico.
+- Revisar en INAP listados definitivos y fechas de ejercicio.
+
+
+============================================================
+C1 TAI - TECNICOS AUXILIARES DE INFORMATICA
+============================================================
+
+Convocatoria:
+- Resolucion de 18/12/2025.
+- Publicacion BOE: 22/12/2025.
+- Referencia: BOE-A-2025-26262.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+
+Plazas:
+- Ingreso libre: 1.030.
+- Promocion interna: 340.
+
+Inscripcion:
+- Del 23/12/2025 al 22/01/2026, ambos inclusive.
+
+Estado visto en INAP:
+- Resolucion de 12/03/2026 del INAP con relaciones provisionales de admitidos/excluidos y anuncio de lugar de celebracion.
+- Publicacion en INAP: 17/03/2026.
+- Subsanacion indicada por INAP: del 18/03/2026 al 31/03/2026.
+
+Accion:
+- Usar como plan de entrada/seguridad.
+- Priorizar test, definiciones, sistemas, redes, bases de datos y administracion electronica.
+
+
+============================================================
+RUTINA DE REVISION DE CONVOCATORIAS
+============================================================
+
+Frecuencia:
+- 2 veces por semana si hay proceso abierto.
+- 1 vez por semana si se estudia para siguiente convocatoria.
+
+Mirar:
+- BOE.
+- Sede INAP.
+- Punto de Acceso General si procede.
+- Carpeta Ciudadana si hay notificaciones personales.
+
+Registrar:
+- Fecha de revision.
+- Novedad.
+- Enlace.
+- Accion pendiente.
+
+
+============================================================
+BITACORA
+============================================================
+
+29/04/2026:
+- Revisado INAP/BOE.
+- A1: convocatoria 18/12/2025, tribunal y admitidos/excluidos provisionales publicados 30/03/2026.
+- A2/C1: convocatoria 22/12/2025, admitidos/excluidos provisionales publicados en INAP 17/03/2026.
+- Plazos de subsanacion ya vencidos a fecha de revision.

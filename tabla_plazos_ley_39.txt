@@ -1,0 +1,142 @@
+### Tabla de plazos y reglas clave - Ley 39/2015
+Fecha de trabajo: 29/04/2026
+
+Fuente:
+- Ley 39/2015 consolidada BOE: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
+
+Nota:
+Esta tabla es de estudio. Antes de un examen o recurso real, contrastar siempre el texto consolidado BOE y la convocatoria.
+
+
+============================================================
+1. COMPUTO DE PLAZOS - IDEAS CLAVE
+============================================================
+
+Reglas que hay que dominar:
+- Los plazos pueden señalarse por horas, dias, meses o años.
+- Salvo que una ley o el Derecho de la Union Europea disponga otro computo, cuando los plazos se señalen por dias se entiende que son habiles.
+- Se excluyen del computo sabados, domingos y festivos cuando se habla de dias habiles.
+- Si el plazo se fija en meses o años, se computa desde el dia siguiente a la notificacion/publicacion o desde el dia siguiente a aquel en que se produzca silencio administrativo.
+- Si en el mes de vencimiento no hubiera dia equivalente, se entiende que el plazo expira el ultimo dia del mes.
+- Cuando el ultimo dia sea inhabil, se prorroga al primer dia habil siguiente.
+
+Frase de examen:
+"El sistema debe implementar computo de plazos conforme a la Ley 39/2015, distinguiendo dias habiles/naturales, meses/años, calendarios de dias inhabiles y efectos de notificacion o silencio."
+
+
+============================================================
+2. TABLA DE PLAZOS FRECUENTES
+============================================================
+
+| Materia | Plazo | Idea para memorizar | Uso TIC |
+|---|---:|---|---|
+| Subsanacion de solicitudes | 10 dias | Falta algo: 10 dias para corregir | Workflow debe abrir tarea y controlar vencimiento. |
+| Ampliacion de plazos | No exceder de la mitad del plazo inicial | Ampliar, pero no duplicar | Parametrizar limites y motivacion. |
+| Tramitacion de urgencia | Plazos reducidos a la mitad, salvo presentacion de solicitudes y recursos | Urgencia parte plazos por dos | Motor de expedientes debe soportar modo urgencia. |
+| Alegaciones en tramite de audiencia | 10 a 15 dias | Audiencia: ventana corta | Gestionar notificacion y recepcion de alegaciones. |
+| Informes no vinculantes | 10 dias salvo disposicion distinta | Informe estandar: 10 dias | Tareas internas con vencimiento. |
+| Resolucion expresa | Plazo maximo fijado por norma del procedimiento | Cada procedimiento debe tener SLA legal | Catalogo de procedimientos parametrizado. |
+| Plazo maximo si norma no fija | 3 meses | Si no dice nada: 3 meses | Parametro por defecto del procedimiento. |
+| Recurso de alzada | 1 mes si acto expreso | Alzada expresa: 1 mes | Calculo desde notificacion. |
+| Recurso de alzada si acto presunto | En cualquier momento desde silencio | Presunto: abierto desde silencio | Control especial en sistema. |
+| Resolucion recurso de alzada | 3 meses | Alzada se resuelve en 3 meses | Control de vencimiento. |
+| Recurso potestativo de reposicion | 1 mes si acto expreso | Reposicion expresa: 1 mes | Calculo desde notificacion. |
+| Reposicion si acto presunto | En cualquier momento desde silencio | Presunto: abierto | Control especial. |
+| Resolucion reposicion | 1 mes | Reposicion se resuelve rapido | SLA legal. |
+| Recurso extraordinario de revision | Segun causa: 4 años o 3 meses | Depende de causa | Requiere clasificacion de motivo. |
+
+
+============================================================
+3. SILENCIO ADMINISTRATIVO - REGLA DE ESTUDIO
+============================================================
+
+Idea general:
+- En procedimientos iniciados a solicitud del interesado, el vencimiento del plazo maximo sin resolucion expresa legitima al interesado para entender estimada o desestimada su solicitud segun corresponda.
+- La regla general tiende a ser estimatoria, pero hay excepciones importantes.
+- En procedimientos iniciados de oficio hay que distinguir efectos desfavorables/sancionadores y favorables.
+
+Trampa:
+No responder "el silencio siempre es positivo". Es una trampa clasica.
+
+Aplicacion TIC:
+- El gestor de expedientes debe conocer plazo maximo, fecha de inicio, suspensiones, ampliaciones, calendario y sentido del silencio por procedimiento.
+- Debe alertar antes del vencimiento.
+- Debe generar trazabilidad de suspensiones y reanudaciones.
+
+
+============================================================
+4. NOTIFICACIONES Y PLAZOS
+============================================================
+
+Ideas clave:
+- La notificacion debe permitir constancia de puesta a disposicion, acceso/rechazo y fecha/hora relevante.
+- El aviso por correo/dispositivo no sustituye la notificacion.
+- En electronico, el sistema debe registrar evidencias para computo de plazos.
+
+Requisitos TIC:
+- Sello de tiempo.
+- Logs protegidos.
+- Estado de notificacion.
+- Integracion con expediente.
+- Alertas de vencimiento.
+- Acceso por representante si procede.
+
+
+============================================================
+5. ERRORES DE EXAMEN
+============================================================
+
+1. Confundir dias habiles con naturales.
+2. Olvidar sabados como inhabiles.
+3. Decir que el silencio siempre es positivo.
+4. Calcular recursos igual para acto expreso y presunto.
+5. No contemplar suspension o ampliacion.
+6. Tratar el email de aviso como notificacion completa.
+7. Diseñar un expediente sin motor de plazos.
+
+
+============================================================
+6. MINI TEST
+============================================================
+
+1. Si los plazos se señalan por dias, salvo disposicion contraria, se entiende que son:
+A. Naturales.
+B. Habiles.
+C. Festivos.
+D. Siempre de 30 dias.
+Respuesta: B.
+
+2. En dias habiles se excluyen:
+A. Solo domingos.
+B. Sabados, domingos y festivos.
+C. Solo festivos nacionales.
+D. Ningun dia.
+Respuesta: B.
+
+3. El plazo general maximo para resolver si la norma del procedimiento no fija otro es:
+A. 1 mes.
+B. 3 meses.
+C. 6 meses.
+D. 1 año.
+Respuesta: B.
+
+4. El recurso de alzada contra acto expreso debe interponerse en:
+A. 10 dias.
+B. 15 dias.
+C. 1 mes.
+D. 3 meses.
+Respuesta: C.
+
+5. La tramitacion de urgencia implica:
+A. Eliminar todos los plazos.
+B. Reducir plazos a la mitad salvo excepciones.
+C. Duplicar plazos.
+D. Suspender el procedimiento.
+Respuesta: B.
+
+6. Un sistema de expedientes debe:
+A. No calcular plazos.
+B. Calcular plazos, alertas, suspensiones, ampliaciones y sentido del silencio.
+C. Usar solo emails.
+D. Evitar trazabilidad.
+Respuesta: B.

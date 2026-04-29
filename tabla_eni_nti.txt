@@ -1,0 +1,162 @@
+### ENI y Normas Tecnicas de Interoperabilidad
+Fecha de trabajo: 29/04/2026
+
+Fuentes:
+- RD 4/2010 ENI: https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331
+- Portal de administracion digital/NTI: contrastar denominaciones vigentes antes de examen.
+
+
+============================================================
+1. IDEA CENTRAL DEL ENI
+============================================================
+
+El Esquema Nacional de Interoperabilidad fija criterios y recomendaciones de seguridad, normalizacion y conservacion que deben tenerse en cuenta para garantizar la interoperabilidad entre Administraciones y con ciudadanos.
+
+Tres dimensiones:
+- Organizativa.
+- Semantica.
+- Tecnica.
+
+Frase de examen:
+"Aplicaria el ENI desde el diseño, contemplando interoperabilidad organizativa, semantica y tecnica, y usando las NTI para documento, expediente, firma, metadatos, digitalizacion, copiado, intercambio y conservacion."
+
+
+============================================================
+2. DIMENSIONES DE INTEROPERABILIDAD
+============================================================
+
+| Dimension | Que significa | Ejemplo en sistema publico |
+|---|---|---|
+| Organizativa | Entidades y procesos colaboran para prestar servicios. | Convenios, organos responsables, DIR3, procedimientos comunes. |
+| Semantica | La informacion intercambiada se entiende igual por sistemas distintos. | Modelos de datos, codigos comunes, metadatos, diccionarios. |
+| Tecnica | Sistemas pueden conectarse mediante estandares, interfaces y seguridad. | APIs, servicios web, certificados, redes, formatos, protocolos. |
+
+Trampa:
+Interoperabilidad no es solo "hacer una API". Si no hay acuerdo organizativo ni significado comun del dato, la API no resuelve el problema.
+
+
+============================================================
+3. NTI IMPRESCINDIBLES PARA OPOSICIONES
+============================================================
+
+| NTI / ambito | Para que sirve | Como citarla |
+|---|---|---|
+| Documento electronico | Estructura, componentes, firma, metadatos del documento. | "El documento se generara conforme a NTI de documento electronico." |
+| Expediente electronico | Estructura del expediente, indice, documentos y metadatos. | "El expediente debe incluir indice electronico y documentos asociados." |
+| Digitalizacion de documentos | Conversion de papel a electronico con garantias. | "La digitalizacion se realizara con metadatos, calidad y garantias de integridad." |
+| Procedimientos de copiado autentico | Copias electronicas autenticas y conversiones. | "Las copias autenticas se generaran conforme a NTI aplicable." |
+| Politica de firma y sello electronicos | Reglas para firmas, sellos y certificados. | "Se aplicara politica de firma para garantizar autenticidad e integridad." |
+| Catalogo de estandares | Estandares admitidos y criterios de seleccion. | "Se usaran formatos abiertos o estandares del catalogo cuando proceda." |
+| Intermediacion de datos | Intercambio de datos entre Administraciones. | "Se reducira aportacion documental mediante intermediacion con finalidad y trazabilidad." |
+| Reutilizacion de recursos de informacion | Publicacion/reutilizacion de informacion. | "Los datos abiertos se publicaran con formatos reutilizables y metadatos." |
+| Relacion de modelos de datos | Modelos comunes para intercambio. | "Se normalizaran estructuras de datos para interoperabilidad semantica." |
+
+
+============================================================
+4. DOCUMENTO ELECTRONICO
+============================================================
+
+Debe contemplar:
+- Contenido.
+- Firma o sello si procede.
+- Metadatos.
+- Formato.
+- Integridad.
+- Autenticidad.
+- Conservacion.
+
+Trampa:
+Un PDF subido a una carpeta no es automaticamente un documento electronico administrativo valido.
+
+
+============================================================
+5. EXPEDIENTE ELECTRONICO
+============================================================
+
+Debe contemplar:
+- Conjunto de documentos.
+- Indice electronico.
+- Metadatos.
+- Trazabilidad.
+- Firma del indice cuando proceda.
+- Remision interoperable.
+- Archivo/conservacion.
+
+Mnemotecnia:
+DIME FiTA:
+Documentos, Indice, Metadatos, Firma, Trazabilidad y Archivo.
+
+
+============================================================
+6. DIGITALIZACION Y COPIADO AUTENTICO
+============================================================
+
+Digitalizacion:
+- Captura de documento en papel.
+- Imagen electronica.
+- Metadatos.
+- Control de calidad.
+- Firma/sello si procede.
+- Integridad.
+
+Copiado autentico:
+- Genera copia con efectos juridicos.
+- Debe permitir verificar autenticidad.
+- Puede usar CSV/firma/sello segun caso.
+
+Trampa:
+Escanear no equivale siempre a digitalizar con validez administrativa.
+
+
+============================================================
+7. INTEROPERABILIDAD Y DATOS
+============================================================
+
+Aplicacion:
+- No pedir al ciudadano documentos ya disponibles si se puede consultar dato con base juridica.
+- Usar Plataforma de Intermediacion de Datos cuando proceda.
+- Registrar finalidad, organo solicitante, dato consultado y resultado.
+- Aplicar minimizacion RGPD y seguridad ENS.
+
+Frase de examen:
+"El intercambio de datos se realizara bajo finalidad concreta, base juridica, minimizacion, trazabilidad, seguridad ENS e interoperabilidad semantica y tecnica conforme al ENI."
+
+
+============================================================
+8. MINI TEST
+============================================================
+
+1. Las tres dimensiones del ENI son:
+A. Fisica, logica y economica.
+B. Organizativa, semantica y tecnica.
+C. Publica, privada y mixta.
+D. Hardware, software y datos.
+Respuesta: B.
+
+2. La interoperabilidad semantica busca:
+A. Que el dato sea interpretable de forma comun por sistemas.
+B. Que el cableado sea rapido.
+C. Que todos usen la misma marca.
+D. Que no haya metadatos.
+Respuesta: A.
+
+3. El expediente electronico debe incluir:
+A. Solo PDFs.
+B. Indice, documentos, metadatos y garantias de integridad/trazabilidad.
+C. Solo una base de datos.
+D. Solo emails.
+Respuesta: B.
+
+4. Escanear un documento:
+A. Siempre equivale a copia autentica.
+B. Nunca sirve.
+C. Debe cumplir requisitos de digitalizacion/copias si se quiere validez administrativa.
+D. Sustituye ENI.
+Respuesta: C.
+
+5. La interoperabilidad no es solo tecnica porque tambien requiere:
+A. Organizacion y significado comun de datos.
+B. Mas servidores.
+C. Solo firewalls.
+D. Solo Java.
+Respuesta: A.
