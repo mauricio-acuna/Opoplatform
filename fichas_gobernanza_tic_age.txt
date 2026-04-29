@@ -1,0 +1,214 @@
+### Gobernanza TIC AGE - RD 1125/2024
+Fecha de trabajo: 29/04/2026
+
+Fuente principal:
+- Real Decreto 1125/2024, de 5 de noviembre.
+- BOE-A-2024-22935.
+- URL: https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22935
+
+Nota:
+El RD 1125/2024 deroga el RD 806/2014. Para examen actual, el marco vigente de gobernanza TIC/Administracion Digital del Estado es RD 1125/2024.
+
+
+============================================================
+1. IDEA FUERZA
+============================================================
+
+El RD 1125/2024 regula un modelo comun de gobernanza TIC para la Administracion del Estado, orientado a transformar digitalmente los servicios publicos, coordinar inversiones, evitar duplicidades, impulsar medios y servicios comunes/transversales y mejorar eficacia, eficiencia, seguridad, interoperabilidad y calidad.
+
+Frase de examen:
+"La actuacion se encuadraria en el modelo comun de gobernanza TIC del RD 1125/2024, alineando la solucion con la Estrategia TIC, la coordinacion de la Agencia Estatal de Administracion Digital, la CMAD correspondiente y el uso de medios y servicios digitales comunes o transversales cuando proceda."
+
+
+============================================================
+2. OBJETO Y AMBITO
+============================================================
+
+Objeto:
+- Desarrollo de un modelo comun de gobernanza de las TIC en la Administracion General del Estado y sus organismos/entidades vinculados o dependientes.
+- Incluye definicion y ejecucion de una estrategia global de transformacion digital.
+- Busca uso adecuado de recursos informaticos para mejorar servicios a ciudadania, empresas y relacion digital con otras Administraciones.
+
+Ambito:
+- Administracion del Estado.
+- AGE, organismos publicos y entidades de Derecho publico vinculados o dependientes.
+
+
+============================================================
+3. ORGANOS Y PIEZAS CLAVE
+============================================================
+
+| Pieza | Papel | Como citarla |
+|---|---|---|
+| CETIC | Organo colegiado superior de estrategia TIC. | Fija lineas estrategicas, eleva Estrategia TIC, define prioridades. |
+| Agencia Estatal de Administracion Digital | Actor central de coordinacion/provision de servicios digitales comunes. | Coordina funcionalmente unidades TIC y servicios comunes/transversales. |
+| CMAD | Comision Ministerial de Administracion Digital. | Coordina necesidades digitales dentro de cada ministerio. |
+| CDTIC | Comite de Direccion TIC. | Coordinacion y colaboracion entre Agencia y resto de Administracion del Estado. |
+| Unidades TIC | Instrumentos sectoriales de transformacion digital. | Operan, desarrollan, dan soporte, seguridad, administracion digital e innovacion. |
+
+
+============================================================
+4. CETIC
+============================================================
+
+Funciones a recordar:
+- Fijar lineas estrategicas en materia TIC.
+- Aprobar propuesta de Estrategia TIC para elevarla.
+- Informar normas relevantes en materia TIC cuando proceda.
+- Definir prioridades de inversion TIC.
+- Declarar medios o servicios comunes digitales como transversales.
+- Impulsar colaboracion y cooperacion con otras Administraciones.
+
+En respuesta A1:
+"Una iniciativa de alto impacto debe alinearse con prioridades de la CETIC, especialmente si afecta a medios comunes, inversiones transversales o proyectos de interes prioritario."
+
+
+============================================================
+5. AGENCIA ESTATAL DE ADMINISTRACION DIGITAL
+============================================================
+
+Papel:
+- Entidad de Derecho publico adscrita al Ministerio para la Transformacion Digital y de la Funcion Publica.
+- Coordina funcionalmente unidades TIC en los terminos previstos.
+- Tiene papel central en servicios TIC comunes y transversales.
+- Actua conectada con el modelo de gobernanza y la Estrategia TIC.
+
+En respuesta:
+"Antes de crear una solucion aislada, verificaria si existe medio o servicio comun/transversal gestionado o coordinado por la Agencia, evitando duplicidades y favoreciendo reutilizacion."
+
+
+============================================================
+6. CMAD
+============================================================
+
+Papel:
+- Organo colegiado departamental.
+- Impulsa y coordina internamente la Administracion Digital en cada ministerio.
+- Estudia y planifica necesidades funcionales.
+- Evalua alternativas propuestas por unidades TIC.
+- Evita duplicidades.
+- Promueve comparticion de infraestructuras y uso de medios/servicios comunes y transversales.
+
+En supuesto:
+"La CMAD seria el foro natural para priorizar la necesidad, validar encaje departamental, coordinar areas funcionales y evitar soluciones duplicadas."
+
+
+============================================================
+7. UNIDADES TIC
+============================================================
+
+Funciones posibles:
+- Soporte, operacion, implementacion y gestion de sistemas/redes.
+- Desarrollo de aplicaciones multiusuario.
+- Consultoria informatica.
+- Seguridad de sistemas.
+- Atencion tecnica a usuarios.
+- Innovacion TIC.
+- Administracion digital.
+- Conformar voluntad de adquisicion de bienes/servicios TIC.
+
+Traduccion practica:
+Las unidades TIC no son solo "soporte". Son palanca de transformacion digital sectorial y deben conectar necesidad funcional con solucion tecnologica, seguridad, operacion y contratacion.
+
+
+============================================================
+8. ESTRATEGIA TIC
+============================================================
+
+Contenido:
+- Objetivos.
+- Principios.
+- Acciones para administracion digital y transformacion digital.
+
+Uso en examen:
+"La solucion se justificara no solo por eficiencia tecnica, sino por alineacion con la Estrategia TIC, racionalizacion de recursos, servicios comunes, seguridad, interoperabilidad y mejora del servicio publico."
+
+
+============================================================
+9. MEDIOS Y SERVICIOS DIGITALES COMUNES / TRANSVERSALES
+============================================================
+
+Idea:
+Determinados medios o servicios comunes digitales pueden declararse transversales cuando responden a necesidades de muchas unidades administrativas y ayudan a transformar la Administracion en mejores condiciones de eficacia y eficiencia.
+
+Ejemplos a citar con cautela:
+- Identificacion/autenticacion.
+- Registro.
+- Notificaciones.
+- Intermediacion de datos.
+- Carpeta ciudadana.
+- Servicios de firma/verificacion.
+
+Trampa:
+No diseñar desde cero lo que ya existe como servicio comun o transversal si puede reutilizarse.
+
+
+============================================================
+10. PROYECTOS DE INTERES PRIORITARIO
+============================================================
+
+Idea:
+La CETIC puede declarar proyectos de singular relevancia como de interes prioritario.
+
+Uso:
+En respuestas A1, mencionar si el supuesto tiene impacto transversal, alto presupuesto, afectacion ciudadana masiva, interoperabilidad estatal o transformacion relevante.
+
+
+============================================================
+11. RESPUESTA MODELO CORTA
+============================================================
+
+"Para abordar el proyecto, lo enmarcaria en el RD 1125/2024, que establece el modelo comun de gobernanza TIC de la Administracion del Estado. La necesidad funcional se analizaria en el ambito departamental mediante la CMAD y la unidad TIC correspondiente, verificando alineacion con la Estrategia TIC y con las prioridades de la CETIC. Antes de desarrollar o contratar una solucion aislada, comprobaria la existencia de medios o servicios digitales comunes o transversales, coordinados por la Agencia Estatal de Administracion Digital, para favorecer reutilizacion, eficiencia, interoperabilidad y control del gasto. El proyecto se gobernaria con indicadores, seguridad ENS, interoperabilidad ENI, proteccion de datos y criterios de continuidad y calidad del servicio publico."
+
+
+============================================================
+12. TRAMPAS DE EXAMEN
+============================================================
+
+1. Citar RD 806/2014 como vigente.
+2. Olvidar RD 1125/2024 en gobernanza TIC actual.
+3. Diseñar soluciones aisladas sin verificar servicios comunes/transversales.
+4. Presentar la unidad TIC como mero soporte.
+5. No mencionar CMAD en proyectos ministeriales.
+6. No conectar inversion TIC con estrategia, prioridades y eficiencia.
+7. Confundir administracion digital con simple digitalizacion de papel.
+
+
+============================================================
+13. MINI TEST
+============================================================
+
+1. El RD 1125/2024:
+A. Deroga el RD 806/2014.
+B. Regula solo vacaciones.
+C. Sustituye al RGPD.
+D. Elimina la gobernanza TIC.
+Respuesta: A.
+
+2. La CETIC es:
+A. Organo colegiado superior de estrategia TIC en la Administracion del Estado.
+B. Un lenguaje de programacion.
+C. Un tipo de base de datos.
+D. Una notificacion electronica.
+Respuesta: A.
+
+3. La CMAD actua principalmente en:
+A. Ambito departamental/ministerial.
+B. Ambito penal.
+C. Ambito judicial privado.
+D. Ambito domestico.
+Respuesta: A.
+
+4. Antes de crear una solucion nueva, conviene:
+A. Verificar servicios comunes/transversales reutilizables.
+B. Ignorar la Agencia.
+C. Evitar interoperabilidad.
+D. No documentar.
+Respuesta: A.
+
+5. Las unidades TIC:
+A. Solo arreglan impresoras.
+B. Son instrumentos de transformacion digital sectorial, soporte, desarrollo, seguridad, administracion digital e innovacion.
+C. No participan en adquisiciones TIC.
+D. No tienen relacion con servicios digitales.
+Respuesta: B.

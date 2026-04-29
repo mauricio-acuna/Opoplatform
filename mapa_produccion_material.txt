@@ -22,8 +22,9 @@ ESTADO GENERAL
 | ENS | Medio-alto | tabla_ens | Casos especificos y test ampliado |
 | ENI | Medio | fichas_ley_39_40_admon_digital | Tabla NTI completa |
 | Constitucion/EBEP | Medio | fichas_constitucion_ebep | Test ampliado y plazos/derechos |
-| RGPD/LOPDGDD | Medio | fichas_rgpd_lopdgdd | Casos y tabla de bases juridicas |
-| Contratacion TIC | Medio | fichas_contratacion_publica_tic | Plantilla PPT/PCAP mas detallada |
+| RGPD/LOPDGDD | Medio-alto | fichas_rgpd_lopdgdd, casos_ens_rgpd, tabla_bases_juridicas_rgpd_sector_publico | Test ampliado RGPD/ENS |
+| Contratacion TIC | Medio-alto | fichas_contratacion_publica_tic, plantilla_ppt_tic | PCAP detallado y mas casos |
+| Gobernanza/gestion A1-A2 | Medio-alto | fichas_gobernanza_tic_age, fichas_direccion_proyectos, fichas_itil_cobit_calidad | Casos de gobierno, auditoria y priorizacion |
 | Sistemas/redes/cloud | Medio | fichas_tecnicas_nucleo_tic | Profundizar por tema |
 | Desarrollo/datos/IA | Medio | fichas_tecnicas_nucleo_tic | Profundizar Java/.NET/web/datos |
 | Supuestos | Medio-alto | banco_supuestos, respuestas_modelo, plantillas | Aumentar a 30 supuestos |
@@ -44,7 +45,7 @@ Fase 1 - Cerrar nucleo administrativo:
 
 Fase 2 - Cerrar seguridad/datos:
 5. casos_ens_rgpd.txt
-6. tabla_bases_juridicas_rgpd_sector_publico.txt
+6. tabla_bases_juridicas_rgpd_sector_publico.txt - creado
 7. test_ens_rgpd_150.txt
 
 Fase 3 - Cerrar tecnica comun:
@@ -55,10 +56,10 @@ Fase 3 - Cerrar tecnica comun:
 12. test_tecnico_200.txt
 
 Fase 4 - Cerrar gestion A1/A2:
-13. plantilla_ppt_tic.txt
-14. fichas_itil_cobit_calidad.txt
-15. fichas_direccion_proyectos.txt
-16. fichas_gobernanza_tic_age.txt
+13. plantilla_ppt_tic.txt - creado
+14. fichas_itil_cobit_calidad.txt - creado
+15. fichas_direccion_proyectos.txt - creado
+16. fichas_gobernanza_tic_age.txt - creado
 
 Fase 5 - Practica intensiva:
 17. banco_supuestos_30.txt

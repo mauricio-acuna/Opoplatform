@@ -1,0 +1,167 @@
+### Direccion de proyectos TIC - A1/A2
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Responder proyectos TIC como gestor publico: alcance, riesgos, recursos, contratacion, seguridad, calidad, implantacion e impacto.
+
+
+============================================================
+1. IDEA FUERZA
+============================================================
+
+Un proyecto TIC publico no termina cuando "funciona en produccion". Debe entregar valor publico, cumplir normativa, ser seguro, interoperable, accesible, operable, mantenible y medible.
+
+Frase de examen:
+"El proyecto se gobernaria mediante una metodologia adaptada a su riesgo y complejidad, con alcance, cronograma, costes, calidad, riesgos, comunicacion, seguridad, contratacion, pruebas, gestion del cambio e indicadores de servicio publico."
+
+
+============================================================
+2. ENFOQUES PREDICTIVO, AGIL Y MIXTO
+============================================================
+
+| Enfoque | Cuando conviene | Riesgo |
+|---|---|---|
+| Predictivo | Alcance estable, requisitos claros, fuerte formalismo. | Rigidez ante cambios. |
+| Agil | Incertidumbre, necesidad de feedback, entregas incrementales. | Mala interpretacion como falta de control. |
+| Mixto | Administracion publica con contratos/formalidad y necesidad de iterar. | Requiere buen gobierno. |
+
+Respuesta madura:
+"Usaria un enfoque mixto: planificacion y control formal para compromisos, presupuesto y contratacion, combinado con entregas iterativas para reducir riesgo funcional y recoger feedback."
+
+
+============================================================
+3. AREAS DE GESTION
+============================================================
+
+| Area | Pregunta clave |
+|---|---|
+| Alcance | Que entra y que no entra? |
+| Tiempo | Cuales son hitos y dependencias? |
+| Coste | Como se controla presupuesto y desviaciones? |
+| Calidad | Como se acepta lo entregado? |
+| Riesgos | Que puede fallar y como se mitiga? |
+| Comunicacion | Quien debe saber que y cuando? |
+| Interesados | Quien decide, usa, opera o se ve afectado? |
+| Contratacion | Que se compra y con que garantias? |
+| Seguridad | Como se integra ENS/RGPD desde el inicio? |
+| Cambios | Como se aprueban modificaciones? |
+
+
+============================================================
+4. CICLO DE VIDA PUBLICO
+============================================================
+
+1. Identificacion de necesidad publica.
+2. Analisis de alternativas y reutilizacion.
+3. Caso de negocio/memoria.
+4. Marco normativo.
+5. Plan de proyecto.
+6. Contratacion si procede.
+7. Diseño funcional y tecnico.
+8. Construccion/configuracion.
+9. Integracion.
+10. Pruebas.
+11. Formacion y gestion del cambio.
+12. Puesta en produccion.
+13. Estabilizacion.
+14. Operacion y mejora continua.
+
+
+============================================================
+5. GESTION DE RIESGOS
+============================================================
+
+Riesgos tipicos:
+- Requisitos incompletos.
+- Resistencia de usuarios.
+- Integraciones fallidas.
+- Migracion de datos deficiente.
+- Dependencia del proveedor.
+- Incumplimiento ENS/RGPD.
+- Falta de rendimiento.
+- Retrasos de contratacion.
+- Falta de pruebas.
+- Insuficiente soporte postarranque.
+
+Tratamientos:
+- Evitar.
+- Mitigar.
+- Transferir.
+- Aceptar.
+
+Frase:
+"Mantendria un registro de riesgos con probabilidad, impacto, responsable, mitigacion, contingencia y estado, revisado en comite de seguimiento."
+
+
+============================================================
+6. GESTION DEL CAMBIO
+============================================================
+
+Incluye:
+- Identificar afectados.
+- Comunicacion.
+- Formacion.
+- Pilotos.
+- Manuales.
+- Soporte reforzado.
+- Feedback.
+- Ajustes tras puesta en marcha.
+
+Trampa:
+Un proyecto fracasa aunque el software funcione si empleados y ciudadanos no pueden usarlo bien.
+
+
+============================================================
+7. INDICADORES
+============================================================
+
+Proyecto:
+- Hitos cumplidos.
+- Desviacion de plazo.
+- Desviacion de coste.
+- Defectos.
+- Riesgos abiertos.
+- Cambios aprobados.
+
+Servicio:
+- Disponibilidad.
+- Tiempo de respuesta.
+- Incidencias.
+- Satisfaccion.
+- Reduccion de tiempo de tramitacion.
+- Porcentaje de uso electronico.
+- Accesibilidad.
+- Cumplimiento ENS/RGPD.
+
+
+============================================================
+8. MINI TEST
+============================================================
+
+1. En Administracion, agil significa:
+A. Ausencia de control.
+B. Entregas iterativas con gobierno y trazabilidad.
+C. No documentar.
+D. No probar.
+Respuesta: B.
+
+2. Un riesgo debe tener:
+A. Responsable, probabilidad, impacto y mitigacion.
+B. Solo nombre.
+C. Solo coste.
+D. Solo fecha final.
+Respuesta: A.
+
+3. Gestion del cambio incluye:
+A. Formacion, comunicacion, pilotos y soporte.
+B. Solo despliegue tecnico.
+C. Solo compra de servidores.
+D. Solo backups.
+Respuesta: A.
+
+4. Un proyecto publico debe medir:
+A. Solo lineas de codigo.
+B. Valor publico, calidad, seguridad, plazos y servicio.
+C. Solo marca.
+D. Solo reuniones.
+Respuesta: B.

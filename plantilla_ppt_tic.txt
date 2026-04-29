@@ -1,0 +1,234 @@
+### Plantilla de Pliego de Prescripciones Tecnicas TIC
+Fecha de trabajo: 29/04/2026
+
+Uso:
+Modelo de estudio para supuestos A1/A2 de contratacion publica TIC. No es asesoramiento juridico ni pliego real; sirve para aprender estructura.
+
+
+============================================================
+1. OBJETO DEL CONTRATO
+============================================================
+
+Debe definir:
+- Servicio, suministro o desarrollo requerido.
+- Finalidad publica.
+- Sistemas afectados.
+- Usuarios destinatarios.
+- Alcance funcional y tecnico.
+
+Texto modelo:
+"El objeto del contrato es la prestacion del servicio de [desarrollo/mantenimiento/soporte/evolucion] de [sistema], con el fin de garantizar [tramitacion electronica/servicio ciudadano/gestion interna], asegurando disponibilidad, seguridad, interoperabilidad, accesibilidad, calidad, documentacion, transferencia y continuidad."
+
+
+============================================================
+2. ALCANCE FUNCIONAL
+============================================================
+
+Incluir:
+- Modulos.
+- Procedimientos.
+- Usuarios.
+- Canales.
+- Integraciones.
+- Informes.
+- Migraciones.
+- Soporte.
+
+Preguntas:
+- Que hace el sistema?
+- Quien lo usa?
+- Con que sistemas se integra?
+- Que queda fuera?
+
+
+============================================================
+3. REQUISITOS NO FUNCIONALES
+============================================================
+
+| Area | Requisito ejemplo |
+|---|---|
+| Disponibilidad | SLA mensual, ventanas de mantenimiento, alta disponibilidad. |
+| Rendimiento | Tiempos maximos de respuesta, concurrencia, pruebas de carga. |
+| Seguridad | ENS, control de accesos, cifrado, logs, vulnerabilidades. |
+| Interoperabilidad | ENI, APIs, formatos, metadatos, servicios comunes. |
+| Accesibilidad | WCAG/normativa aplicable, pruebas y correccion. |
+| Usabilidad | Diseño centrado en usuario, lenguaje claro, pruebas. |
+| Mantenibilidad | Codigo documentado, arquitectura modular, pruebas. |
+| Portabilidad | Evitar dependencia injustificada, contenedores/estandares si procede. |
+| Observabilidad | Logs, metricas, trazas, alertas y cuadros de mando. |
+
+
+============================================================
+4. SEGURIDAD ENS
+============================================================
+
+Debe exigir:
+- Cumplimiento ENS segun categoria.
+- Colaboracion en categorizacion y declaracion de aplicabilidad.
+- Gestion de accesos nominales.
+- Minimo privilegio.
+- Confidencialidad.
+- Registro de actividad.
+- Gestion de vulnerabilidades.
+- Notificacion de incidentes.
+- Bastionado.
+- Copias/continuidad si aplica.
+- Evidencias para auditoria.
+
+Texto modelo:
+"El adjudicatario debera cumplir las medidas de seguridad que resulten aplicables conforme al ENS, colaborar en el analisis de riesgos, aportar evidencias de cumplimiento, notificar incidentes sin demora indebida y facilitar auditorias o revisiones de seguridad."
+
+
+============================================================
+5. PROTECCION DE DATOS
+============================================================
+
+Si hay datos personales:
+- Identificar si el adjudicatario es encargado.
+- Encargo de tratamiento.
+- Instrucciones del responsable.
+- Confidencialidad.
+- Subencargados.
+- Ubicacion de datos.
+- Transferencias internacionales.
+- Medidas tecnicas y organizativas.
+- Devolucion/destruccion al finalizar.
+- Asistencia para derechos y brechas.
+
+Texto modelo:
+"Cuando el servicio implique acceso a datos personales, el adjudicatario actuara como encargado del tratamiento conforme a las instrucciones del responsable, aplicando RGPD/LOPDGDD, confidencialidad, medidas de seguridad, asistencia en derechos y brechas, y devolucion o supresion segura al finalizar."
+
+
+============================================================
+6. INTEROPERABILIDAD Y SERVICIOS COMUNES
+============================================================
+
+Debe contemplar:
+- ENI y NTI.
+- APIs documentadas.
+- Formatos abiertos/estandares.
+- Metadatos.
+- Documento y expediente electronico si aplica.
+- Integracion con Cl@ve, SIR, CSV, DIR3, PID, Notifica/DEHú, Carpeta Ciudadana si procede.
+
+Texto modelo:
+"La solucion debera ajustarse al ENI y a las NTI aplicables, garantizando interoperabilidad organizativa, semantica y tecnica, y priorizando la integracion con servicios comunes existentes frente a desarrollos duplicados."
+
+
+============================================================
+7. GESTION DEL SERVICIO Y SLAS
+============================================================
+
+Indicadores:
+- Disponibilidad.
+- Tiempo de respuesta.
+- Tiempo de resolucion de incidencias por prioridad.
+- Tiempo de atencion.
+- Numero de incidencias recurrentes.
+- Vulnerabilidades abiertas.
+- Cumplimiento de entregas.
+- Calidad documental.
+- Defectos detectados.
+- Satisfaccion de usuarios.
+
+Ejemplo:
+Prioridad critica:
+- Afecta servicio esencial o plazo administrativo.
+- Tiempo de respuesta: X.
+- Tiempo de resolucion: Y.
+- Escalado: inmediato.
+
+
+============================================================
+8. DESARROLLO Y CALIDAD
+============================================================
+
+Exigir:
+- Repositorio bajo control de la Administracion.
+- Control de versiones.
+- Pruebas unitarias/integracion/aceptacion.
+- Analisis de calidad.
+- Analisis de seguridad.
+- Documentacion tecnica y funcional.
+- Criterios de aceptacion.
+- Gestion de cambios.
+
+Texto modelo:
+"Toda entrega debera acompañarse de documentacion, pruebas, evidencias de calidad y seguridad, instrucciones de despliegue y trazabilidad de requisitos."
+
+
+============================================================
+9. TRANSFERENCIA Y REVERSIBILIDAD
+============================================================
+
+Incluir:
+- Plan de transferencia inicial.
+- Plan de salida.
+- Documentacion.
+- Codigo/configuraciones si procede.
+- Inventario.
+- Datos exportables.
+- Formacion.
+- Soporte a nuevo proveedor.
+- Eliminacion segura.
+
+Texto modelo:
+"La reversibilidad se considerara obligacion esencial del contrato, garantizando que la Administracion pueda recuperar o transferir el servicio sin perdida de datos, conocimiento, documentacion ni continuidad."
+
+
+============================================================
+10. GOBIERNO DEL CONTRATO
+============================================================
+
+Organos:
+- Responsable del contrato.
+- Comite de seguimiento.
+- Responsable funcional.
+- Responsable tecnico.
+- Responsable de seguridad.
+- DPD si aplica.
+
+Ritmo:
+- Reuniones periodicas.
+- Informes mensuales.
+- Registro de riesgos.
+- Actas.
+- Control de cambios.
+- Aceptacion formal.
+
+
+============================================================
+11. PENALIDADES Y ACEPTACION
+============================================================
+
+Penalidades:
+- Incumplimiento de SLAs.
+- Retrasos.
+- Defectos graves.
+- Incumplimientos de seguridad.
+- Falta de documentacion.
+- Falta de transferencia.
+
+Aceptacion:
+- Pruebas superadas.
+- Documentacion recibida.
+- Seguridad validada.
+- Accesibilidad verificada.
+- Despliegue controlado.
+- Conformidad funcional.
+
+
+============================================================
+12. TRAMPAS DE EXAMEN
+============================================================
+
+1. No incluir reversibilidad.
+2. Valorar solo precio.
+3. No exigir ENS/RGPD.
+4. No prever documentacion.
+5. No definir SLAs.
+6. No controlar subcontratacion.
+7. No exigir pruebas.
+8. No integrar servicios comunes.
+9. No prever accesibilidad.
+10. No distinguir soporte, mantenimiento y evolucion.

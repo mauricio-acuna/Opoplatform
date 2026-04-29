@@ -199,6 +199,31 @@ Relevancia TIC:
 - Pliegos, solvencia, criterios de adjudicacion, ejecucion, modificacion, penalidades, subcontratacion, propiedad intelectual, confidencialidad, seguridad, proteccion de datos y reversibilidad.
 
 
+## RD 1125/2024 - Gobernanza TIC / Administracion Digital del Estado
+
+Fuente:
+- BOE-A-2024-22935
+- Real Decreto 1125/2024, de 5 de noviembre, por el que se regulan la organizacion y los instrumentos operativos para la Administracion Digital de la Administracion del Estado.
+- Publicado el 06/11/2024; entrada en vigor el 07/11/2024.
+- URL: https://www.boe.es/buscar/doc.php?id=BOE-A-2024-22935
+
+Nota critica:
+- Deroga el Real Decreto 806/2014.
+- No estudiar RD 806/2014 como norma vigente, salvo como antecedente historico.
+
+Relevancia TIC:
+- Modelo comun de gobernanza TIC.
+- CETIC.
+- Agencia Estatal de Administracion Digital.
+- CMAD.
+- CDTIC.
+- Unidades TIC.
+- Estrategia TIC.
+- Medios y servicios digitales comunes y transversales.
+- Proyectos de interes prioritario.
+- Informacion presupuestaria TIC.
+
+
 ============================================================
 3. REGLA DE USO PARA EL MATERIAL
 ============================================================

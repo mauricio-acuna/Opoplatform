@@ -1,0 +1,124 @@
+### Bases juridicas RGPD en el sector publico
+Fecha de trabajo: 29/04/2026
+
+Fuentes:
+- RGPD, art. 6.
+- LOPDGDD: https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673
+- AEPD como referencia practica: https://www.aepd.es/
+
+Objetivo:
+Evitar el error habitual de decir "consentimiento" para todo. En Administracion, muchas veces la base sera obligacion legal, mision en interes publico o ejercicio de poderes publicos.
+
+
+============================================================
+1. BASES JURIDICAS ART. 6 RGPD
+============================================================
+
+| Base | Cuando se usa | Ejemplo publico | Riesgo de examen |
+|---|---|---|---|
+| Consentimiento | El interesado acepta libremente un tratamiento no impuesto. | Suscripcion voluntaria a alertas informativas no obligatorias. | Usarlo cuando no hay verdadera libertad. |
+| Ejecucion de contrato | Tratamiento necesario para contrato con el interesado. | Contrato laboral/personal laboral en determinados tratamientos. | Confundir con contratos publicos con proveedores. |
+| Obligacion legal | Una norma obliga al responsable a tratar datos. | Tramitacion de procedimiento exigido por ley. | No identificar la norma habilitante. |
+| Intereses vitales | Proteger vida o integridad. | Emergencias. | Usarlo para casos ordinarios. |
+| Mision en interes publico / poderes publicos | Funciones publicas atribuidas al responsable. | Gestion de ayudas, sanciones, licencias, inspecciones. | No delimitar finalidad ni competencia. |
+| Interes legitimo | Intereses legitimos del responsable/tercero, con ponderacion. | Uso muy limitado en Administraciones en ejercicio de funciones publicas. | Invocarlo de forma generica en sector publico. |
+
+
+============================================================
+2. REGLA RAPIDA PARA OPOSICIONES
+============================================================
+
+Si es procedimiento administrativo:
+- Pensar primero en obligacion legal o mision en interes publico/poderes publicos.
+
+Si es comunicacion opcional no necesaria:
+- Puede ser consentimiento.
+
+Si es proveedor TIC:
+- La Administracion suele ser responsable.
+- El proveedor suele ser encargado.
+- La base juridica del tratamiento no la "pone" el proveedor.
+
+Si son datos especialmente sensibles:
+- No basta art. 6 RGPD.
+- Hay que mirar condiciones del art. 9 RGPD y normativa aplicable.
+
+
+============================================================
+3. DATOS ESPECIALES
+============================================================
+
+Categorias especiales:
+- Salud.
+- Ideologia.
+- Afiliacion sindical.
+- Religion/creencias.
+- Origen racial/etnico.
+- Datos geneticos.
+- Datos biometricos para identificacion univoca.
+- Vida sexual u orientacion sexual.
+
+En supuestos:
+- Justificar necesidad.
+- Minimizar.
+- Reforzar seguridad.
+- Controlar accesos.
+- Evaluar EIPD si alto riesgo.
+- Evitar publicacion/reidentificacion.
+
+
+============================================================
+4. EJEMPLOS DE RESPUESTA
+============================================================
+
+Ayudas publicas:
+"La base juridica no seria el consentimiento general del solicitante, sino la obligacion legal o mision en interes publico asociada a la convocatoria y normativa reguladora, sin perjuicio de informar de forma transparente y limitar el tratamiento a la finalidad."
+
+Intermediacion de datos:
+"La consulta de datos a otra Administracion debe basarse en competencia/finalidad concreta, minimizacion, trazabilidad y cumplimiento RGPD, evitando solicitar al ciudadano documentos que ya obren en poder de la Administracion cuando proceda."
+
+Datos abiertos:
+"Solo se publicarian datos anonimizados o agregados cuando no permitan reidentificacion razonable, especialmente si existen datos sensibles o combinaciones de atributos de riesgo."
+
+IA:
+"Si el modelo trata datos personales, debe identificarse finalidad y base juridica, evaluar sesgos y riesgo, aplicar privacidad desde el diseno, trazabilidad y supervision humana."
+
+
+============================================================
+5. MINI TEST
+============================================================
+
+1. En Administracion, el consentimiento:
+A. Siempre es la mejor base.
+B. Puede no ser adecuado si el tratamiento deriva de potestades publicas u obligacion legal.
+C. Sustituye al deber de informacion.
+D. Elimina ENS.
+Respuesta: B.
+
+2. Para un procedimiento de ayudas, la base suele aproximarse mas a:
+A. Obligacion legal o mision/interes publico.
+B. Interes romantico.
+C. Consentimiento comercial siempre.
+D. Ninguna base.
+Respuesta: A.
+
+3. Un proveedor que aloja datos por cuenta del organismo suele ser:
+A. Encargado del tratamiento.
+B. Interesado.
+C. Autoridad de control.
+D. Legislador.
+Respuesta: A.
+
+4. Los datos de salud/discapacidad:
+A. No son personales.
+B. Pueden ser categorias especiales y requieren cautelas reforzadas.
+C. Se publican siempre.
+D. No requieren minimizacion.
+Respuesta: B.
+
+5. El interes legitimo:
+A. Debe invocarse con cautela en Administraciones cuando actuan en funciones publicas.
+B. Sirve para todo.
+C. Sustituye cualquier ley.
+D. Elimina derechos.
+Respuesta: A.

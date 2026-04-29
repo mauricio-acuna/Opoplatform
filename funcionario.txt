@@ -913,6 +913,41 @@ Contiene:
 - Logs con datos personales.
 - Rubrica rapida ENS/RGPD.
 
+24. fichas_gobernanza_tic_age.txt
+Contiene:
+- Gobernanza TIC vigente segun RD 1125/2024.
+- Nota critica: RD 806/2014 derogado.
+- CETIC, Agencia Estatal de Administracion Digital, CMAD, CDTIC y unidades TIC.
+- Estrategia TIC, medios/servicios comunes y transversales.
+- Proyectos de interes prioritario.
+- Trampas y mini test.
+
+25. plantilla_ppt_tic.txt
+Contiene:
+- Plantilla de Pliego de Prescripciones Tecnicas TIC.
+- Objeto, alcance, requisitos no funcionales, ENS, RGPD, interoperabilidad, SLAs, calidad, reversibilidad y gobierno del contrato.
+
+26. fichas_direccion_proyectos.txt
+Contiene:
+- Direccion de proyectos TIC.
+- Enfoques predictivo, agil y mixto.
+- Areas de gestion, ciclo de vida publico, riesgos, gestion del cambio e indicadores.
+
+27. fichas_itil_cobit_calidad.txt
+Contiene:
+- ITIL para gestion de servicios.
+- COBIT para gobierno TIC.
+- Diferencias ITIL/COBIT.
+- Calidad TIC, mejora continua y mini test.
+
+28. tabla_bases_juridicas_rgpd_sector_publico.txt
+Contiene:
+- Bases juridicas RGPD en sector publico.
+- Regla rapida para oposiciones.
+- Datos especiales.
+- Ejemplos de respuesta.
+- Mini test.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

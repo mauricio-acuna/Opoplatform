@@ -1,0 +1,171 @@
+### ITIL, COBIT y calidad TIC para oposiciones
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Dominar los conceptos suficientes para test y supuestos A1/A2, sin convertir esto en una certificacion.
+
+
+============================================================
+1. ITIL - IDEA CENTRAL
+============================================================
+
+ITIL es un marco de buenas practicas para la gestion de servicios TIC. En oposiciones sirve para hablar de servicio, valor, incidencias, cambios, problemas, catalogo, niveles de servicio y mejora continua.
+
+Frase de examen:
+"La operacion se organizaria siguiendo buenas practicas de gestion de servicios, con catalogo, SLAs, gestion de incidencias, problemas, cambios, configuracion, disponibilidad, continuidad y mejora continua."
+
+
+============================================================
+2. CONCEPTOS ITIL RENTABLES
+============================================================
+
+| Concepto | Definicion de examen | Ejemplo |
+|---|---|---|
+| Servicio | Medio para entregar valor a usuarios. | Sede electronica disponible y segura. |
+| Incidencia | Interrupcion o degradacion no planificada. | Caida de notificaciones. |
+| Problema | Causa subyacente de incidencias. | Error recurrente por saturacion BD. |
+| Cambio | Modificacion controlada de un servicio/sistema. | Nueva version de expediente. |
+| Catalogo de servicios | Lista de servicios disponibles. | CAU, sede, registro, correo, identidad. |
+| SLA | Nivel de servicio acordado. | 99,8% disponibilidad. |
+| CMDB | Base de datos de configuracion. | Servidores, aplicaciones, relaciones. |
+| Mejora continua | Ciclo permanente de medicion y mejora. | Reducir incidencias repetidas. |
+
+
+============================================================
+3. PROCESOS/PRACTICAS A CITAR
+============================================================
+
+- Gestion de incidencias.
+- Gestion de problemas.
+- Gestion de cambios.
+- Gestion de configuracion y activos.
+- Gestion de niveles de servicio.
+- Gestion de disponibilidad.
+- Gestion de continuidad.
+- Gestion de capacidad.
+- Gestion de conocimiento.
+- Mejora continua.
+
+Trampa:
+No confundir incidencia y problema. Incidencia restaura servicio; problema busca causa raiz.
+
+
+============================================================
+4. COBIT - IDEA CENTRAL
+============================================================
+
+COBIT es un marco de gobierno y gestion de las TIC. Sirve para conectar TIC con objetivos de negocio/organizacion, control, riesgos, cumplimiento y medicion.
+
+En Administracion:
+- Alineacion con objetivos publicos.
+- Gobierno de inversiones TIC.
+- Gestion de riesgos.
+- Cumplimiento normativo.
+- Control y auditoria.
+- Medicion de resultados.
+
+Frase de examen:
+"COBIT puede usarse como referencia de gobierno TIC para asegurar alineacion estrategica, entrega de valor, gestion de riesgos, optimizacion de recursos y medicion del desempeño."
+
+
+============================================================
+5. ITIL VS COBIT
+============================================================
+
+| Marco | Foco | Uso en respuesta |
+|---|---|---|
+| ITIL | Gestion de servicios TIC | Operacion, soporte, incidencias, cambios, SLAs. |
+| COBIT | Gobierno y control TIC | Alineacion estrategica, riesgos, cumplimiento, valor. |
+
+Regla:
+- Si hablas de operar servicio: ITIL.
+- Si hablas de gobernar TIC: COBIT.
+
+
+============================================================
+6. CALIDAD TIC
+============================================================
+
+Dimensiones:
+- Funcionalidad.
+- Fiabilidad.
+- Usabilidad.
+- Eficiencia.
+- Mantenibilidad.
+- Portabilidad.
+- Seguridad.
+- Accesibilidad.
+
+Herramientas:
+- Criterios de aceptacion.
+- Pruebas.
+- Revision de codigo.
+- Analisis de calidad.
+- Encuestas de usuario.
+- Auditorias.
+- Indicadores.
+
+Frase:
+"La calidad se verificara mediante criterios de aceptacion, pruebas funcionales y no funcionales, revision de seguridad, accesibilidad, documentacion y seguimiento de indicadores."
+
+
+============================================================
+7. MEJORA CONTINUA
+============================================================
+
+Ciclo:
+1. Medir.
+2. Analizar.
+3. Priorizar.
+4. Actuar.
+5. Verificar.
+6. Estandarizar.
+
+Indicadores:
+- Incidencias por servicio.
+- Tiempo medio de resolucion.
+- Disponibilidad.
+- Cambios fallidos.
+- Problemas recurrentes.
+- Satisfaccion.
+- Defectos en entregas.
+
+
+============================================================
+8. MINI TEST
+============================================================
+
+1. ITIL se centra principalmente en:
+A. Gestion de servicios TIC.
+B. Derecho penal.
+C. Presupuesto sanitario.
+D. Contratacion laboral.
+Respuesta: A.
+
+2. COBIT se asocia mas con:
+A. Gobierno, control, riesgos y alineacion TIC.
+B. Solo atencion telefonica.
+C. Solo programacion Java.
+D. Solo redes fisicas.
+Respuesta: A.
+
+3. Una incidencia es:
+A. Interrupcion o degradacion de un servicio.
+B. Causa raiz necesariamente.
+C. Documento contractual.
+D. Articulo constitucional.
+Respuesta: A.
+
+4. Un problema es:
+A. Causa subyacente de una o varias incidencias.
+B. Siempre una llamada.
+C. Siempre una mejora estetica.
+D. Un SLA.
+Respuesta: A.
+
+5. Un cambio debe:
+A. Gestionarse y evaluarse para controlar riesgo.
+B. Hacerse siempre directamente en produccion.
+C. No documentarse.
+D. Saltarse pruebas.
+Respuesta: A.
