@@ -1,0 +1,176 @@
+### Banco ampliado de 30 supuestos TIC A1/A2
+Fecha de trabajo: 29/04/2026
+
+Uso:
+- Resolver 1-2 por semana.
+- Tiempo A2: 90-120 min.
+- Tiempo A1: 120-180 min.
+- Siempre responder con normativa, arquitectura, seguridad, interoperabilidad, operacion e impacto.
+
+
+============================================================
+1. SEDE ELECTRONICA INTEGRAL
+============================================================
+Implantar sede electronica con registro, notificaciones, expediente y carpeta ciudadana para 40 procedimientos.
+Clave: Ley 39/40, RD 203/2021, ENS, ENI, Cl@ve, SIR, CSV, DEHú.
+
+2. CIBERINCIDENTE RANSOMWARE
+============================================================
+Ransomware afecta unidad compartida y expedientes en plazo.
+Clave: contencion, evidencias, continuidad, RGPD, DPD, ENS, copias.
+
+3. MIGRACION A NUBE HIBRIDA
+============================================================
+Migrar aplicaciones legacy con datos personales y picos de demanda.
+Clave: inventario, estrategia por carga, ENS/RGPD, reversibilidad, SLAs.
+
+4. PLATAFORMA DE DATOS
+============================================================
+Crear plataforma para politicas publicas y datos abiertos.
+Clave: gobierno dato, calidad, linaje, RGPD, ENI, anonimizacion.
+
+5. LICITACION SERVICIO CRITICO
+============================================================
+Contratar mantenimiento/evolucion de plataforma de tramitacion.
+Clave: PPT, SLAs, ENS, RGPD, transferencia, reversibilidad.
+
+6. INTERCAMBIO DE DATOS ENTRE ADMINISTRACIONES
+============================================================
+Evitar pedir certificados al ciudadano para ayudas.
+Clave: PID, finalidad, minimizacion, ENI, trazabilidad, RGPD.
+
+7. MODERNIZACION LEGACY
+============================================================
+Sistema monolitico sin documentacion y alto coste.
+Clave: inventario, APIs, migracion progresiva, pruebas, datos, continuidad.
+
+8. DEVSECOPS EN ORGANISMO
+============================================================
+Implantar CI/CD seguro y trazable.
+Clave: repositorios, SAST, DAST, SCA, secretos, evidencias, separacion entornos.
+
+9. IA PARA PRIORIZAR EXPEDIENTES
+============================================================
+Modelo recomienda expedientes a revisar.
+Clave: finalidad, base juridica, EIPD, sesgos, explicabilidad, supervision humana.
+
+10. CONTINUIDAD DE SEDE
+============================================================
+Indisponibilidades recurrentes en cierres de plazo.
+Clave: BIA, RTO/RPO, HA, pruebas carga, comunicacion, contingencia.
+
+11. APP MOVIL CIUDADANA
+============================================================
+App para cita previa, consulta expediente y avisos.
+Clave: minimizacion, autenticacion, push no notificativo, accesibilidad, seguridad movil.
+
+12. DIGITALIZACION DE ARCHIVO PAPEL
+============================================================
+Digitalizar 2 millones de expedientes historicos.
+Clave: NTI digitalizacion/copias, metadatos, calidad, OCR, archivo, conservacion.
+
+13. SISTEMA DE GESTION DOCUMENTAL
+============================================================
+Unificar documentos dispersos en carpetas.
+Clave: documento electronico, expediente, indice, metadatos, permisos, archivo.
+
+14. CUADRO DE MANDO MINISTERIAL
+============================================================
+Indicadores de gestion de expedientes para direccion.
+Clave: gobierno dato, calidad, seguridad, roles, anonimizado/agregado, BI.
+
+15. CAU Y GESTION DE INCIDENCIAS
+============================================================
+Crear servicio de soporte para 5.000 usuarios.
+Clave: ITIL, catalogo, SLA, incidencias/problemas/cambios, CMDB, satisfaccion.
+
+16. RENOVACION DE CPD
+============================================================
+CPD obsoleto con cortes electricos y sin DRP.
+Clave: redundancia, energia, climatizacion, backup, HA, BIA, cloud/hibrido.
+
+17. ZERO TRUST EN ADMINISTRACION
+============================================================
+Reducir riesgo de accesos internos excesivos.
+Clave: IAM, MFA, minimo privilegio, segmentacion, logs, recertificacion.
+
+18. API CORPORATIVA
+============================================================
+Publicar APIs internas para varios organismos.
+Clave: API Gateway, versionado, seguridad, cuotas, trazabilidad, ENI, catalogo.
+
+19. GESTION DE IDENTIDADES
+============================================================
+Unificar identidades de empleados y externos.
+Clave: IAM, RBAC/ABAC, ciclo alta/baja, MFA, auditoria, federacion.
+
+20. DATOS ABIERTOS CON RIESGO DE REIDENTIFICACION
+============================================================
+Publicar dataset con variables sensibles indirectas.
+Clave: anonimizacion, agregacion, riesgo reidentificacion, metadatos, reutilizacion.
+
+21. CONTRATO SAAS DE EXPEDIENTES
+============================================================
+Proveedor SaaS ofrece sistema completo.
+Clave: encargado, ENS, ubicacion datos, reversibilidad, subencargados, auditoria.
+
+22. ACCESIBILIDAD DE SEDE
+============================================================
+La sede incumple accesibilidad y genera quejas.
+Clave: WCAG, auditoria, formularios, PDFs, teclado, lenguaje claro, plan correccion.
+
+23. PLATAFORMA DE NOTIFICACIONES
+============================================================
+Unificar notificaciones de varios procedimientos.
+Clave: puesta a disposicion, aviso, evidencias, plazos, DEHú, expediente.
+
+24. SISTEMA DE FIRMA Y CSV
+============================================================
+Verificacion documental y firma de resoluciones.
+Clave: politica firma, sello, CSV, certificados, integridad, trazabilidad.
+
+25. MIGRACION DE BASE DE DATOS
+============================================================
+Migrar BD relacional critica a nueva plataforma.
+Clave: inventario, modelo, calidad, pruebas, integridad, rollback, ventana.
+
+26. SEGURIDAD EN DESARROLLO
+============================================================
+Aplicacion con vulnerabilidades recurrentes.
+Clave: OWASP, SAST/DAST/SCA, formacion, pruebas, gestion vulnerabilidades.
+
+27. GOBERNANZA TIC DEPARTAMENTAL
+============================================================
+Ministerio con proyectos duplicados y compras dispersas.
+Clave: RD 1125/2024, CMAD, Agencia, CETIC, servicios comunes, priorizacion.
+
+28. PROYECTO DE INTERES PRIORITARIO
+============================================================
+Servicio transversal con impacto en varios ministerios.
+Clave: gobernanza, CETIC, estrategia TIC, riesgos, financiacion, indicadores.
+
+29. AUTOMATIZACION ADMINISTRATIVA
+============================================================
+Generar certificados automaticamente.
+Clave: actuacion administrativa automatizada, organo responsable, sello, logs, revision.
+
+30. PLAN DE CALIDAD TIC
+============================================================
+Reducir defectos y quejas en servicios digitales.
+Clave: calidad, pruebas, accesibilidad, ITIL, indicadores, mejora continua.
+
+
+============================================================
+PLANTILLA DE CORRECCION RAPIDA
+============================================================
+
+Para cada supuesto comprobar:
+- [ ] He definido objetivo publico.
+- [ ] He citado normativa correcta.
+- [ ] He propuesto arquitectura.
+- [ ] He incluido ENS.
+- [ ] He incluido RGPD si hay datos.
+- [ ] He incluido ENI/interoperabilidad.
+- [ ] He hablado de operacion/continuidad.
+- [ ] He incluido contratacion/gobierno si procede.
+- [ ] He cerrado con indicadores e impacto.

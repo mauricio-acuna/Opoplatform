@@ -1,0 +1,170 @@
+### Simulacro A1 TIC 1 - Cuerpo Superior de Sistemas y Tecnologias
+Fecha de trabajo: 29/04/2026
+
+Uso:
+- Enfoque: respuesta directiva, juridico-tecnica y estrategica.
+- Tiempo recomendado caso: 2-3 horas.
+- Objetivo: no solo resolver, sino priorizar, gobernar y justificar.
+
+
+============================================================
+CASO PRACTICO A1
+============================================================
+
+Enunciado:
+El Ministerio X quiere transformar digitalmente la gestion de ayudas y subvenciones, actualmente fragmentada en varias aplicaciones departamentales. Existen duplicidades, baja interoperabilidad, tiempos largos de tramitacion, peticion repetida de documentos al ciudadano, problemas de accesibilidad, escasa trazabilidad, ausencia de gobierno del dato y dependencia de varios proveedores. Ademas, se quiere introducir analitica avanzada para detectar errores, priorizar expedientes y mejorar la planificacion de politicas publicas.
+
+Como responsable TIC, elabora una propuesta integral que contemple:
+
+1. Gobernanza del programa.
+2. Marco normativo.
+3. Arquitectura objetivo.
+4. Administracion digital e interoperabilidad.
+5. Seguridad ENS y proteccion de datos.
+6. Gobierno del dato e IA.
+7. Contratacion publica TIC.
+8. Plan de implantacion y gestion del cambio.
+9. Operacion, continuidad e indicadores.
+10. Riesgos principales y mitigacion.
+
+
+============================================================
+GUIA DE RESPUESTA
+============================================================
+
+1. Gobernanza:
+- Enmarcar en RD 1125/2024.
+- CMAD como ambito departamental.
+- Unidad TIC y areas funcionales.
+- Alineacion con Estrategia TIC.
+- Verificar servicios comunes/transversales.
+- Comite de programa, responsables, indicadores.
+
+2. Marco normativo:
+- Ley 39/2015.
+- Ley 40/2015.
+- RD 203/2021.
+- ENS.
+- ENI.
+- RGPD/LOPDGDD.
+- LCSP.
+- Accesibilidad.
+- Reutilizacion de informacion del sector publico/datos abiertos si aplica.
+
+3. Arquitectura:
+- Sede/canal ciudadano.
+- Identidad.
+- Registro.
+- Gestor de expedientes.
+- Motor de reglas/workflow.
+- Gestor documental/archivo.
+- Notificaciones.
+- Capa de integracion/API.
+- Capa de datos/analitica.
+- Seguridad.
+- Observabilidad.
+
+4. Interoperabilidad:
+- ENI y NTI.
+- PID para no pedir documentos.
+- SIR si procede.
+- DIR3.
+- CSV.
+- Carpeta Ciudadana.
+- Notifica/DEHú.
+- Metadatos y modelos de datos comunes.
+
+5. ENS/RGPD:
+- Categorizacion.
+- Analisis de riesgos.
+- Declaracion de aplicabilidad.
+- IAM/MFA/RBAC.
+- Logs/SIEM.
+- Continuidad.
+- DPD.
+- Base juridica.
+- Minimizacion.
+- EIPD si IA/perfilado alto riesgo.
+
+6. Datos/IA:
+- Catalogo de datos.
+- Calidad.
+- Linaje.
+- Responsables.
+- Dato operacional vs analitico.
+- Anonimizacion/agregacion para datos abiertos.
+- IA con supervision humana, explicabilidad, auditoria, control de sesgos.
+
+7. Contratacion:
+- PPT con ENS/RGPD/ENI/accesibilidad.
+- SLAs.
+- Reversibilidad.
+- Transferencia.
+- Propiedad intelectual/licencias.
+- Evitar dependencia.
+- Criterios de adjudicacion no solo precio.
+
+8. Implantacion:
+- Inventario.
+- Priorizacion.
+- Piloto.
+- Migracion progresiva.
+- Integraciones.
+- Pruebas.
+- Formacion.
+- Comunicacion.
+- Arranque y estabilizacion.
+
+9. Operacion:
+- ITIL.
+- Catalogo de servicios.
+- Incidencias/problemas/cambios.
+- Monitorizacion.
+- Continuidad.
+- Indicadores.
+
+10. Riesgos:
+- Resistencia organizativa.
+- Migracion de datos.
+- Dependencia proveedor.
+- Incumplimiento RGPD/ENS.
+- Mala calidad del dato.
+- Sesgos IA.
+- Sobrecoste/retraso.
+- Indisponibilidad.
+
+
+============================================================
+RUBRICA A1 - 20 PUNTOS
+============================================================
+
+1. Vision estrategica y gobierno: 3 puntos.
+2. Marco normativo integrado: 3 puntos.
+3. Arquitectura objetivo: 3 puntos.
+4. Seguridad y proteccion de datos: 3 puntos.
+5. Interoperabilidad y servicios comunes: 2 puntos.
+6. Datos e IA responsable: 2 puntos.
+7. Contratacion y reversibilidad: 1,5 puntos.
+8. Implantacion, cambio y operacion: 1,5 puntos.
+9. Claridad, priorizacion y lenguaje publico: 1 punto.
+
+
+============================================================
+RESPUESTA MODELO RESUMIDA
+============================================================
+
+El programa debe plantearse como una transformacion integral del servicio publico de ayudas, no como sustitucion aislada de aplicaciones. Lo enmarcaria en el RD 1125/2024, con participacion de la CMAD, unidad TIC, areas gestoras, responsables de informacion/servicio/sistema, responsable de seguridad y DPD. La iniciativa debe alinearse con la Estrategia TIC y comprobar el uso de medios y servicios comunes o transversales antes de desarrollar componentes propios.
+
+El marco normativo incluiria Ley 39/2015 para procedimiento, expedientes, registro y notificaciones; Ley 40/2015 y RD 203/2021 para funcionamiento electronico; ENI/NTI para documento, expediente, metadatos, firma, copiado e intercambio; ENS para seguridad; RGPD/LOPDGDD para datos personales; LCSP para contratacion; y normativa de accesibilidad y reutilizacion de informacion si se publican datos.
+
+La arquitectura objetivo integraria sede electronica, identificacion mediante Cl@ve/certificados, registro, gestor de expedientes, motor de workflow/reglas, gestor documental, notificaciones, archivo electronico, capa de integracion/API, servicios comunes, plataforma de datos y cuadros de mando. La solucion debe evitar pedir documentos ya disponibles mediante interoperabilidad, usando PID cuando proceda, y ofrecer trazabilidad completa de actuaciones.
+
+En seguridad, categorizaria el sistema conforme al ENS, realizaria analisis de riesgos y declaracion de aplicabilidad, implantando control de accesos, minimo privilegio, MFA, cifrado, logs, SIEM, gestion de vulnerabilidades, continuidad, copias verificadas y respuesta a incidentes. En proteccion de datos definiria finalidad, base juridica, responsable, encargados, minimizacion, conservacion, derechos, DPD y EIPD si el tratamiento analitico/IA implica alto riesgo.
+
+El gobierno del dato incluiria catalogo, metadatos, calidad, linaje, responsables, separacion entre dato operacional y analitico, y criterios de publicacion de datos abiertos anonimizados o agregados. La IA se usaria como apoyo a la decision, con supervision humana, explicabilidad, control de sesgos, auditoria y trazabilidad, evitando decisiones automatizadas opacas que afecten derechos sin garantias.
+
+La contratacion se articularia mediante PPT con requisitos funcionales y no funcionales, ENS, RGPD, ENI, accesibilidad, SLAs, pruebas, documentacion, transferencia y reversibilidad. Los criterios de adjudicacion valorarian calidad tecnica, seguridad, plan de servicio, equipo, transferencia y reduccion de dependencia, no solo precio.
+
+La implantacion seria progresiva: inventario, racionalizacion de aplicaciones, piloto, migracion por familias de ayudas, pruebas, formacion, comunicacion y estabilizacion. La operacion seguiria buenas practicas ITIL, con gestion de incidencias, problemas, cambios, configuracion, disponibilidad, continuidad, soporte y mejora continua.
+
+Mediria exito mediante reduccion de tiempos de tramitacion, aumento de uso electronico, disponibilidad, incidencias, cumplimiento de plazos, reutilizacion de datos, calidad de datos, satisfaccion de usuarios, accesibilidad, seguridad e impacto en politicas publicas.

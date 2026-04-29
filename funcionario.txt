@@ -996,6 +996,28 @@ Contiene:
 - Desarrollo y APIs.
 - DevSecOps, calidad, arquitectura, seguridad y sector publico.
 
+34. simulacro_a2_1.txt
+Contiene:
+- Simulacro A2 GSI.
+- 50 preguntas tipo test.
+- Supuesto practico de plataforma de tramitacion electronica.
+- Rubrica de correccion.
+- Esquema de respuesta esperada.
+
+35. simulacro_a1_1.txt
+Contiene:
+- Simulacro A1 TIC.
+- Caso integral de transformacion digital de ayudas/subvenciones.
+- Guia de respuesta.
+- Rubrica A1 de 20 puntos.
+- Respuesta modelo resumida.
+
+36. banco_supuestos_30.txt
+Contiene:
+- 30 supuestos TIC A1/A2.
+- Temas de sede, ciberseguridad, cloud, datos, licitacion, interoperabilidad, legacy, DevSecOps, IA, continuidad, accesibilidad, CPD, identidad, APIs y gobernanza.
+- Checklist de correccion rapida.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

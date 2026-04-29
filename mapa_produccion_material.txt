@@ -27,7 +27,7 @@ ESTADO GENERAL
 | Gobernanza/gestion A1-A2 | Medio-alto | fichas_gobernanza_tic_age, fichas_direccion_proyectos, fichas_itil_cobit_calidad | Casos de gobierno, auditoria y priorizacion |
 | Sistemas/redes/cloud | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_redes_detalladas, fichas_sistemas_cloud_detalladas, test_tecnico_100 | Mas preguntas por dificultad |
 | Desarrollo/datos/IA | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_bases_datos_sql, fichas_desarrollo_web_apis, test_tecnico_100 | Java/.NET especifico |
-| Supuestos | Medio-alto | banco_supuestos, respuestas_modelo, plantillas | Aumentar a 30 supuestos |
+| Supuestos | Alto | banco_supuestos, banco_supuestos_30, respuestas_modelo, plantillas, simulacro_a1_1, simulacro_a2_1 | Mas respuestas desarrolladas |
 | Test | Inicial | banco_test_inicial_100 | Llegar a 500 preguntas |
 | Memoria | Inicial | glosario, mnemotecnias | Tarjetas y repasos espaciados |
 | Control de estudio | Medio | calendario_12_semanas, control_estudio | Cuadro mensual y revision |
@@ -62,10 +62,10 @@ Fase 4 - Cerrar gestion A1/A2:
 16. fichas_gobernanza_tic_age.txt - creado
 
 Fase 5 - Practica intensiva:
-17. banco_supuestos_30.txt
+17. banco_supuestos_30.txt - creado
 18. respuestas_modelo_10_nuevas.txt
-19. simulacro_a2_1.txt
-20. simulacro_a1_1.txt
+19. simulacro_a2_1.txt - creado
+20. simulacro_a1_1.txt - creado
 
 
 ============================================================

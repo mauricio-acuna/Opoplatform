@@ -1,0 +1,365 @@
+### Simulacro A2 GSI 1 - Gestion de Sistemas e Informatica
+Fecha de trabajo: 29/04/2026
+
+Uso:
+- Tiempo recomendado test: 75-90 minutos.
+- Tiempo recomendado supuesto: 90-120 minutos.
+- Corregir con lista de fallos.
+
+
+============================================================
+PARTE 1 - TEST 50 PREGUNTAS
+============================================================
+
+Claves:
+1B 2A 3C 4B 5A 6C 7B 8A 9C 10B
+11A 12C 13B 14A 15C 16B 17A 18C 19B 20A
+21C 22B 23A 24C 25B 26A 27C 28B 29A 30C
+31B 32A 33C 34B 35A 36C 37B 38A 39C 40B
+41A 42C 43B 44A 45C 46B 47A 48C 49B 50A
+
+1. La Ley 39/2015 regula principalmente:
+A. El regimen de contratos privados.
+B. El procedimiento administrativo comun.
+C. La organizacion judicial.
+D. La contabilidad nacional.
+
+2. La sede electronica se caracteriza por:
+A. Titularidad administrativa y efectos juridicos en actuaciones electronicas.
+B. Ser cualquier pagina web.
+C. No requerir seguridad.
+D. No tener relacion con ciudadanos.
+
+3. El ENI contempla interoperabilidad:
+A. Solo fisica.
+B. Solo economica.
+C. Organizativa, semantica y tecnica.
+D. Solo contractual.
+
+4. El ENS se basa, entre otros, en:
+A. Maximo privilegio.
+B. Gestion de seguridad basada en riesgos.
+C. Ausencia de auditoria.
+D. Falta de trazabilidad.
+
+5. RGPD exige minimizacion, que significa:
+A. Recoger solo datos necesarios.
+B. Recoger todos los datos posibles.
+C. No registrar nada.
+D. Publicar datos.
+
+6. En un contrato TIC con acceso a datos personales, el proveedor suele ser:
+A. Interesado.
+B. Autoridad de control.
+C. Encargado del tratamiento.
+D. Legislador.
+
+7. La CMAD es:
+A. Un protocolo de red.
+B. Comision Ministerial de Administracion Digital.
+C. Una base de datos.
+D. Un sistema operativo.
+
+8. La reversibilidad contractual busca:
+A. Evitar dependencia del proveedor y recuperar control.
+B. Impedir documentacion.
+C. Eliminar datos.
+D. Sustituir ENS.
+
+9. TCP se caracteriza por:
+A. No tener conexion.
+B. No ordenar.
+C. Ser fiable y orientado a conexion.
+D. Ser solo fisico.
+
+10. DNS permite:
+A. Cifrar discos.
+B. Resolver nombres.
+C. Gestionar contratos.
+D. Crear backups.
+
+11. RTO es:
+A. Tiempo objetivo de recuperacion.
+B. Perdida maxima de datos.
+C. Codigo de recurso.
+D. Capa OSI.
+
+12. ACID se asocia con:
+A. Redes.
+B. Contratacion.
+C. Transacciones.
+D. UX.
+
+13. REST suele usar:
+A. Solo XML.
+B. Recursos HTTP y formatos como JSON.
+C. Solo VPN.
+D. Solo SQL.
+
+14. SAST analiza:
+A. Codigo fuente de forma estatica.
+B. Logs en produccion exclusivamente.
+C. Contratos.
+D. Accesibilidad.
+
+15. WCAG se relaciona con:
+A. SQL.
+B. Cloud.
+C. Accesibilidad web.
+D. DHCP.
+
+16. ITIL se orienta a:
+A. Poder judicial.
+B. Gestion de servicios TIC.
+C. Firma manuscrita.
+D. Fiscalidad.
+
+17. COBIT se asocia con:
+A. Gobierno y control TIC.
+B. Solo incidencias.
+C. Solo DNS.
+D. Solo Java.
+
+18. Un API Gateway puede:
+A. Sustituir RGPD.
+B. Eliminar autenticacion.
+C. Centralizar seguridad, cuotas y trazabilidad.
+D. Evitar versionado siempre.
+
+19. Una brecha de datos debe:
+A. Ignorarse si no hay prensa.
+B. Documentarse y evaluarse, notificando si procede.
+C. Ocultarse siempre.
+D. Resolverla sin DPD.
+
+20. El expediente electronico debe incluir:
+A. Documentos, indice, metadatos y garantias.
+B. Solo PDFs.
+C. Solo emails.
+D. Solo logs.
+
+21. La Plataforma de Intermediacion de Datos permite:
+A. Crear redes.
+B. Firmar contratos.
+C. Consultar/verificar datos entre Administraciones cuando procede.
+D. Sustituir todos los expedientes.
+
+22. La actuacion administrativa automatizada exige:
+A. Ausencia de responsables.
+B. Organo responsable, criterios y trazabilidad.
+C. No tener logs.
+D. Decisiones secretas.
+
+23. Una DMZ sirve para:
+A. Separar servicios expuestos de redes internas.
+B. Ejecutar SQL.
+C. Firmar documentos.
+D. Gestionar plazos.
+
+24. El cifrado en transito protege:
+A. Datos almacenados exclusivamente.
+B. Documentos impresos.
+C. Comunicaciones.
+D. Contratos.
+
+25. NoSQL puede ser adecuado:
+A. Nunca.
+B. Segun requisitos de modelo, volumen, consulta y consistencia.
+C. Siempre sustituye SQL.
+D. Solo para correo.
+
+26. Una EIPD es recomendable/obligatoria cuando:
+A. Hay alto riesgo para derechos y libertades.
+B. Se cambia un color.
+C. Se reinicia un servidor.
+D. Se borra cache.
+
+27. Una copia de seguridad debe:
+A. No probarse.
+B. Guardarse siempre solo en produccion.
+C. Probar restauracion.
+D. No documentarse.
+
+28. La Ley 40/2015 se vincula con:
+A. Solo delitos.
+B. Sede, actuacion automatizada, relaciones electronicas entre Administraciones.
+C. Solo nominas.
+D. Solo propiedad intelectual.
+
+29. El RD 203/2021 desarrolla:
+A. Actuacion y funcionamiento del sector publico por medios electronicos.
+B. Solo contratos.
+C. Solo sanciones penales.
+D. Solo impuestos.
+
+30. El RD 1125/2024 regula:
+A. Solo vacaciones.
+B. Solo presupuestos.
+C. Gobernanza TIC/Administracion Digital del Estado.
+D. Solo proteccion civil.
+
+31. Un SLA debe ser:
+A. Secreto.
+B. Medible y verificable.
+C. Posterior al contrato.
+D. Ambiguo.
+
+32. La gestion de problemas busca:
+A. Causa raiz de incidencias.
+B. Solo restaurar servicio inmediato.
+C. Diseñar formularios.
+D. Eliminar cambios.
+
+33. Un monolito:
+A. Siempre es ilegal.
+B. No puede funcionar.
+C. Puede ser simple, pero complicar evolucion/escalado.
+D. No puede tener base de datos.
+
+34. Microservicios:
+A. Siempre reducen complejidad.
+B. Aumentan flexibilidad con mayor complejidad operativa.
+C. Eliminan observabilidad.
+D. Evitan seguridad.
+
+35. NTP ayuda a:
+A. Sincronizar hora para logs/evidencias.
+B. Crear expedientes.
+C. Contratar proveedores.
+D. Programar frontend.
+
+36. DLP se orienta a:
+A. SQL.
+B. DNS.
+C. Prevencion/control de fuga de informacion.
+D. CSS.
+
+37. El principio de minimo privilegio implica:
+A. Todos administradores.
+B. Solo permisos necesarios.
+C. Usuarios compartidos.
+D. Sin autenticacion.
+
+38. El responsable del tratamiento:
+A. Decide fines y medios.
+B. Siempre es proveedor.
+C. Es siempre ciudadano.
+D. No existe.
+
+39. El DPD:
+A. Compila codigo.
+B. Gestiona DNS.
+C. Asesora/supervisa proteccion de datos.
+D. Sustituye al responsable.
+
+40. Un PPT TIC debe incluir:
+A. Solo precio.
+B. Requisitos funcionales/no funcionales, seguridad, SLAs, entregables.
+C. Solo marca.
+D. Solo organigrama.
+
+41. La accesibilidad en servicios publicos:
+A. Es garantia de igualdad y calidad.
+B. Es estetica opcional.
+C. Sustituye RGPD.
+D. Solo aplica a redes.
+
+42. Una cola de mensajes ayuda a:
+A. Crear usuarios.
+B. Firmar documentos.
+C. Desacoplar procesos asincronos.
+D. Sustituir backups.
+
+43. Un indice de base de datos:
+A. Siempre mejora sin coste.
+B. Mejora ciertas consultas con coste en escrituras/espacio.
+C. Sustituye claves.
+D. Es un firewall.
+
+44. HAVING filtra:
+A. Grupos.
+B. Puertos.
+C. Usuarios.
+D. Certificados.
+
+45. La neutralidad tecnologica busca:
+A. Imponer marca.
+B. Evitar estandares.
+C. Evitar dependencia o discriminacion tecnologica injustificada.
+D. Prohibir software.
+
+46. La reutilizacion de aplicaciones publicas:
+A. Siempre esta prohibida.
+B. Puede evitar duplicidades y mejorar eficiencia.
+C. Elimina seguridad.
+D. Sustituye procedimiento.
+
+47. La categoria ENS se basa en:
+A. Impacto en dimensiones de seguridad.
+B. Precio del contrato.
+C. Marca de servidores.
+D. Numero de empleados.
+
+48. Los logs deben:
+A. Ser publicos siempre.
+B. Borrarse siempre cada hora.
+C. Protegerse y auditarse segun necesidad.
+D. No existir.
+
+49. DevSecOps implica:
+A. Seguridad integrada en ciclo de vida/pipeline.
+B. No probar.
+C. No documentar.
+D. Solo deploy manual.
+
+50. Una buena respuesta A2 debe integrar:
+A. Normativa, tecnica, seguridad, interoperabilidad y operacion.
+B. Solo marcas.
+C. Solo opinion.
+D. Solo codigo.
+
+
+============================================================
+PARTE 2 - SUPUESTO PRACTICO
+============================================================
+
+Enunciado:
+Un organismo de la AGE gestiona subvenciones mediante una aplicacion antigua. Los ciudadanos presentan solicitudes por registro presencial, email y una web sin registro electronico. Los expedientes se guardan en carpetas compartidas y los empleados notifican por correo ordinario o email. La direccion quiere implantar una plataforma unica de tramitacion electronica, con sede, registro, expediente, notificaciones, interoperabilidad con otras Administraciones y cuadro de mando.
+
+Redacta una propuesta tecnica y organizativa que incluya:
+1. Diagnostico inicial.
+2. Marco normativo.
+3. Arquitectura propuesta.
+4. Seguridad ENS y proteccion de datos.
+5. Interoperabilidad ENI y servicios comunes.
+6. Implantacion por fases.
+7. Operacion, soporte e indicadores.
+
+
+============================================================
+RUBRICA SUPUESTO - 10 PUNTOS
+============================================================
+
+1. Diagnostico y comprension del problema: 1 punto.
+2. Marco normativo correcto: 1,5 puntos.
+3. Arquitectura coherente: 2 puntos.
+4. ENS/RGPD: 1,5 puntos.
+5. ENI/servicios comunes: 1 punto.
+6. Implantacion y gestion del cambio: 1 punto.
+7. Operacion, SLAs e indicadores: 1 punto.
+8. Claridad y enfoque publico: 1 punto.
+
+
+============================================================
+ESQUEMA DE RESPUESTA ESPERADA
+============================================================
+
+- No basta crear una web: debe haber sede electronica.
+- Sustituir email por registro/notificacion electronica con garantias.
+- Expediente electronico con indice, documentos, metadatos, firmas, archivo.
+- Integrar Cl@ve, SIR, Notifica/DEHú, CSV, DIR3, PID, Carpeta Ciudadana si procede.
+- ENS: categorizacion, riesgos, declaracion de aplicabilidad, accesos, logs, continuidad, incidentes.
+- RGPD: responsable, encargado, base juridica, minimizacion, derechos, DPD, EIPD si procede.
+- ENI/NTI: documento, expediente, firma, digitalizacion, copiado, interoperabilidad.
+- Fases: analisis, piloto, migracion, pruebas, formacion, despliegue, estabilizacion.
+- Indicadores: disponibilidad, tiempos de tramitacion, incidencias, uso electronico, cumplimiento plazos, satisfaccion.
