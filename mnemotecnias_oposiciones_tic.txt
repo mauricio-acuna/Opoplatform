@@ -1,0 +1,179 @@
+### Mnemotecnias para oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Recordar listas largas sin quemarse.
+
+
+============================================================
+ENS - PRINCIPIOS BASICOS
+============================================================
+
+Lista:
+- Seguridad como proceso integral.
+- Gestion basada en riesgos.
+- Prevencion, deteccion, respuesta y conservacion.
+- Lineas de defensa.
+- Vigilancia continua.
+- Reevaluacion periodica.
+- Diferenciacion de responsabilidades.
+
+Mnemotecnia:
+"Ines Riesgo Prepara Lineas, Vigila, Reevalua y Diferencia."
+
+Iniciales:
+I R P L V R D
+
+
+============================================================
+ENS - DIMENSIONES
+============================================================
+
+Lista:
+- Disponibilidad.
+- Autenticidad.
+- Integridad.
+- Confidencialidad.
+- Trazabilidad.
+
+Mnemotecnia:
+"DAIC-T"
+
+Frase:
+"Disponible, Autentico, Integro, Confidencial y Trazable."
+
+
+============================================================
+RGPD - PRINCIPIOS
+============================================================
+
+Lista:
+- Licitud, lealtad y transparencia.
+- Limitacion de finalidad.
+- Minimizacion.
+- Exactitud.
+- Limitacion del plazo.
+- Integridad y confidencialidad.
+- Responsabilidad proactiva.
+
+Mnemotecnia:
+"LiFi MiEx PlaIn Pro"
+
+Frase:
+"Licitud y Finalidad; Minimos Exactos; Plazo, Integridad y Prueba."
+
+
+============================================================
+ENI - DIMENSIONES
+============================================================
+
+Lista:
+- Organizativa.
+- Semantica.
+- Tecnica.
+
+Mnemotecnia:
+"OST"
+
+Frase:
+"Organismos se entienden Semantica y Tecnicamente."
+
+
+============================================================
+SUPUESTO PRACTICO - ORDEN DE RESPUESTA
+============================================================
+
+Lista:
+- Objetivo.
+- Normativa.
+- Diagnostico.
+- Arquitectura.
+- Seguridad.
+- Interoperabilidad.
+- Datos.
+- Implantacion.
+- Operacion.
+- Cierre.
+
+Mnemotecnia:
+"ONDA SIDIOC"
+
+Frase:
+"Objetivo y Normas; Diagnostico y Arquitectura; Seguridad, Interoperabilidad y Datos; Implantacion, Operacion y Cierre."
+
+
+============================================================
+CONTRATACION TIC
+============================================================
+
+Lista:
+- Necesidad.
+- Objeto.
+- PPT.
+- Criterios.
+- SLAs.
+- Seguridad.
+- Transferencia.
+- Reversibilidad.
+
+Mnemotecnia:
+"NO Puedo Comprar Sin Seguridad, Transferencia y Reversibilidad"
+
+Iniciales:
+N O P C S S T R
+
+
+============================================================
+CIBERINCIDENTE
+============================================================
+
+Lista:
+- Activar.
+- Contener.
+- Analizar.
+- Recuperar.
+- Comunicar.
+- Mejorar.
+
+Mnemotecnia:
+"ACARCoM"
+
+Frase:
+"Activo, Contengo, Analizo, Recupero, Comunico y Mejoro."
+
+
+============================================================
+CLOUD PUBLICO
+============================================================
+
+Lista:
+- Categorizacion ENS.
+- Datos/RGPD.
+- Identidad.
+- Cifrado.
+- Logs.
+- Continuidad.
+- SLAs.
+- Reversibilidad.
+
+Mnemotecnia:
+"CaDa Identifica Cifra Logs, Continua con SLA y Revierte."
+
+
+============================================================
+EXPEDIENTE ELECTRONICO
+============================================================
+
+Lista:
+- Documentos.
+- Indice.
+- Metadatos.
+- Firma/sello.
+- Trazabilidad.
+- Archivo/conservacion.
+
+Mnemotecnia:
+"DIME FiTA"
+
+Frase:
+"Documentos, Indice, Metadatos, Firma, Trazabilidad y Archivo."

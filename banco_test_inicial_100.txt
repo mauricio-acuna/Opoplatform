@@ -1,0 +1,669 @@
+### Banco inicial de 100 preguntas tipo test - Oposiciones TIC AGE
+Fecha de trabajo: 29/04/2026
+
+Modo de uso:
+- Primera vuelta: responder sin mirar.
+- Segunda vuelta: corregir y marcar fallos.
+- Tercera vuelta: convertir cada fallo en ficha.
+
+Claves:
+- 1B 2A 3B 4C 5B 6A 7B 8A 9C 10B
+- 11A 12C 13B 14A 15B 16C 17A 18B 19C 20A
+- 21B 22A 23C 24B 25A 26C 27B 28A 29C 30B
+- 31A 32B 33C 34A 35B 36C 37A 38B 39A 40C
+- 41B 42A 43C 44B 45A 46C 47B 48A 49C 50B
+- 51A 52C 53B 54A 55C 56B 57A 58C 59B 60A
+- 61C 62B 63A 64C 65B 66A 67C 68B 69A 70C
+- 71B 72A 73C 74B 75A 76C 77B 78A 79C 80B
+- 81A 82C 83B 84A 85C 86B 87A 88C 89B 90A
+- 91C 92B 93A 94C 95B 96A 97C 98B 99A 100C
+
+
+============================================================
+NORMATIVA Y ADMINISTRACION DIGITAL
+============================================================
+
+1. La Ley 39/2015 regula principalmente:
+A. La estructura del Gobierno.
+B. El procedimiento administrativo comun de las Administraciones Publicas.
+C. El Codigo Penal.
+D. La contratacion privada.
+
+2. La Ley 40/2015 regula principalmente:
+A. El regimen juridico del sector publico.
+B. Solo el regimen electoral.
+C. Solo subvenciones.
+D. Solo propiedad intelectual.
+
+3. La sede electronica se diferencia del portal porque:
+A. El portal siempre requiere firma.
+B. La sede permite actuaciones con efectos juridicos bajo titularidad administrativa.
+C. La sede es una red social.
+D. No hay diferencia.
+
+4. El correo de aviso de una notificacion electronica:
+A. Es siempre la notificacion.
+B. Sustituye la puesta a disposicion.
+C. No sustituye las garantias de puesta a disposicion y constancia.
+D. Elimina plazos.
+
+5. Un expediente electronico debe incluir:
+A. Solo documentos escaneados.
+B. Documentos, indice, metadatos, firma/trazabilidad y conservacion.
+C. Solo correos.
+D. Solo una hoja Excel.
+
+6. La actuacion administrativa automatizada exige:
+A. Organo responsable, criterios/garantias y trazabilidad.
+B. Ausencia total de responsabilidad.
+C. Decision secreta sin auditoria.
+D. Prohibicion de firma electronica.
+
+7. El ENI se centra en:
+A. Solo seguridad perimetral.
+B. Interoperabilidad organizativa, semantica y tecnica.
+C. Solo nominas.
+D. Solo licencias de software.
+
+8. El ENS tiene por objeto:
+A. Establecer principios y requisitos minimos de seguridad para informacion y servicios.
+B. Regular vacaciones.
+C. Regular oposiciones.
+D. Sustituir al RGPD.
+
+9. El CSV permite:
+A. Crear redes privadas.
+B. Comprimir datos.
+C. Verificar documentos electronicos.
+D. Borrar expedientes.
+
+10. DIR3 se relaciona con:
+A. Cifrado de discos.
+B. Directorio comun de unidades organicas/oficinas.
+C. Programacion Java.
+D. Copias de seguridad.
+
+
+============================================================
+ENS Y SEGURIDAD
+============================================================
+
+11. Un principio basico del ENS es:
+A. Seguridad como proceso integral.
+B. Improvisacion.
+C. Maximo privilegio.
+D. Ausencia de auditoria.
+
+12. La categoria de un sistema ENS se determina considerando:
+A. Solo el precio.
+B. Solo el proveedor.
+C. Impacto en disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad.
+D. Solo el lenguaje de programacion.
+
+13. La Declaracion de Aplicabilidad sirve para:
+A. Sustituir la politica de seguridad.
+B. Formalizar medidas seleccionadas.
+C. Evitar analisis de riesgos.
+D. Elegir colores de interfaz.
+
+14. Minimo privilegio significa:
+A. Dar solo los permisos imprescindibles.
+B. Dar permisos de administrador a todos.
+C. No autenticar.
+D. Compartir usuarios.
+
+15. La continuidad de actividad se relaciona con:
+A. Solo diseño grafico.
+B. RTO, RPO, backups y recuperacion.
+C. Contratos laborales.
+D. Redes sociales.
+
+16. La vigilancia continua implica:
+A. No registrar eventos.
+B. Revisar solo al final del contrato.
+C. Monitorizacion, alertas, logs y reevaluacion.
+D. Eliminar auditorias.
+
+17. La gestion de riesgos debe hacerse:
+A. Antes y durante el ciclo de vida del sistema.
+B. Solo despues de produccion.
+C. Solo si no hay datos.
+D. Nunca en sistemas pequeños.
+
+18. El responsable de seguridad:
+A. Decide siempre la finalidad del tratamiento.
+B. Supervisa la adecuacion de medidas y gestion de seguridad.
+C. Es siempre el proveedor.
+D. Es el usuario anonimo.
+
+19. Una medida ante ransomware es:
+A. Quitar backups.
+B. Compartir administradores.
+C. Copias verificadas, segmentacion, MFA y respuesta a incidentes.
+D. Desactivar logs.
+
+20. El ENS aplica:
+A. Tambien a proveedores privados cuando prestan servicios/soluciones al sector publico en el marco aplicable.
+B. Solo a empresas privadas.
+C. Solo a redes wifi.
+D. Solo a C1.
+
+
+============================================================
+PROTECCION DE DATOS
+============================================================
+
+21. La minimizacion de datos implica:
+A. Recoger todo por si acaso.
+B. Recoger solo lo necesario.
+C. Borrar auditorias.
+D. Evitar cifrado.
+
+22. El responsable del tratamiento:
+A. Decide fines y medios.
+B. Es siempre el usuario.
+C. No existe en Administracion.
+D. Es siempre el proveedor cloud.
+
+23. Un encargado del tratamiento:
+A. Decide fines propios siempre.
+B. Es una autoridad judicial.
+C. Trata datos por cuenta del responsable.
+D. Sustituye al DPD.
+
+24. Una EIPD procede especialmente:
+A. Al cambiar tipografia.
+B. Si puede haber alto riesgo para derechos y libertades.
+C. En todo reinicio de servidor.
+D. Solo con papel.
+
+25. Una brecha de datos personales debe:
+A. Documentarse y evaluarse, notificando/comunicando si procede.
+B. Ignorarse si no sale en prensa.
+C. Ocultarse siempre.
+D. Resolverla sin DPD.
+
+26. El consentimiento en Administracion:
+A. Es siempre la unica base.
+B. Nunca existe.
+C. Puede no ser la base adecuada si hay obligacion legal/interes publico/poderes publicos.
+D. Sustituye la transparencia.
+
+27. Privacidad desde el diseño significa:
+A. Añadir legal al final.
+B. Incorporar proteccion de datos desde la concepcion del sistema.
+C. Borrar datos al azar.
+D. Ocultar formularios.
+
+28. Un derecho RGPD es:
+A. Acceso.
+B. Ensamblado.
+C. Compilacion.
+D. Balanceo.
+
+29. Datos de categorias especiales exigen:
+A. Menos proteccion.
+B. Publicacion automatica.
+C. Cautelas reforzadas y base adecuada.
+D. No aplicar RGPD.
+
+30. En IA publica con datos personales se debe cuidar:
+A. Solo velocidad.
+B. Base juridica, sesgos, explicabilidad, supervision y EIPD si procede.
+C. Solo marca de GPU.
+D. Solo estetica.
+
+
+============================================================
+CONSTITUCION Y EBEP
+============================================================
+
+31. El art. 18.4 CE se vincula a:
+A. Limitacion del uso de la informatica para garantizar derechos.
+B. Contratacion menor.
+C. Vacaciones.
+D. Redes privadas.
+
+32. El art. 103 CE establece que la Administracion sirve:
+A. Intereses corporativos.
+B. Con objetividad los intereses generales.
+C. Solo al proveedor.
+D. Solo a empleados.
+
+33. El acceso al empleo publico se basa en:
+A. Sorteo.
+B. Antiguedad privada.
+C. Igualdad, merito y capacidad.
+D. Compra de plaza.
+
+34. Son empleados publicos:
+A. Quienes desempenan funciones retribuidas en las Administraciones al servicio de intereses generales.
+B. Solo ministros.
+C. Solo contratistas.
+D. Solo becarios.
+
+35. Un funcionario de carrera tiene:
+A. Contrato mercantil.
+B. Relacion estatutaria regulada por Derecho Administrativo.
+C. Relacion informal.
+D. Nombramiento privado.
+
+36. El codigo de conducta del empleado publico incluye:
+A. Opacidad.
+B. Parcialidad.
+C. Objetividad, integridad, neutralidad y responsabilidad.
+D. Arbitrariedad.
+
+37. La inamovilidad es derecho propio de:
+A. Funcionario de carrera.
+B. Proveedor.
+C. Eventual necesariamente.
+D. Ciudadano anonimo.
+
+38. El personal eventual realiza:
+A. Funciones permanentes de carrera.
+B. Funciones de confianza o asesoramiento especial.
+C. Contratacion publica.
+D. Auditoria judicial.
+
+39. La promocion interna:
+A. Requiere proceso y requisitos, no es automatica.
+B. Es automatica por edad.
+C. No existe.
+D. Depende del proveedor.
+
+40. La confidencialidad en EBEP conecta con:
+A. Diseño visual.
+B. Vacaciones.
+C. Seguridad, datos y deberes del empleado publico.
+D. Tipografia.
+
+
+============================================================
+CONTRATACION TIC
+============================================================
+
+41. El PPT contiene:
+A. Solo nominas.
+B. Prescripciones tecnicas del contrato.
+C. Sentencias.
+D. Examen de oposicion.
+
+42. La reversibilidad busca:
+A. Evitar dependencia y recuperar control al terminar/cambiar contrato.
+B. Bloquear a la Administracion.
+C. Sustituir seguridad.
+D. Eliminar documentacion.
+
+43. Un SLA debe ser:
+A. Vago.
+B. Secreto.
+C. Medible y verificable.
+D. Posterior al contrato.
+
+44. En contrato con datos personales puede requerirse:
+A. Eliminar RGPD.
+B. Encargo de tratamiento.
+C. Usuarios compartidos.
+D. Sin logs.
+
+45. Un criterio de adjudicacion debe estar:
+A. Vinculado al objeto.
+B. Inventado despues.
+C. Oculto.
+D. Basado en simpatia.
+
+46. Un pliego TIC robusto incluye:
+A. Solo precio.
+B. Solo una marca.
+C. Seguridad, calidad, SLAs, entregables, transferencia y reversibilidad.
+D. Nada tecnico.
+
+47. "Cumplira normativa vigente" sin detalle es:
+A. Siempre suficiente.
+B. Debil si no se concreta en obligaciones verificables.
+C. Mejor que SLAs.
+D. Equivale a auditoria.
+
+48. La propiedad intelectual en contratos TIC:
+A. Debe regularse para entregables, licencias y derechos de uso.
+B. No importa nunca.
+C. Impide documentar.
+D. Sustituye pruebas.
+
+49. Penalidades contractuales:
+A. Se aplican al azar.
+B. No pueden existir.
+C. Deben vincularse a incumplimientos definidos.
+D. Sustituyen recepcion.
+
+50. La subcontratacion:
+A. Siempre elimina responsabilidad.
+B. Debe estar controlada segun pliego/normativa y obligaciones aplicables.
+C. No afecta a datos.
+D. Impide seguridad.
+
+
+============================================================
+SISTEMAS, REDES Y CLOUD
+============================================================
+
+51. TCP se caracteriza por:
+A. Conexion y fiabilidad.
+B. Ausencia de control.
+C. Ser solo fisico.
+D. Ser lenguaje web.
+
+52. DNS sirve para:
+A. Cifrar discos.
+B. Asignar salarios.
+C. Resolver nombres.
+D. Gestionar oposiciones.
+
+53. TLS se asocia con:
+A. Nominas.
+B. Cifrado/autenticacion en comunicaciones.
+C. Impresion.
+D. Copias en papel.
+
+54. Una DMZ sirve para:
+A. Ubicar servicios expuestos separandolos de redes internas.
+B. Guardar vacaciones.
+C. Ejecutar SQL.
+D. Sustituir ENS.
+
+55. IaaS proporciona:
+A. Aplicacion completa final.
+B. Solo datos abiertos.
+C. Infraestructura como servicio.
+D. Normativa juridica.
+
+56. PaaS proporciona:
+A. Solo hardware fisico propio.
+B. Plataforma gestionada para desplegar/desarrollar.
+C. Papel.
+D. Oposiciones.
+
+57. Un riesgo cloud es:
+A. Dependencia del proveedor y reversibilidad.
+B. Mayor igualdad automaticamente.
+C. Ausencia de datos.
+D. No necesitar seguridad.
+
+58. RTO es:
+A. Cantidad de usuarios.
+B. Porcentaje de CPU.
+C. Tiempo objetivo de recuperacion.
+D. Tipo de contrato.
+
+59. RPO es:
+A. Marco juridico.
+B. Punto objetivo de recuperacion/perdida maxima asumible de datos.
+C. Router principal oficial.
+D. Registro presencial.
+
+60. Hardening significa:
+A. Configuracion segura reduciendo superficie de ataque.
+B. Aumentar permisos.
+C. Quitar parches.
+D. Publicar claves.
+
+
+============================================================
+DESARROLLO, DATOS E INTEGRACION
+============================================================
+
+61. ACID se relaciona con:
+A. Redes.
+B. Accesibilidad.
+C. Transacciones en bases de datos.
+D. Contratacion.
+
+62. Una clave primaria:
+A. Cifra siempre toda la tabla.
+B. Identifica de forma unica registros.
+C. Es un contrato.
+D. Es un navegador.
+
+63. SQL es:
+A. Lenguaje de consulta/manipulacion de bases relacionales.
+B. Protocolo wifi.
+C. Sistema operativo.
+D. Norma constitucional.
+
+64. REST suele usar:
+A. Solo papel.
+B. Solo FTP.
+C. Recursos HTTP y formatos como JSON.
+D. Exclusivamente fax.
+
+65. Un API Gateway puede:
+A. Eliminar autenticacion.
+B. Centralizar publicacion, seguridad, cuotas y trazabilidad de APIs.
+C. Sustituir base juridica.
+D. Borrar auditorias.
+
+66. CI significa:
+A. Integracion continua.
+B. Contrato inicial.
+C. Codigo invisible.
+D. Carpeta interna.
+
+67. SAST es:
+A. Analisis de redes fisicas.
+B. Sistema de archivos.
+C. Analisis estatico de seguridad del codigo.
+D. Servicio postal.
+
+68. Las pruebas de aceptacion validan:
+A. Solo hardware.
+B. Cumplimiento de requisitos desde perspectiva de aceptacion/usuario/negocio.
+C. Vacaciones.
+D. DNS.
+
+69. Versionar una API ayuda a:
+A. Gestionar cambios sin romper consumidores.
+B. Evitar seguridad.
+C. Eliminar documentacion.
+D. Cambiar leyes.
+
+70. NoSQL:
+A. Sustituye siempre SQL.
+B. Esta prohibido.
+C. Puede ser adecuado segun modelo, volumen, consulta y consistencia.
+D. Es solo Excel.
+
+
+============================================================
+GESTION, ACCESIBILIDAD E IA
+============================================================
+
+71. ITIL se relaciona con:
+A. Constitucion.
+B. Gestion de servicios TIC.
+C. SQL exclusivamente.
+D. Firma manuscrita.
+
+72. Una incidencia es:
+A. Interrupcion o degradacion de un servicio.
+B. Criterio de adjudicacion.
+C. Articulo constitucional.
+D. Plazo electoral.
+
+73. Un problema en gestion de servicios es:
+A. Un usuario enfadado sin mas.
+B. Una version.
+C. Causa subyacente de una o varias incidencias.
+D. Un contrato menor.
+
+74. La accesibilidad digital busca:
+A. Hacer la web mas cara.
+B. Que todas las personas puedan usar el servicio, incluidas personas con discapacidad.
+C. Sustituir RGPD.
+D. Evitar pruebas.
+
+75. WCAG se relaciona con:
+A. Accesibilidad web.
+B. TCP.
+C. SQL.
+D. EBEP.
+
+76. Gobierno del dato incluye:
+A. Solo pantallas bonitas.
+B. Solo backup.
+C. calidad, catalogo, metadatos, linaje y responsables.
+D. Solo redes.
+
+77. Linaje del dato es:
+A. Color de tabla.
+B. Trazabilidad del origen y transformaciones del dato.
+C. Codigo penal.
+D. Contrato laboral.
+
+78. En IA publica se debe garantizar:
+A. Supervision, explicabilidad, calidad de datos y respeto a derechos.
+B. Opacidad total.
+C. Decision irrecurrible.
+D. Sin auditoria.
+
+79. Un cuadro de mando sirve para:
+A. Programar Java.
+B. Sustituir datos.
+C. Medir y visualizar indicadores.
+D. Eliminar responsabilidades.
+
+80. Usabilidad significa:
+A. Cifrado de disco.
+B. Facilidad y eficiencia de uso.
+C. Solo cumplimiento legal.
+D. Base de datos.
+
+
+============================================================
+SUPUESTOS Y CRITERIO PUBLICO
+============================================================
+
+81. En un supuesto A1/A2 conviene empezar por:
+A. Contexto, objetivo publico y restricciones.
+B. Marca preferida.
+C. Precio inventado.
+D. Opinion personal.
+
+82. Una respuesta publica completa integra:
+A. Solo herramientas.
+B. Solo leyes.
+C. Normativa, arquitectura, seguridad, interoperabilidad, operacion e impacto.
+D. Solo organigrama.
+
+83. El ciudadano debe aparecer en la respuesta como:
+A. Ruido.
+B. Destinatario del servicio publico y de sus garantias.
+C. Proveedor.
+D. Administrador root.
+
+84. Interoperabilidad semantica significa:
+A. Que la informacion sea interpretable y reutilizable por sistemas.
+B. Cifrar discos.
+C. Cambiar contraseñas.
+D. Comprar servidores.
+
+85. Interoperabilidad organizativa implica:
+A. Solo JSON.
+B. Solo redes.
+C. Acuerdos/procesos entre entidades para colaborar.
+D. Solo DNS.
+
+86. El principio de neutralidad tecnologica busca:
+A. Imponer siempre una marca.
+B. Evitar discriminacion/dependencia injustificada por tecnologia.
+C. Prohibir estandares.
+D. Sustituir accesibilidad.
+
+87. Reutilizar aplicaciones publicas puede aportar:
+A. Eficiencia y reduccion de duplicidades.
+B. Mas dependencia siempre.
+C. Menos interoperabilidad siempre.
+D. Ninguna ventaja.
+
+88. Un sistema critico debe tener:
+A. Solo backup manual ocasional.
+B. Solo un servidor.
+C. Continuidad, alta disponibilidad, monitorizacion y recuperacion probada.
+D. Sin logs.
+
+89. Un buen cierre de supuesto incluye:
+A. Marca de portatil.
+B. Impacto en ciudadano, empleados, eficiencia, seguridad y cumplimiento.
+C. Color corporativo.
+D. Numero de enchufes.
+
+90. Un error grave en opositor tecnico es:
+A. Responder solo con tecnologia sin marco juridico ni servicio publico.
+B. Citar ENS.
+C. Hablar de interoperabilidad.
+D. Mencionar continuidad.
+
+
+============================================================
+MIX FINAL
+============================================================
+
+91. SIR se asocia con:
+A. Sistemas de inteligencia.
+B. SQL.
+C. Interconexion de registros.
+D. Servidores internos.
+
+92. Cl@ve se asocia con:
+A. Contratacion menor.
+B. Identificacion/autenticacion de ciudadanos.
+C. Copias de seguridad.
+D. Sistemas operativos.
+
+93. Carpeta Ciudadana permite:
+A. Relacion y consulta de informacion/expedientes/notificaciones por el ciudadano.
+B. Solo programacion.
+C. Cifrado fisico.
+D. Auditoria financiera exclusivamente.
+
+94. Los logs deben:
+A. Estar desprotegidos.
+B. Borrarse siempre al dia.
+C. Ser protegidos, utiles y auditables.
+D. Ser compartidos publicamente.
+
+95. MFA significa:
+A. Modelo funcional administrativo.
+B. Autenticacion multifactor.
+C. Memoria fiscal anual.
+D. Motor de firma anonima.
+
+96. Una vulnerabilidad critica debe:
+A. Gestionarse con prioridad, evaluacion de impacto y parche/mitigacion.
+B. Ignorarse.
+C. Publicarse sin control.
+D. Esperar al siguiente año.
+
+97. La documentacion tecnica:
+A. Es innecesaria.
+B. Solo la tiene proveedor.
+C. Facilita mantenimiento, transferencia y continuidad.
+D. Sustituye pruebas.
+
+98. El copiado autentico se vincula con:
+A. Cocina.
+B. Documento electronico/ENI y garantias de autenticidad.
+C. Redes sociales.
+D. Nominas.
+
+99. La trazabilidad permite:
+A. Saber quien hizo que, cuando y en que contexto.
+B. Evitar auditoria.
+C. Eliminar seguridad.
+D. Ocultar cambios.
+
+100. El plan de mejora continua se apoya en:
+A. Improvisacion.
+B. Ausencia de indicadores.
+C. Indicadores, auditorias, lecciones aprendidas y acciones correctoras.
+D. Repetir errores.

@@ -1,0 +1,89 @@
+### Glosario de siglas TIC AGE
+Fecha de trabajo: 29/04/2026
+
+Uso:
+Repasar a diario. En examen, una sigla bien usada sube nota; una sigla tirada al azar la baja.
+
+| Sigla | Significado | Como usarla en examen |
+|---|---|---|
+| AGE | Administracion General del Estado | Ambito estatal de muchos cuerpos TIC. |
+| A1 | Subgrupo A1 | Cuerpo Superior TIC, mayor nivel tecnico-directivo. |
+| A2 | Subgrupo A2 | Gestion de Sistemas e Informatica. |
+| C1 | Subgrupo C1 | Tecnicos Auxiliares de Informatica. |
+| TAI | Tecnicos Auxiliares de Informatica | Cuerpo C1 informatico AGE. |
+| GSI | Gestion de Sistemas e Informatica | Cuerpo A2 informatico AGE. |
+| ENS | Esquema Nacional de Seguridad | Seguridad, riesgos, medidas, categorias. |
+| ENI | Esquema Nacional de Interoperabilidad | Interoperabilidad organizativa, semantica y tecnica. |
+| NTI | Norma Tecnica de Interoperabilidad | Documento, expediente, firma, digitalizacion, catalogo de estandares. |
+| RGPD | Reglamento General de Proteccion de Datos | Principios, derechos, base juridica, responsable/encargado. |
+| LOPDGDD | Ley Organica de Proteccion de Datos Personales y garantia de derechos digitales | Adaptacion espanola RGPD y derechos digitales. |
+| DPD | Delegado de Proteccion de Datos | Asesor/supervisor en proteccion de datos. |
+| EIPD | Evaluacion de Impacto relativa a Proteccion de Datos | Tratamientos de alto riesgo. |
+| LCSP | Ley de Contratos del Sector Publico | Compra publica TIC, pliegos, SLAs, reversibilidad. |
+| PCAP | Pliego de Clausulas Administrativas Particulares | Condiciones juridico-administrativas del contrato. |
+| PPT | Pliego de Prescripciones Tecnicas | Requisitos tecnicos del contrato. |
+| SLA | Service Level Agreement / Acuerdo de Nivel de Servicio | Disponibilidad, tiempos, calidad y penalidades. |
+| BIA | Business Impact Analysis | Analisis de impacto para continuidad. |
+| RTO | Recovery Time Objective | Tiempo maximo objetivo de recuperacion. |
+| RPO | Recovery Point Objective | Perdida maxima asumible de datos medida en tiempo. |
+| CPD | Centro de Proceso de Datos | Infraestructura fisica/logica de sistemas. |
+| IAM | Identity and Access Management | Gestion de identidades y accesos. |
+| MFA | Multi-Factor Authentication | Autenticacion multifactor. |
+| SIEM | Security Information and Event Management | Correlacion y monitorizacion de eventos de seguridad. |
+| EDR | Endpoint Detection and Response | Deteccion/respuesta en endpoints. |
+| SOC | Security Operations Center | Operacion centralizada de seguridad. |
+| VPN | Virtual Private Network | Comunicacion segura por tunel. |
+| TLS | Transport Layer Security | Seguridad en comunicaciones. |
+| DNS | Domain Name System | Resolucion de nombres. |
+| DHCP | Dynamic Host Configuration Protocol | Asignacion dinamica de configuracion IP. |
+| API | Application Programming Interface | Integracion entre sistemas. |
+| REST | Representational State Transfer | Estilo de APIs sobre HTTP. |
+| SOAP | Simple Object Access Protocol | Servicios web basados en XML. |
+| JSON | JavaScript Object Notation | Formato de intercambio de datos. |
+| XML | eXtensible Markup Language | Formato estructurado usado en interoperabilidad. |
+| SQL | Structured Query Language | Lenguaje de bases de datos relacionales. |
+| SGBD | Sistema de Gestion de Bases de Datos | Motor de base de datos. |
+| ACID | Atomicidad, Consistencia, Aislamiento, Durabilidad | Propiedades de transacciones. |
+| CI/CD | Integracion Continua / Entrega o Despliegue Continuo | Automatizacion de construccion, pruebas y despliegue. |
+| DevSecOps | Desarrollo, Seguridad y Operaciones | Seguridad integrada en ciclo de vida. |
+| SAST | Static Application Security Testing | Analisis estatico de codigo. |
+| DAST | Dynamic Application Security Testing | Analisis dinamico de aplicacion. |
+| SCA | Software Composition Analysis | Analisis de dependencias. |
+| IaC | Infrastructure as Code | Infraestructura definida como codigo. |
+| UX | User Experience | Experiencia de usuario. |
+| WCAG | Web Content Accessibility Guidelines | Criterios de accesibilidad web. |
+| W3C | World Wide Web Consortium | Estandares web. |
+| CSV | Codigo Seguro de Verificacion | Verificacion de documentos electronicos. |
+| SIR | Sistema de Interconexion de Registros | Intercambio registral entre Administraciones. |
+| DIR3 | Directorio Comun de Unidades Organicas y Oficinas | Interoperabilidad organizativa. |
+| PID | Plataforma de Intermediacion de Datos | Verificacion/consulta de datos entre Administraciones. |
+| DEHú | Direccion Electronica Habilitada unica | Notificaciones electronicas. |
+| Cl@ve | Sistema comun de identificacion/autenticacion | Acceso ciudadano a servicios electronicos. |
+| CAU | Centro de Atencion a Usuarios | Soporte a usuarios. |
+| CMDB | Configuration Management Database | Base de datos de configuracion. |
+| ITIL | Information Technology Infrastructure Library | Gestion de servicios TIC. |
+| COBIT | Control Objectives for Information and Related Technology | Gobierno/control TIC. |
+| EFQM | European Foundation for Quality Management | Modelo de calidad/excelencia. |
+| IA | Inteligencia Artificial | Automatizacion/analitica avanzada con cautelas. |
+| BI | Business Intelligence | Analitica y cuadros de mando. |
+| OLAP | Online Analytical Processing | Analisis multidimensional. |
+
+
+============================================================
+SIGLAS QUE CONVIENE METER EN SUPUESTOS
+============================================================
+
+Sede electronica:
+Ley 39/2015, Ley 40/2015, RD 203/2021, ENS, ENI, NTI, Cl@ve, SIR, CSV, DIR3, DEHú, RGPD.
+
+Ciberincidente:
+ENS, RGPD, DPD, SIEM, EDR, SOC, MFA, BIA, RTO, RPO.
+
+Cloud:
+ENS, RGPD, IaaS, PaaS, SaaS, IAM, MFA, SLA, RTO, RPO, reversibilidad.
+
+Contratacion:
+LCSP, PCAP, PPT, SLA, ENS, ENI, RGPD, DPD, reversibilidad.
+
+Datos/IA:
+RGPD, LOPDGDD, DPD, EIPD, ENI, ENS, BI, IA, metadatos, linaje.

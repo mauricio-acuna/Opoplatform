@@ -1,0 +1,48 @@
+### Vacante Basica: Tecnico Auxiliar de Informatica / C1 TAI
+
+Objetivo: conseguir una plaza informatica de entrada en la Administracion, con temario mas acotado y enfoque practico. Es la ruta mas rapida si se busca estabilidad cuanto antes.
+
+Perfil al que encaja:
+- Personas con titulacion minima suficiente para C1 y base tecnica general.
+- Candidatos que quieren entrar primero y promocionar despues a A2/A1.
+- Ingenieros que prefieren asegurar plaza aunque el salario inicial sea inferior.
+
+Prioridad de estudio:
+1. Legislacion comun: Constitucion, EBEP, igualdad, proteccion de datos, transparencia y administracion electronica.
+2. Sistemas: Windows, Linux, virtualizacion, almacenamiento, copias de seguridad, monitorizacion y soporte.
+3. Redes: modelo OSI/TCP-IP, direccionamiento, DNS, DHCP, HTTP, TLS, VPN, firewalls y herramientas de diagnostico.
+4. Bases de datos: modelo relacional, SQL basico, normalizacion, transacciones, copias y permisos.
+5. Desarrollo: algoritmia basica, estructuras de datos, HTML/CSS/JavaScript, APIs, pruebas y control de versiones.
+6. Seguridad: ENS, RGPD, autenticacion, autorizacion, gestion de identidades, malware, hardening y respuesta ante incidentes.
+
+Rutina semanal minima:
+- 4 dias de teoria: 60-90 minutos por sesion.
+- 2 dias de test: bloques de 30-50 preguntas con correccion razonada.
+- 1 dia de repaso: rehacer fallos y crear tarjetas de memoria.
+
+Material que hay que producir:
+- Fichas cortas por tema: definicion, conceptos clave, normativa asociada y trampas de test.
+- Banco de preguntas por bloque, separando preguntas falladas y repetidas.
+- Tabla de comandos utiles: redes, Linux, Windows, SQL y seguridad.
+- Glosario de siglas: ENS, ENI, SIA, DIR3, CSV, Cl@ve, SARA, PID, GDPR/RGPD.
+
+Primeros 14 dias:
+Dia 1: mapa completo del programa y calendario.
+Dia 2: Constitucion y organizacion del Estado.
+Dia 3: EBEP y clases de empleados publicos.
+Dia 4: Ley 39/2015, procedimiento administrativo y administracion electronica.
+Dia 5: Ley 40/2015, organos, competencia y funcionamiento del sector publico.
+Dia 6: RGPD/LOPDGDD y conceptos esenciales de proteccion de datos.
+Dia 7: test acumulado y correccion.
+Dia 8: redes TCP/IP, direccionamiento y DNS.
+Dia 9: HTTP, TLS, certificados, VPN y firewalls.
+Dia 10: sistemas operativos y administracion basica.
+Dia 11: bases de datos y SQL.
+Dia 12: desarrollo web y APIs.
+Dia 13: ENS y medidas de seguridad.
+Dia 14: simulacro corto y lista de debilidades.
+
+Indicador de avance:
+- 70% o mas en test de temas estudiados.
+- Cada fallo convertido en una ficha de repaso.
+- Capacidad de explicar cada sigla en 30 segundos y relacionarla con la AGE.

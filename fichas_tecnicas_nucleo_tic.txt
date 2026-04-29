@@ -1,0 +1,381 @@
+### Fichas tecnicas nucleo TIC - C1/A2/A1
+Fecha de trabajo: 29/04/2026
+
+Uso:
+- C1: estudiar definiciones, conceptos y test.
+- A2: aplicar a supuestos practicos.
+- A1: elevar a arquitectura, gobierno, seguridad, contratacion e impacto.
+
+
+============================================================
+FICHA 1. ARQUITECTURA DE SISTEMAS PUBLICOS
+============================================================
+
+Idea fuerza:
+Un sistema publico no es solo una aplicacion. Es un conjunto de procedimientos, datos, servicios, integraciones, usuarios, controles, contratos, operacion y responsabilidades.
+
+Componentes habituales:
+- Canal ciudadano: sede, portal, app, carpeta.
+- Capa de identidad: Cl@ve, certificados, empleados publicos, MFA.
+- Capa de procedimiento: gestor de expedientes, workflow, reglas.
+- Capa documental: documentos, firmas, CSV, archivo.
+- Capa de datos: bases relacionales, analitica, catalogo.
+- Capa de integracion: APIs, servicios web, SIR, PID, buses/eventos.
+- Capa de seguridad: IAM, logs, SIEM, cifrado, segmentacion.
+- Capa de operacion: monitorizacion, backup, continuidad, soporte.
+
+Palabras de tribunal:
+Servicio publico, seguridad juridica, trazabilidad, interoperabilidad, accesibilidad, continuidad, neutralidad tecnologica, reutilizacion, eficiencia.
+
+Plantilla de respuesta:
+"Propondria una arquitectura modular por capas, integrada con servicios comunes de la AGE, con separacion clara entre presentacion, procedimiento, datos, documentos, integracion, seguridad y operacion. Desde el diseno se aplicarian ENS, ENI, RGPD y accesibilidad, incorporando monitorizacion, continuidad, trazabilidad y gobierno del ciclo de vida."
+
+
+============================================================
+FICHA 2. REDES TCP/IP Y OSI
+============================================================
+
+Conceptos clave:
+- OSI: fisica, enlace, red, transporte, sesion, presentacion, aplicacion.
+- TCP/IP: enlace, internet, transporte, aplicacion.
+- IP: direccionamiento y encaminamiento.
+- TCP: conexion, fiabilidad, control de flujo.
+- UDP: baja latencia, sin garantia de entrega.
+- DNS: resolucion de nombres.
+- DHCP: asignacion dinamica de configuracion IP.
+- HTTP/HTTPS: protocolo web; HTTPS usa TLS.
+- VPN: tunel seguro sobre red no confiable.
+
+Aplicacion en supuestos:
+- Segmentar redes por criticidad.
+- Separar DMZ, backend, bases de datos y administracion.
+- Usar TLS extremo a extremo donde proceda.
+- Registrar y monitorizar trafico relevante.
+- Definir reglas de firewall bajo minimo privilegio.
+
+Trampas:
+- Confundir TLS con HTTP.
+- Confundir autenticacion con cifrado.
+- Diseñar red plana para un sistema critico.
+- Abrir puertos "por si acaso".
+
+Frase de examen:
+"La red se segmentara por zonas de seguridad, aplicando minimo privilegio en comunicaciones, cifrado TLS, control perimetral, monitorizacion, registro de eventos y alta disponibilidad en componentes criticos."
+
+
+============================================================
+FICHA 3. SISTEMAS OPERATIVOS Y ADMINISTRACION
+============================================================
+
+Conceptos clave:
+- Gestion de procesos, memoria, ficheros, usuarios, permisos, red y dispositivos.
+- Windows Server: Active Directory, GPO, servicios, eventos, actualizaciones.
+- Linux/Unix: usuarios/grupos, permisos, systemd, logs, paquetes, shell, SSH.
+- Hardening: reducir superficie de ataque.
+- Parcheo: mantener integridad y actualizacion.
+- Inventario: saber que activos existen.
+
+Aplicacion en supuestos:
+- Bastionado de servidores.
+- Cuentas nominativas y separacion de privilegios.
+- Gestion centralizada de logs.
+- Automatizacion de configuracion.
+- Politica de actualizaciones y ventanas de mantenimiento.
+
+Trampas:
+- Administradores compartidos sin trazabilidad.
+- Sistemas sin soporte.
+- Parcheo sin pruebas ni rollback.
+- Logs locales sin proteccion.
+
+Frase de examen:
+"La administracion de sistemas se basara en inventario, configuracion segura, cuentas nominativas, minimo privilegio, gestion de parches, monitorizacion, registro centralizado y procedimientos de cambio con pruebas y rollback."
+
+
+============================================================
+FICHA 4. CLOUD Y NUBE HIBRIDA
+============================================================
+
+Modelos:
+- IaaS: infraestructura como servicio.
+- PaaS: plataforma como servicio.
+- SaaS: software como servicio.
+
+Despliegues:
+- Nube publica.
+- Nube privada.
+- Nube hibrida.
+- Multicloud.
+
+Riesgos en Administracion:
+- Dependencia del proveedor.
+- Localizacion y soberania del dato.
+- Reversibilidad.
+- Seguridad contractual.
+- Integracion con sistemas legacy.
+- Cumplimiento ENS/RGPD.
+- Control de costes.
+
+Controles:
+- Categorizacion ENS.
+- Cifrado en transito y reposo.
+- IAM y MFA.
+- Logs y auditoria.
+- Segmentacion.
+- Backups y recuperacion.
+- Clausulas de reversibilidad.
+- SLAs medibles.
+
+Frase de examen:
+"La adopcion cloud debe decidirse por carga de trabajo, riesgo, datos tratados y requisitos de servicio, incorporando ENS, RGPD, reversibilidad, portabilidad, monitorizacion, continuidad y control economico."
+
+
+============================================================
+FICHA 5. BASES DE DATOS Y SQL
+============================================================
+
+Conceptos clave:
+- Modelo relacional: tablas, filas, columnas, claves primarias y foraneas.
+- Normalizacion: reducir redundancia y anomalias.
+- SQL: DDL, DML, DCL, TCL.
+- Transacciones: ACID.
+- Indices: mejora de consulta con coste de escritura/almacenamiento.
+- Vistas: abstraccion y seguridad.
+- Procedimientos/disparadores: logica en base de datos.
+- NoSQL: documentos, clave-valor, columnas, grafos.
+
+Aplicacion publica:
+- Integridad de expedientes y datos maestros.
+- Auditoria de cambios.
+- Control de acceso por roles.
+- Cifrado y seudonimizacion cuando proceda.
+- Calidad del dato y catalogo.
+- Copias, recuperacion y pruebas.
+
+Trampas:
+- Usar NoSQL como solucion universal.
+- No definir claves ni integridad.
+- Dar acceso directo a tablas sensibles.
+- No registrar cambios relevantes.
+
+Frase de examen:
+"El modelo de datos garantizara integridad, trazabilidad, calidad, seguridad y recuperacion, seleccionando tecnologia relacional o NoSQL segun requisitos funcionales, volumen, consistencia, consulta y ciclo de vida del dato."
+
+
+============================================================
+FICHA 6. APIs, SERVICIOS WEB E INTEGRACION
+============================================================
+
+Conceptos clave:
+- API: contrato de acceso a funcionalidad/datos.
+- REST: recursos, HTTP, JSON, metodos.
+- SOAP: XML, WSDL, contratos formales.
+- Eventos: comunicacion asincrona.
+- API Gateway: publicacion, seguridad, limitacion, trazabilidad.
+- Idempotencia: repetir operacion sin efecto duplicado.
+
+Aplicacion publica:
+- Integracion entre expedientes, registro, notificaciones y datos.
+- Interoperabilidad entre Administraciones.
+- Seguridad por OAuth2/OIDC, certificados, mTLS o mecanismos adecuados.
+- Versionado de APIs.
+- Catalogo y documentacion.
+- Monitorizacion y cuotas.
+
+Trampas:
+- Exponer datos personales sin finalidad.
+- No versionar APIs.
+- No registrar consumos.
+- No controlar errores y reintentos.
+
+Frase de examen:
+"La integracion se realizara mediante APIs documentadas, versionadas y securizadas, con autenticacion robusta, autorizacion por finalidad, trazabilidad, control de errores, monitorizacion y cumplimiento ENI/RGPD."
+
+
+============================================================
+FICHA 7. DESARROLLO, PRUEBAS Y CALIDAD
+============================================================
+
+Conceptos clave:
+- Ciclo de vida: requisitos, analisis, diseno, construccion, pruebas, despliegue, mantenimiento.
+- Predictivo: planificacion cerrada, GANTT/PERT.
+- Agil: iteraciones, feedback, backlog, entrega incremental.
+- Pruebas: unitarias, integracion, sistema, aceptacion, rendimiento, seguridad.
+- Calidad: mantenibilidad, fiabilidad, eficiencia, seguridad, usabilidad.
+
+Aplicacion publica:
+- Requisitos funcionales y normativos.
+- Trazabilidad requisito-prueba-entrega.
+- Accesibilidad desde el diseno.
+- Seguridad integrada, no posterior.
+- Documentacion para continuidad y transferencia.
+
+Trampas:
+- Confundir agil con ausencia de documentacion.
+- No probar accesibilidad.
+- No probar migracion de datos.
+- No definir criterios de aceptacion.
+
+Frase de examen:
+"El desarrollo se gobernara mediante un ciclo de vida con requisitos trazables, entregas controladas, pruebas funcionales, seguridad, rendimiento y accesibilidad, documentacion suficiente y criterios de aceptacion vinculados al servicio publico."
+
+
+============================================================
+FICHA 8. DEVSECOPS E INTEGRACION CONTINUA
+============================================================
+
+Conceptos clave:
+- CI: integracion continua.
+- CD: entrega/despliegue continuo.
+- DevSecOps: seguridad integrada en el pipeline.
+- SAST: analisis estatico.
+- DAST: analisis dinamico.
+- SCA: analisis de dependencias.
+- IaC: infraestructura como codigo.
+- Gestion de secretos.
+
+Aplicacion publica:
+- Repositorios controlados.
+- Revisiones y aprobaciones.
+- Evidencias auditables.
+- Separacion de entornos.
+- Analisis de vulnerabilidades.
+- Despliegues repetibles.
+- Rollback.
+
+Trampas:
+- Pipeline con credenciales en claro.
+- Despliegue directo a produccion sin control.
+- Entornos inconsistentes.
+- Sin evidencia para auditoria.
+
+Frase de examen:
+"DevSecOps se implantaria con repositorios corporativos, pipelines auditables, pruebas automatizadas, analisis de seguridad, gestion de secretos, separacion de entornos, despliegues repetibles y trazabilidad completa de cambios."
+
+
+============================================================
+FICHA 9. GESTION DE SERVICIOS TIC
+============================================================
+
+Conceptos clave:
+- Servicio TIC: capacidad tecnologica que aporta valor a usuarios.
+- SLA: acuerdo de nivel de servicio.
+- Incidencia: interrupcion o degradacion.
+- Problema: causa subyacente.
+- Cambio: modificacion controlada.
+- Configuracion/CMDB: activos y relaciones.
+- Capacidad, disponibilidad y continuidad.
+
+Aplicacion publica:
+- CAU/soporte.
+- Priorizacion por impacto en servicio publico.
+- Indicadores.
+- Gestion de cambios para reducir riesgo.
+- Comunicacion a usuarios.
+- Mejora continua.
+
+Trampas:
+- Medir solo actividad, no calidad.
+- No distinguir incidencia de problema.
+- Cambios sin evaluacion de impacto.
+- SLAs sin penalizaciones ni seguimiento.
+
+Frase de examen:
+"El servicio se gobernara con catalogo, SLAs, gestion de incidencias, problemas, cambios, configuracion, disponibilidad y continuidad, apoyado en indicadores y mejora continua."
+
+
+============================================================
+FICHA 10. CONTRATACION PUBLICA TIC
+============================================================
+
+Conceptos clave:
+- Necesidad publica.
+- Objeto del contrato.
+- Prescripciones tecnicas.
+- Criterios de solvencia.
+- Criterios de adjudicacion.
+- SLAs y penalizaciones.
+- Seguridad, proteccion de datos, accesibilidad e interoperabilidad.
+- Transferencia y reversibilidad.
+
+Clausulas TIC importantes:
+- Cumplimiento ENS.
+- Encargado de tratamiento si hay datos personales.
+- Confidencialidad.
+- Propiedad intelectual/licencias.
+- Documentacion.
+- Entrega de codigo/configuracion si procede.
+- Plan de salida.
+- Auditoria.
+
+Trampas:
+- Pliego orientado a marca sin justificacion.
+- No prever reversibilidad.
+- No exigir documentacion.
+- No incluir seguridad ni proteccion de datos.
+- Valorar solo precio.
+
+Frase de examen:
+"El pliego debe traducir la necesidad publica en requisitos funcionales, tecnicos, de seguridad, interoperabilidad, accesibilidad, calidad, SLAs, gobierno, transferencia y reversibilidad, evitando dependencia del proveedor y garantizando control por la Administracion."
+
+
+============================================================
+FICHA 11. DATOS, ANALITICA E IA
+============================================================
+
+Conceptos clave:
+- Gobierno del dato.
+- Calidad del dato.
+- Catalogo y metadatos.
+- Linaje.
+- Dato maestro.
+- BI/cuadro de mando.
+- Big data.
+- IA y aprendizaje automatico.
+
+Aplicacion publica:
+- Politicas basadas en evidencia.
+- Reduccion de cargas administrativas.
+- Deteccion de errores/fraude.
+- Datos abiertos.
+- Interoperabilidad semantica.
+
+Riesgos:
+- Sesgos.
+- Falta de explicabilidad.
+- Datos personales sin base.
+- Mala calidad de datos.
+- Automatizacion opaca.
+
+Frase de examen:
+"Una plataforma de datos publica debe incorporar gobierno del dato, calidad, catalogo, linaje, seguridad, privacidad desde el diseno, interoperabilidad semantica y mecanismos de explicabilidad/supervision cuando se emplee IA."
+
+
+============================================================
+FICHA 12. ACCESIBILIDAD Y USABILIDAD
+============================================================
+
+Conceptos clave:
+- Accesibilidad: que todas las personas puedan usar el servicio, incluidas personas con discapacidad.
+- Usabilidad: facilidad y eficiencia de uso.
+- Diseño universal.
+- W3C/WCAG.
+- Diseño responsive.
+
+Aplicacion publica:
+- Formularios comprensibles.
+- Navegacion por teclado.
+- Contraste suficiente.
+- Textos alternativos.
+- Errores claros.
+- Lenguaje administrativo claro.
+- Pruebas con usuarios.
+
+Trampas:
+- Tratar accesibilidad como estetica.
+- Revisarla solo al final.
+- PDFs no accesibles.
+- Formularios que bloquean lectores de pantalla.
+
+Frase de examen:
+"La accesibilidad debe integrarse desde el diseno, verificando cumplimiento de criterios WCAG, navegacion por teclado, contraste, alternativas textuales, documentos accesibles y pruebas con usuarios, para garantizar igualdad real en el acceso al servicio publico."

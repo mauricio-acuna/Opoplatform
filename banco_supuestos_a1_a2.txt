@@ -1,0 +1,244 @@
+### Banco inicial de supuestos practicos A2/A1 TIC
+Fecha de trabajo: 29/04/2026
+
+Uso:
+- A2 GSI: entrenar estructura, normativa aplicada y solucion tecnica razonable.
+- A1 TIC: elevar cada respuesta a direccion, gobierno, contratacion, riesgos, indicadores e impacto estrategico.
+
+Plantilla fija:
+1. Contexto.
+2. Marco normativo.
+3. Arquitectura/solucion.
+4. Seguridad ENS/RGPD.
+5. Interoperabilidad/administracion digital.
+6. Operacion, continuidad y soporte.
+7. Contratacion/gobierno si procede.
+8. Riesgos e indicadores.
+9. Cierre orientado a servicio publico.
+
+
+============================================================
+SUPUESTO 1. IMPLANTACION DE SEDE ELECTRONICA
+============================================================
+
+Enunciado:
+Un organismo de la AGE con 2.000 empleados y atencion a ciudadanos quiere implantar una sede electronica para 40 procedimientos. Actualmente recibe solicitudes por registro presencial, email y formularios no integrados. Se requiere relacion electronica completa, registro, notificacion, consulta de estado y verificacion documental.
+
+Puntos que debe contener la solucion:
+- Ley 39/2015: registro, notificacion, interesados, documentos, expediente y plazos.
+- Ley 40/2015: sede electronica, portal, identificacion/firma, actuacion automatizada y archivo electronico.
+- RD 203/2021: funcionamiento electronico.
+- ENS: categorizacion, declaracion de aplicabilidad, identidad, logs, continuidad y respuesta a incidentes.
+- ENI: documento, expediente, metadatos, firma, CSV, conservacion e interoperabilidad.
+- Servicios comunes: Cl@ve, SIR, Carpeta Ciudadana, Notifica/DEHú, CSV, DIR3.
+- Arquitectura: frontend sede, gestor de procedimientos, registro, motor de expedientes, gestor documental, notificaciones, API de interoperabilidad, monitorizacion.
+- Operacion: SLAs, soporte, plan de migracion, formacion, pruebas y accesibilidad.
+
+Respuesta modelo breve:
+"Plantearia una sede electronica integrada con registro, expediente y notificacion, separando portal informativo y sede con efectos juridicos. La solucion se apoyaria en Cl@ve para identificacion, SIR para intercambio registral, servicios de notificacion electronica, CSV para verificacion documental y un gestor de expedientes interoperable. Desde el diseno se aplicarian ENS, ENI, RGPD y accesibilidad, con categorizacion del sistema, declaracion de aplicabilidad, logs auditables, continuidad, pruebas de carga y plan de implantacion progresivo por familias de procedimientos."
+
+
+============================================================
+SUPUESTO 2. CIBERINCIDENTE EN ORGANISMO PUBLICO
+============================================================
+
+Enunciado:
+Un ministerio detecta cifrado masivo de ficheros en una unidad compartida y posible exfiltracion de datos personales. El servicio afecta a expedientes en plazo. Debe proponerse respuesta inmediata, recuperacion y plan de mejora.
+
+Puntos que debe contener la solucion:
+- Activacion del procedimiento de gestion de incidentes.
+- Contencion: aislar equipos, bloquear credenciales, preservar evidencias.
+- Analisis: alcance, vectores, logs, EDR/SIEM, cuentas afectadas.
+- Recuperacion: copias limpias, priorizacion de servicios criticos, RTO/RPO.
+- Comunicacion: responsables, DPD si hay datos personales, canales internos y externos.
+- ENS: incidentes, continuidad, registro de actividad, deteccion de codigo danino, mejora continua.
+- RGPD: valorar brecha de datos personales y notificacion si procede.
+- Medidas posteriores: MFA, minimo privilegio, segmentacion, copias inmutables, concienciacion, parcheo, simulacros.
+
+Respuesta modelo breve:
+"La prioridad seria contener sin destruir evidencias, proteger expedientes en plazo y activar el procedimiento formal de incidentes. Aislaria sistemas afectados, revocaria credenciales comprometidas, revisaria logs centralizados, coordinaria con seguridad/CSIRT y evaluaria posible brecha de datos con el DPD. La recuperacion se haria desde copias verificadas, priorizando servicios criticos segun RTO/RPO. El cierre incluiria informe, lecciones aprendidas, refuerzo de ENS, MFA, segmentacion, copias inmutables, monitorizacion y plan de mejora."
+
+
+============================================================
+SUPUESTO 3. MIGRACION A NUBE HIBRIDA
+============================================================
+
+Enunciado:
+Un organismo quiere migrar aplicaciones legacy a nube hibrida. Tiene sistemas con datos personales, integraciones con otras Administraciones y picos de demanda estacionales.
+
+Puntos que debe contener la solucion:
+- Inventario y clasificacion de aplicaciones.
+- Analisis de dependencias, datos, criticidad y categoria ENS.
+- Estrategia por aplicacion: rehost, replatform, refactor, retain, retire.
+- Arquitectura hibrida: conectividad segura, IAM, segmentacion, cifrado, observabilidad.
+- Contratacion: requisitos ENS, localizacion, reversibilidad, SLAs, portabilidad y auditoria.
+- RGPD: encargado, transferencias, medidas tecnicas y organizativas.
+- Continuidad: backup, DRP, pruebas de recuperacion.
+- Plan por fases: piloto, migracion, validacion, despliegue y retirada legacy.
+
+Respuesta modelo breve:
+"No migraria en bloque. Primero inventariaria aplicaciones, datos e integraciones, categorizando cada sistema conforme al ENS. Despues aplicaria una estrategia por carga: mantener, retirar, reubicar, modernizar o redisenar. La nube hibrida deberia incorporar identidad federada, cifrado, segmentacion, logs, monitorizacion, continuidad y clausulas contractuales de seguridad, reversibilidad y auditoria. La migracion se haria por oleadas con pruebas funcionales, seguridad, rendimiento y recuperacion."
+
+
+============================================================
+SUPUESTO 4. PLATAFORMA DE DATOS PARA POLITICAS PUBLICAS
+============================================================
+
+Enunciado:
+La AGE quiere construir una plataforma de datos para analizar informacion de varios organismos y mejorar la planificacion de politicas publicas. Habra datos personales, datos agregados, cuadros de mando y publicacion de datos abiertos.
+
+Puntos que debe contener la solucion:
+- Gobierno del dato: responsables, catalogo, calidad, linaje, metadatos.
+- Base juridica y minimizacion.
+- Separacion entre dato operacional, analitico, anonimizado y abierto.
+- Arquitectura: ingesta, lago/almacen, calidad, catalogo, explotacion, BI, APIs.
+- Seguridad: control de acceso, cifrado, trazabilidad, segregacion, auditoria.
+- RGPD: EIPD si procede, privacidad desde el diseno, anonimización/pseudonimizacion.
+- ENI: interoperabilidad semantica, formatos, metadatos.
+- Indicadores: calidad, reutilizacion, tiempos, datasets publicados, impacto.
+
+Respuesta modelo breve:
+"La plataforma debe nacer como iniciativa de gobierno del dato, no solo como repositorio. Definiria responsables, catalogo, linaje, calidad, clasificacion y reglas de acceso. La arquitectura separaria ingesta, almacenamiento, tratamiento, explotacion y publicacion, con controles RGPD y ENS. Para datos abiertos, solo publicaria informacion anonimizada o no personal, usando formatos reutilizables y metadatos adecuados. El exito se mediria por calidad, reutilizacion, reduccion de cargas y mejora de decisiones publicas."
+
+
+============================================================
+SUPUESTO 5. LICITACION DE UN SERVICIO TIC CRITICO
+============================================================
+
+Enunciado:
+Un organismo necesita licitar el mantenimiento y evolucion de una plataforma de tramitacion electronica critica. El contrato debe cubrir soporte, desarrollo evolutivo, seguridad, continuidad y transferencia de conocimiento.
+
+Puntos que debe contener la solucion:
+- Objeto y alcance claros.
+- Requisitos funcionales y no funcionales.
+- ENS, ENI, RGPD, accesibilidad y calidad.
+- SLAs: disponibilidad, tiempos de respuesta, resolucion, cambios, despliegues.
+- Gobierno del contrato: comites, informes, indicadores, penalizaciones.
+- Propiedad intelectual, documentacion, repositorios y transferencia.
+- Seguridad: perfiles, segregacion, trazabilidad, gestion de vulnerabilidades.
+- Reversibilidad: entrega de codigo, datos, documentacion y conocimiento.
+
+Respuesta modelo breve:
+"El pliego debe describir servicios, niveles de servicio, obligaciones de seguridad y mecanismos de gobierno. Incluiria requisitos ENS, ENI, RGPD y accesibilidad, junto a indicadores de disponibilidad, incidencias, cambios, calidad del software y vulnerabilidades. Para evitar dependencia del proveedor, exigiria documentacion, repositorios bajo control de la Administracion, transferencia de conocimiento, plan de reversibilidad y propiedad/uso claro de entregables."
+
+
+============================================================
+SUPUESTO 6. SISTEMA DE INTERCAMBIO DE DATOS ENTRE ADMINISTRACIONES
+============================================================
+
+Enunciado:
+Una comunidad autonoma y varios organismos estatales necesitan intercambiar datos para tramitar ayudas sin pedir certificados al ciudadano.
+
+Puntos que debe contener la solucion:
+- Principio de no pedir datos ya disponibles, con base juridica.
+- Interoperabilidad organizativa: acuerdos, organos, responsabilidades.
+- Interoperabilidad semantica: modelo de datos, codigos, metadatos.
+- Interoperabilidad tecnica: APIs, servicios, red, seguridad, trazabilidad.
+- Plataforma de Intermediacion de Datos si procede.
+- ENS: autenticacion entre sistemas, autorizacion, logs, disponibilidad.
+- RGPD: minimizacion, finalidad, informacion, derechos y registro de actividades.
+
+Respuesta modelo breve:
+"La solucion debe combinar base juridica, acuerdo interadministrativo y arquitectura interoperable. Definiria que datos se consultan, para que procedimiento, por que organo y con que trazabilidad. Tecnologicamente usaria servicios interoperables, autenticacion robusta, autorizacion por finalidad, logs auditables y controles ENS. Con ello se reduce carga al ciudadano sin relajar proteccion de datos ni seguridad."
+
+
+============================================================
+SUPUESTO 7. MODERNIZACION DE APLICACION LEGACY
+============================================================
+
+Enunciado:
+Una aplicacion monolitica de expedientes, desarrollada hace 15 anos, tiene problemas de rendimiento, falta de documentacion y alto coste de mantenimiento.
+
+Puntos que debe contener la solucion:
+- Diagnostico: funcional, tecnico, datos, dependencias, riesgos.
+- Opciones: mantener, encapsular, migrar, refactorizar, reemplazar.
+- Priorizacion por valor publico y riesgo.
+- APIs para integracion progresiva.
+- Pruebas automatizadas, control de versiones, CI/CD.
+- Migracion de datos con validacion.
+- Plan de continuidad y rollback.
+- Gestion del cambio y formacion.
+
+Respuesta modelo breve:
+"Evitaria una sustitucion brusca sin conocimiento suficiente. Primero estabilizaria y documentaria, identificando procesos criticos, datos y dependencias. Despues definiria una modernizacion incremental: encapsular funcionalidades mediante APIs, separar datos, introducir pruebas y CI/CD, migrar modulos por prioridad y asegurar reversibilidad. El plan incluiria seguridad ENS, ENI para expediente/documento, formacion y medicion de rendimiento y mantenibilidad."
+
+
+============================================================
+SUPUESTO 8. IMPLANTACION DE DEVSECOPS EN LA AGE
+============================================================
+
+Enunciado:
+Una subdireccion TIC quiere reducir errores en despliegues y mejorar seguridad del software. Actualmente hay pasos manuales, poca trazabilidad y entornos no homogeneos.
+
+Puntos que debe contener la solucion:
+- Control de versiones obligatorio.
+- Pipelines CI/CD.
+- Analisis estatico, dependencias, secretos y contenedores.
+- Gestion de entornos.
+- Separacion de funciones y aprobaciones.
+- Evidencias para auditoria.
+- Integracion con ENS: minimo privilegio, trazabilidad, integridad, actualizacion.
+- Gestion del cambio y formacion.
+
+Respuesta modelo breve:
+"Implantaria DevSecOps como modelo de gobierno del ciclo de vida, no solo como herramienta. Centralizaria repositorios, automatizaria compilacion, pruebas, analisis de seguridad y despliegue controlado, con evidencias auditables. Integraria gestion de secretos, revision de dependencias, imagenes confiables, separacion de entornos y aprobaciones. El resultado esperado seria menos fallos, mayor trazabilidad y mejor cumplimiento ENS."
+
+
+============================================================
+SUPUESTO 9. SISTEMA DE IA PARA PRIORIZAR EXPEDIENTES
+============================================================
+
+Enunciado:
+Un organismo quiere usar IA para priorizar expedientes de ayudas y detectar posibles errores o fraude. El sistema no resolvera automaticamente, pero influira en la revision humana.
+
+Puntos que debe contener la solucion:
+- Definir finalidad y limites.
+- Base juridica y proteccion de datos.
+- Calidad y sesgos de datos.
+- Explicabilidad y supervision humana.
+- Trazabilidad de recomendaciones.
+- Seguridad del modelo y datos.
+- Evaluacion de impacto si procede.
+- Transparencia, auditoria y mejora continua.
+
+Respuesta modelo breve:
+"La IA debe implantarse como apoyo a la decision, con limites claros y supervision humana. Antes del despliegue evaluaria base juridica, datos usados, sesgos, explicabilidad, impacto en derechos y medidas RGPD/ENS. Cada recomendacion debe ser trazable y revisable. El sistema debe auditarse periodicamente y no sustituir la motivacion administrativa ni las garantias del procedimiento."
+
+
+============================================================
+SUPUESTO 10. PLAN DE CONTINUIDAD DE SERVICIO DIGITAL
+============================================================
+
+Enunciado:
+La sede electronica de un organismo tiene indisponibilidades recurrentes en cierres de plazo. Se pide un plan de continuidad y mejora.
+
+Puntos que debe contener la solucion:
+- Identificacion de servicios criticos.
+- BIA, RTO y RPO.
+- Arquitectura de alta disponibilidad.
+- Monitorizacion y alertas.
+- Pruebas de carga.
+- Copias y recuperacion.
+- Procedimiento de comunicacion de incidencias.
+- Plan de contingencia en plazo administrativo.
+- ENS: continuidad, vigilancia continua, mejora continua.
+
+Respuesta modelo breve:
+"El plan partiria de un BIA para identificar servicios y plazos criticos, fijando RTO/RPO. Tecnologicamente incorporaria alta disponibilidad, balanceo, escalado, monitorizacion, pruebas de carga y recuperacion probada. Administrativamente definiria comunicacion de incidencias, responsables y medidas ante indisponibilidad en plazo. El ciclo se cerraria con simulacros, indicadores y mejora continua conforme al ENS."
+
+
+============================================================
+RUBRICA DE CORRECCION
+============================================================
+
+Puntuacion orientativa sobre 10:
+- 2 puntos: entiende el problema publico y el procedimiento.
+- 2 puntos: cita normativa correcta sin saturar.
+- 2 puntos: arquitectura tecnica coherente.
+- 1 punto: seguridad ENS/RGPD bien integrada.
+- 1 punto: interoperabilidad y servicios comunes.
+- 1 punto: operacion, continuidad y soporte.
+- 1 punto: gobierno, indicadores, riesgos e impacto.
+
+Fallo grave:
+- Respuesta puramente tecnica sin procedimiento, normativa, seguridad ni servicio publico.

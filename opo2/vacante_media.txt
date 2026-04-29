@@ -1,0 +1,56 @@
+### Vacante Media: Gestion de Sistemas e Informatica / A2 GSI
+
+Objetivo: acceder a un cuerpo tecnico de gestion informatica, con equilibrio entre normativa, gestion de servicios TIC y conocimientos tecnicos aplicados.
+
+Perfil al que encaja:
+- Ingenieros, graduados o tecnicos con experiencia que quieren una oposicion exigente pero mas abordable que A1.
+- Personas que buscan una via de entrada razonable sin abandonar la opcion de promocionar despues.
+- Candidatos que pueden estudiar 15-20 horas semanales de forma sostenida.
+
+Prioridad de estudio:
+1. Bloque juridico-administrativo: Constitucion, Gobierno, AGE, Ley 39/2015, Ley 40/2015, EBEP, igualdad, transparencia y proteccion de datos.
+2. Administracion digital: sede electronica, registro electronico, identificacion y firma, carpeta ciudadana, interoperabilidad, archivo electronico y notificaciones.
+3. ENS y seguridad: RD 311/2022, categorias de sistemas, medidas de seguridad, analisis de riesgos, continuidad, auditoria y gestion de incidentes.
+4. Sistemas y comunicaciones: CPD, cloud, virtualizacion, redes, almacenamiento, monitorizacion, alta disponibilidad y continuidad.
+5. Desarrollo y datos: ciclo de vida, arquitectura de aplicaciones, APIs, integracion, bases de datos, calidad, pruebas y despliegue.
+6. Gestion TIC: ITIL, gestion de proyectos, contratacion publica TIC, SLAs, calidad, accesibilidad y reutilizacion.
+
+Estrategia de examen:
+- Primer ejercicio: entrenar test con lectura fina de enunciados. El objetivo no es solo saber, sino detectar matices juridicos.
+- Supuesto practico: responder como gestor publico, no como consultor privado. Cada solucion tecnica debe incluir seguridad, normativa, interoperabilidad, continuidad y contratacion cuando proceda.
+
+Plantilla para resolver supuestos:
+1. Contexto y objetivo del organismo.
+2. Restricciones normativas: Ley 39/2015, Ley 40/2015, ENS, ENI, RGPD/LOPDGDD, accesibilidad y contratacion publica.
+3. Arquitectura propuesta: sistemas, integraciones, datos, identidad, comunicaciones y operacion.
+4. Seguridad: categorizacion ENS, controles, gestion de riesgos, trazabilidad, continuidad y respuesta ante incidentes.
+5. Gobierno y explotacion: roles, SLAs, monitorizacion, soporte, documentacion y plan de implantacion.
+6. Cierre: beneficios medibles para ciudadano, empleado publico y Administracion.
+
+Material que hay que producir:
+- Resumen de cada ley con articulos importantes y ejemplos informaticos.
+- Tabla ENS: principios, requisitos minimos, categorias y medidas.
+- Fichas de administracion electronica: registro, sede, firma, notificaciones, archivo, interoperabilidad y CSV.
+- Casos practicos tipo: migracion cloud, sede electronica, sistema de expedientes, ciberincidente, integracion de datos y renovacion de CPD.
+- Repositorio de respuestas modelo de 1 pagina por caso.
+
+Primeros 14 dias:
+Dia 1: comparativa A2 vs A1 y seleccion de convocatoria objetivo.
+Dia 2: Ley 39/2015 aplicada a expedientes electronicos.
+Dia 3: Ley 40/2015 aplicada a organos, convenios y funcionamiento interno.
+Dia 4: ENI e interoperabilidad.
+Dia 5: ENS: principios y requisitos minimos.
+Dia 6: proteccion de datos en sistemas publicos.
+Dia 7: test juridico y correccion.
+Dia 8: arquitectura de aplicaciones y APIs.
+Dia 9: bases de datos, integracion y calidad del dato.
+Dia 10: redes, CPD y cloud.
+Dia 11: continuidad, backup y recuperacion.
+Dia 12: ITIL y gestion de servicios.
+Dia 13: contratacion publica TIC.
+Dia 14: primer supuesto practico completo.
+
+Indicador de avance:
+- 75% o mas en test por bloque.
+- Resolver un supuesto en 90-120 minutos con estructura clara.
+- Incluir referencias normativas sin forzarlas ni inventarlas.

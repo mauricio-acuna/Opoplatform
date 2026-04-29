@@ -1,0 +1,134 @@
+### Control de estudio - Oposiciones TIC AGE
+Fecha de inicio sugerida: 29/04/2026
+
+Objetivo:
+Convertir el material en avance medible. Lo que no se mide se convierte en lectura infinita.
+
+
+============================================================
+TABLERO SEMANAL
+============================================================
+
+Semana:
+Fechas:
+Horas objetivo:
+Horas reales:
+
+Temas estudiados:
+- 
+- 
+- 
+
+Fichas creadas:
+- 
+- 
+
+Test realizados:
+- Bloque:
+- Numero preguntas:
+- Aciertos:
+- Fallos:
+- Porcentaje:
+
+Supuesto practico:
+- Titulo:
+- Tiempo usado:
+- Puntos fuertes:
+- Puntos flojos:
+- Normativa citada:
+- Mejora para proxima vez:
+
+Fallos repetidos:
+- 
+- 
+- 
+
+Accion correctora:
+- 
+
+Criterio de cierre semanal:
+- [ ] Al menos 1 ficha nueva.
+- [ ] Al menos 1 test corregido.
+- [ ] Al menos 1 supuesto o mini supuesto.
+- [ ] Lista de fallos actualizada.
+- [ ] Proxima semana planificada.
+
+
+============================================================
+REGISTRO DIARIO
+============================================================
+
+Dia:
+Tiempo:
+Bloque:
+Actividad:
+Resultado:
+Fallo principal:
+Siguiente accion:
+
+
+============================================================
+METRICAS DE APROBADO
+============================================================
+
+C1 TAI:
+- Test por bloque >= 75%.
+- Test global >= 70%.
+- Velocidad: responder sin atascarse en definiciones basicas.
+
+A2 GSI:
+- Test normativa >= 75%.
+- Test tecnico >= 70%.
+- Supuesto completo en 90-120 minutos.
+- Respuesta con normativa, arquitectura, seguridad e interoperabilidad.
+
+A1 TIC:
+- Test normativa/tecnico >= 80% en bloques cerrados.
+- Supuesto con vision directiva.
+- Desarrollo escrito/oral con gobierno, contratacion, indicadores e impacto.
+- Capacidad de defender decisiones y alternativas.
+
+
+============================================================
+LISTA DE FALLOS
+============================================================
+
+Formato:
+Fecha | Bloque | Pregunta/supuesto | Fallo | Causa | Correccion | Repetido?
+
+
+============================================================
+RITMO MINIMO PARA NO ROMPER CADENA
+============================================================
+
+Dia malo:
+- 20 minutos de test o repaso de fallos.
+
+Dia normal:
+- 90 minutos de teoria/ficha.
+- 30 minutos de test.
+
+Dia fuerte:
+- 2 horas teoria.
+- 1 hora test.
+- 1-2 horas supuesto.
+
+
+============================================================
+REVISION MENSUAL
+============================================================
+
+Preguntas:
+1. Que bloque subio de nivel?
+2. Que bloque sigue flojo?
+3. Que porcentaje medio tengo?
+4. Cuantos supuestos escribi?
+5. Que normativa cito sin mirar?
+6. Que debo dejar de leer y empezar a practicar?
+
+Decision mensual:
+- Mantener ritmo.
+- Subir test.
+- Subir supuestos.
+- Rehacer normativa.
+- Replantear objetivo C1/A2/A1.

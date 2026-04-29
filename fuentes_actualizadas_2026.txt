@@ -1,0 +1,216 @@
+### Fuentes actualizadas para preparar oposiciones TIC AGE
+Fecha de trabajo: 29/04/2026
+
+Este archivo fija las fuentes primarias que deben usarse antes de cerrar cualquier temario, calendario o estrategia. La regla es simple: si hay conflicto entre una academia, un resumen y el BOE/INAP, manda BOE/INAP.
+
+
+============================================================
+1. CONVOCATORIAS TIC VIGENTES / RECIENTES
+============================================================
+
+## A1 TIC - Cuerpo Superior de Sistemas y Tecnologias de la Informacion
+
+Fuente:
+- BOE-A-2025-25938
+- Resolucion de 16 de diciembre de 2025, publicada el 18 de diciembre de 2025.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-25938
+
+Datos clave:
+- 290 plazas de acceso libre.
+- 100 plazas de promocion interna.
+- Deriva de OEP 2024 y OEP 2025.
+- Publicaciones del proceso: sede electronica del INAP, Punto de Acceso General y Carpeta Ciudadana para notificaciones.
+
+Seguimiento 2026:
+- BOE-A-2026-7228: Resolucion de 25 de marzo de 2026, publicada el 30 de marzo de 2026, designando tribunal calificador.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7228
+
+Temas especialmente relevantes citados en la convocatoria A1:
+- Gobernanza TIC en AGE.
+- Transformacion digital de la AGE.
+- Reutilizacion de informacion del sector publico.
+- Directivo TIC en la Administracion.
+- Gestion de proyectos predictiva, agil y lean.
+- Compra publica TIC.
+- Accesibilidad y usabilidad.
+- ENI, NTI, ENS, analisis de riesgos y CCN-STIC.
+- Servicios comunes: Cl@ve, Carpeta Ciudadana, SIR, Plataforma de Intermediacion de Datos.
+- Sistemas, virtualizacion, redes, bases de datos, desarrollo web, pruebas, integracion continua, calidad, gestion documental, ITIL y COBIT.
+
+
+## A2 GSI - Cuerpo de Gestion de Sistemas e Informatica
+
+Fuente:
+- BOE-A-2025-26262
+- Resolucion de 18 de diciembre de 2025, publicada el 22 de diciembre de 2025.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+
+Datos clave:
+- 680 plazas de turno libre.
+- 520 plazas de promocion interna.
+- Convocatoria gestionada por la Comision Permanente de Seleccion.
+- INAP: https://sede.inap.gob.es/
+
+Temas especialmente relevantes citados en la convocatoria:
+- Administracion electronica, datos abiertos, reutilizacion de informacion, infraestructuras y servicios comunes.
+- Cloud, arquitectura de ordenadores, sistemas operativos, TCP/IP, OSI.
+- Desarrollo, bases de datos, UML, Java/Jakarta EE, .NET, aplicaciones web.
+- Contenedores y microservicios.
+- Analisis y gestion de riesgos, auditoria, ENS y proteccion de datos.
+- CPD, alta disponibilidad, backup, recuperacion, almacenamiento y virtualizacion.
+
+
+## C1 TAI - Cuerpo de Tecnicos Auxiliares de Informatica
+
+Fuente:
+- BOE-A-2025-26262
+- Resolucion de 18 de diciembre de 2025, publicada el 22 de diciembre de 2025.
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+
+Datos clave:
+- 1.030 plazas de ingreso libre.
+- 340 plazas de promocion interna.
+- Convocatoria gestionada por la Comision Permanente de Seleccion.
+
+Temas especialmente relevantes citados en la convocatoria:
+- Administracion electronica, registros, notificaciones, uso de medios electronicos.
+- ENS, ENI y Normas Tecnicas de Interoperabilidad.
+- Sedes electronicas, canales, puntos de acceso, identificacion y autenticacion.
+- Hardware, software, almacenamiento, sistemas operativos, Windows, Unix/Linux.
+- Bases de datos relacionales, orientadas a objetos y NoSQL.
+- Desarrollo, programacion, SQL, POO, Java/Jakarta EE, .NET, web, servicios web.
+- TCP/IP, OSI, seguridad fisica y logica, auditoria, gestion de incidentes.
+
+
+============================================================
+2. NORMATIVA BASE QUE HAY QUE ESTUDIAR
+============================================================
+
+## Ley 39/2015 - Procedimiento Administrativo Comun
+
+Fuente:
+- BOE-A-2015-10565
+- Texto consolidado con ultima actualizacion publicada el 06/11/2024.
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
+
+Relevancia TIC:
+- Derechos de las personas en sus relaciones con las Administraciones.
+- Obligacion de relacionarse electronicamente para determinados sujetos.
+- Registros, documentos, copias, expediente administrativo, plazos, notificaciones y recursos.
+
+
+## Ley 40/2015 - Regimen Juridico del Sector Publico
+
+Fuente:
+- BOE-A-2015-10566
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+
+Relevancia TIC:
+- Principios de actuacion.
+- Relaciones electronicas entre Administraciones.
+- Sede electronica, portal, identificacion, firma, actuacion administrativa automatizada, archivo electronico.
+- Articulos 155 a 158: transmision de datos, ENI/ENS, reutilizacion de sistemas y transferencia tecnologica.
+
+
+## RD 203/2021 - Reglamento de actuacion y funcionamiento del sector publico por medios electronicos
+
+Fuente:
+- BOE-A-2021-5032
+- URL: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-5032
+
+Relevancia TIC:
+- Desarrolla la actuacion electronica del sector publico.
+- Conecta Ley 39/2015 y Ley 40/2015 con procedimientos, sedes, registros, notificaciones y funcionamiento electronico.
+
+
+## RD 311/2022 - Esquema Nacional de Seguridad
+
+Fuente:
+- BOE-A-2022-7191
+- Texto consolidado con ultima actualizacion publicada el 06/11/2024.
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191
+
+Relevancia TIC:
+- Seguridad como proceso integral.
+- Gestion de riesgos.
+- Requisitos minimos.
+- Categorias de sistemas.
+- Medidas de seguridad del Anexo II.
+
+
+## RD 4/2010 - Esquema Nacional de Interoperabilidad
+
+Fuente:
+- BOE-A-2010-1331
+- Texto consolidado con ultima actualizacion publicada el 06/11/2024.
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331
+
+Relevancia TIC:
+- Interoperabilidad organizativa, semantica y tecnica.
+- Normas Tecnicas de Interoperabilidad.
+- Documento y expediente electronico.
+- Politica de firma, catalogo de estandares, reutilizacion y conservacion.
+
+
+## TREBEP - Estatuto Basico del Empleado Publico
+
+Fuente:
+- BOE-A-2015-11719
+- Real Decreto Legislativo 5/2015, de 30 de octubre.
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719
+
+Relevancia:
+- Clases de empleados publicos.
+- Funcionarios de carrera, interinos, personal laboral y eventual.
+- Principios de acceso: igualdad, merito y capacidad.
+- Derechos, deberes, codigo de conducta, carrera, promocion, retribuciones, situaciones administrativas y regimen disciplinario.
+
+
+## LOPDGDD - Proteccion de datos y derechos digitales
+
+Fuente:
+- BOE-A-2018-16673
+- Ley Organica 3/2018, de 5 de diciembre.
+- Texto consolidado con ultima actualizacion publicada el 27/12/2025.
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673
+
+Relevancia TIC:
+- Adaptacion del ordenamiento espanol al RGPD.
+- Principios, derechos, tratamientos por interes publico/obligacion legal, categorias especiales, DPD y derechos digitales.
+- Imprescindible en cualquier sistema publico con datos personales.
+
+
+## LCSP - Contratos del Sector Publico
+
+Fuente:
+- BOE-A-2017-12902
+- Ley 9/2017, de 8 de noviembre.
+- URL: https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902
+
+Relevancia TIC:
+- Compra publica TIC.
+- Pliegos, solvencia, criterios de adjudicacion, ejecucion, modificacion, penalidades, subcontratacion, propiedad intelectual, confidencialidad, seguridad, proteccion de datos y reversibilidad.
+
+
+============================================================
+3. REGLA DE USO PARA EL MATERIAL
+============================================================
+
+1. Antes de estudiar un bloque, verificar si aparece en la convocatoria concreta.
+2. Antes de memorizar una ley, mirar texto consolidado BOE.
+3. Antes de entrenar supuestos, cruzar siempre:
+   - Ley 39/2015.
+   - Ley 40/2015.
+   - RD 203/2021.
+   - ENS.
+   - ENI.
+   - RGPD/LOPDGDD si hay datos personales.
+   - LCSP si hay contratacion.
+4. En una respuesta A1/A2, evitar hablar solo de herramientas. El tribunal espera:
+   - Marco juridico.
+   - Arquitectura.
+   - Seguridad.
+   - Interoperabilidad.
+   - Operacion.
+   - Contratacion/gobierno cuando proceda.
+   - Impacto en servicio publico.

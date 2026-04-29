@@ -1,0 +1,182 @@
+### Fichas de contratacion publica TIC - LCSP
+Fecha de trabajo: 29/04/2026
+
+Fuente:
+- Ley 9/2017, de Contratos del Sector Publico: https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902
+
+
+============================================================
+FICHA 1. IDEA CENTRAL
+============================================================
+
+En oposiciones TIC A1/A2, contratacion no significa memorizar solo tipos de contratos. Significa saber convertir una necesidad publica en un contrato controlable, seguro, interoperable, medible y reversible.
+
+Frase de examen:
+"La contratacion TIC debe partir de una necesidad publica bien definida y traducirse en prescripciones tecnicas, criterios de solvencia y adjudicacion, SLAs, seguridad, proteccion de datos, interoperabilidad, accesibilidad, gobierno, transferencia de conocimiento y reversibilidad."
+
+
+============================================================
+FICHA 2. DOCUMENTOS CLAVE
+============================================================
+
+| Documento | Funcion | En TIC debe incluir |
+|---|---|---|
+| Memoria justificativa | Justifica necesidad, objeto y decision de contratar. | Necesidad publica, alternativas, reutilizacion, riesgos. |
+| PCAP | Clausulas administrativas. | Procedimiento, criterios, penalidades, garantias, obligaciones. |
+| PPT | Prescripciones tecnicas. | Requisitos funcionales/no funcionales, ENS, ENI, RGPD, SLAs, entregables. |
+| Informe de insuficiencia de medios | Justifica externalizar si procede. | Capacidades internas y necesidad de apoyo. |
+| Acta de recepcion | Acredita entrega conforme. | Pruebas, documentacion, seguridad, aceptacion. |
+
+
+============================================================
+FICHA 3. REQUISITOS TIC EN UN PPT
+============================================================
+
+Bloques minimos:
+- Alcance funcional.
+- Arquitectura y entorno tecnologico.
+- Integraciones.
+- Requisitos ENS.
+- Proteccion de datos.
+- ENI/documento/expediente si aplica.
+- Accesibilidad.
+- Rendimiento y disponibilidad.
+- Soporte y mantenimiento.
+- Gestion de incidencias y cambios.
+- Documentacion.
+- Pruebas.
+- Formacion.
+- Transferencia.
+- Reversibilidad.
+
+Trampa:
+Un PPT que describe "horas de programador" pero no resultados, calidad, seguridad ni entregables deja a la Administracion sin control real.
+
+
+============================================================
+FICHA 4. CRITERIOS DE ADJUDICACION TIC
+============================================================
+
+Buenos criterios:
+- Calidad tecnica de la solucion.
+- Plan de proyecto.
+- Seguridad.
+- Equipo y organizacion del servicio.
+- Mejoras objetivas y relacionadas con el objeto.
+- Calidad, pruebas y accesibilidad.
+- Plan de transferencia.
+- SLAs superiores.
+
+Riesgos:
+- Criterios subjetivos vagos.
+- Peso excesivo del precio.
+- Mejoras no vinculadas al objeto.
+- Criterios que favorecen marca/proveedor.
+
+Frase de examen:
+"Los criterios deben ser objetivos, vinculados al objeto del contrato, medibles y orientados a calidad del servicio, evitando dependencia tecnologica injustificada y ponderando adecuadamente seguridad, continuidad y transferencia."
+
+
+============================================================
+FICHA 5. SEGURIDAD, RGPD Y ENS EN CONTRATOS
+============================================================
+
+Clausulas necesarias:
+- Cumplimiento ENS segun categoria del sistema.
+- Obligacion de confidencialidad.
+- Control de personal del proveedor.
+- Gestion de accesos nominales.
+- Registro de actividad.
+- Notificacion de incidentes.
+- Ubicacion y tratamiento de datos.
+- Encargo de tratamiento si hay datos personales.
+- Subcontratacion controlada.
+- Auditorias.
+- Devolucion/destruccion de informacion al terminar.
+
+Trampa:
+No basta poner "cumplira la normativa vigente". Hay que traducirlo a obligaciones verificables.
+
+
+============================================================
+FICHA 6. REVERSIBILIDAD Y EVITAR DEPENDENCIA
+============================================================
+
+Reversibilidad:
+Capacidad de recuperar el control del servicio, datos, codigo, configuraciones, documentacion y conocimiento al finalizar el contrato o cambiar de proveedor.
+
+Debe incluir:
+- Plan de salida.
+- Inventario de activos.
+- Entrega de codigo y documentacion si procede.
+- Exportacion de datos en formatos abiertos o documentados.
+- Transferencia de conocimiento.
+- Periodo de coexistencia.
+- Soporte a nuevo adjudicatario.
+- Eliminacion segura de datos por proveedor saliente.
+
+Trampa:
+Sin reversibilidad, un contrato barato puede salir carisimo.
+
+
+============================================================
+FICHA 7. SLAS E INDICADORES
+============================================================
+
+Indicadores utiles:
+- Disponibilidad.
+- Tiempo de respuesta.
+- Tiempo de resolucion de incidencias.
+- Numero de incidencias repetitivas.
+- Cumplimiento de plazos de cambios.
+- Defectos en entregas.
+- Vulnerabilidades abiertas.
+- Cobertura de pruebas.
+- Satisfaccion de usuarios.
+- Cumplimiento de transferencia/documentacion.
+
+Penalidades:
+Deben estar definidas y vinculadas a incumplimientos verificables.
+
+Frase de examen:
+"El contrato se gobernaria mediante SLAs medibles, informes periodicos, comites de seguimiento, gestion de riesgos, penalidades proporcionadas y aceptacion formal de entregables."
+
+
+============================================================
+TEST RAPIDO CONTRATACION TIC
+============================================================
+
+1. Un PPT TIC debe incluir:
+A. Solo marca de producto.
+B. Requisitos funcionales, no funcionales, seguridad, calidad, entregables y SLAs.
+C. Solo precio maximo.
+D. Solo numero de empleados.
+Respuesta: B.
+
+2. La reversibilidad sirve para:
+A. Evitar dependencia y recuperar control al finalizar/cambiar contrato.
+B. Eliminar pruebas.
+C. Sustituir ENS.
+D. Evitar documentacion.
+Respuesta: A.
+
+3. En un contrato con datos personales, puede ser necesario:
+A. Encargo de tratamiento.
+B. Eliminar RGPD.
+C. Acceso anonimo sin control.
+D. No registrar actividad.
+Respuesta: A.
+
+4. Un criterio de adjudicacion debe estar:
+A. Vinculado al objeto del contrato.
+B. Basado solo en gustos.
+C. Oculto.
+D. Definido despues de adjudicar.
+Respuesta: A.
+
+5. "Cumplir normativa vigente" sin obligaciones concretas:
+A. Es suficiente siempre.
+B. Es debil como control si no se traduce en requisitos verificables.
+C. Sustituye auditorias.
+D. Impide incidentes.
+Respuesta: B.

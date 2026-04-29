@@ -1,0 +1,145 @@
+### Matriz de decision C1/A2/A1 - Oposiciones informaticas AGE
+Fecha de trabajo: 29/04/2026
+
+Fuentes de convocatoria:
+- A1 TIC: BOE-A-2025-25938, publicado el 18/12/2025.
+- A2 GSI y C1 TAI: BOE-A-2025-26262, publicado el 22/12/2025.
+
+
+============================================================
+COMPARATIVA RAPIDA
+============================================================
+
+| Nivel | Cuerpo | Plazas libres vigentes/recentes | Dificultad | Encaje perfil senior | Uso estrategico |
+|---|---|---:|---|---|---|
+| C1 | Tecnicos Auxiliares de Informatica | 1.030 | Media | Medio | Entrada rapida/plan de seguridad |
+| A2 | Gestion de Sistemas e Informatica | 680 | Media-alta | Alto | Via equilibrada y muy viable |
+| A1 | Superior de Sistemas y Tecnologias | 290 | Alta | Muy alto | Objetivo principal por salario y responsabilidad |
+
+
+============================================================
+C1 TAI
+============================================================
+
+Ventajas:
+- Muchas plazas.
+- Temario tecnico mas accesible.
+- Buena entrada si se prioriza estabilidad.
+- Puede servir como primer escalon para promocionar.
+
+Inconvenientes:
+- Menor salario y responsabilidad.
+- Mas competencia masiva.
+- Parte del valor de experiencia senior queda desaprovechado.
+
+Cuando elegirlo:
+- Si urge entrar en la Administracion.
+- Si se dispone de poco tiempo semanal.
+- Si la estrategia es entrar primero y promocionar despues.
+
+Contenido prioritario:
+- Administracion electronica.
+- ENS/ENI.
+- Sistemas operativos.
+- Redes.
+- Bases de datos.
+- Desarrollo basico.
+- Seguridad fisica/logica.
+
+
+============================================================
+A2 GSI
+============================================================
+
+Ventajas:
+- Muy buen equilibrio entre dificultad, plazas y encaje tecnico.
+- Permite usar experiencia real en supuestos.
+- Menos exigencia directiva que A1.
+- Base comun fuerte con A1.
+
+Inconvenientes:
+- Salario inicial puede quedar por debajo de un senior privado.
+- Exige dominar normativa y practica administrativa.
+- Hay que responder como empleado publico, no como consultor.
+
+Cuando elegirlo:
+- Como via principal si se quiere maximizar probabilidad.
+- Como segunda via mientras se prepara A1.
+- Si se pueden sostener 15-22 horas semanales.
+
+Contenido prioritario:
+- Ley 39/2015 y 40/2015.
+- Administracion digital.
+- ENS/ENI/RGPD.
+- Sistemas, redes, cloud.
+- Desarrollo, datos, APIs.
+- Supuestos practicos.
+
+
+============================================================
+A1 TIC
+============================================================
+
+Ventajas:
+- Mejor encaje con perfil senior.
+- Mayor responsabilidad, carrera y salario.
+- La experiencia en arquitectura, gestion y seguridad pesa mucho en supuestos.
+- Preparar A1 cubre gran parte de A2.
+
+Inconvenientes:
+- Temario mas amplio.
+- Exige vision directiva y juridico-tecnica.
+- Requiere mas constancia.
+- Puede incluir pruebas de desarrollo/exposicion/idioma segun convocatoria.
+
+Cuando elegirlo:
+- Si el objetivo es no bajar nivel profesional.
+- Si se busca carrera directiva TIC publica.
+- Si se pueden sostener 22-30 horas semanales.
+
+Contenido prioritario:
+- Gobernanza TIC AGE.
+- Transformacion digital.
+- Compra publica TIC.
+- Direccion de proyectos.
+- Seguridad, ENS, CCN-STIC.
+- Interoperabilidad y servicios comunes.
+- Arquitecturas, datos, IA, desarrollo y operacion.
+
+
+============================================================
+RECOMENDACION FINAL
+============================================================
+
+Estrategia recomendada:
+1. Preparar A1 como tronco principal.
+2. Presentarse tambien a A2 si fechas y requisitos lo permiten.
+3. Usar C1 solo como red de seguridad o entrenamiento de convocatoria.
+
+Por que:
+- A1 aprovecha la experiencia senior.
+- A2 aumenta la probabilidad de entrada.
+- C1 protege ante urgencia, pero no debe absorber el centro del estudio si el objetivo real es carrera TIC de nivel alto.
+
+
+============================================================
+DECISION OPERATIVA
+============================================================
+
+Plan de estudio unico:
+- 70% A1/A2 comun.
+- 20% supuestos practicos.
+- 10% adaptacion especifica a C1/A2/A1 segun convocatoria cercana.
+
+No dividir el estudio en tres oposiciones separadas. Crear un nucleo comun:
+- Normativa.
+- Administracion digital.
+- ENS/ENI/RGPD.
+- Sistemas/redes/cloud.
+- Desarrollo/datos.
+- Gestion/contratacion.
+
+Y despues ajustar profundidad:
+- C1: mas test y definiciones.
+- A2: test + supuesto tecnico aplicado.
+- A1: vision directiva + respuesta juridico-tecnica + estrategia.

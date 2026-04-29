@@ -1,0 +1,200 @@
+### Tabla de estudio ENS - Real Decreto 311/2022
+
+Fuente base: BOE, Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.
+Uso: oposiciones TIC C1, A2 y A1, especialmente supuestos practicos.
+
+
+============================================================
+1. IDEA CENTRAL DEL ENS
+============================================================
+
+El ENS regula los principios basicos y requisitos minimos necesarios para proteger adecuadamente la informacion tratada y los servicios prestados por medios electronicos en el sector publico y en quienes colaboren con el cuando corresponda.
+
+En examen hay que recordarlo asi:
+- No es solo "ciberseguridad tecnica".
+- Es un marco juridico, organizativo, operacional y tecnico.
+- Busca garantizar acceso, confidencialidad, integridad, trazabilidad, autenticidad, disponibilidad y conservacion de datos, informacion y servicios.
+
+
+============================================================
+2. PRINCIPIOS BASICOS
+============================================================
+
+| Principio | Como explicarlo en examen | Aplicacion TIC |
+|---|---|---|
+| Seguridad como proceso integral | La seguridad debe cubrir todo el ciclo de vida del sistema, no solo la puesta en produccion. | Requisitos, diseno, desarrollo, despliegue, operacion, mantenimiento y retirada. |
+| Gestion de seguridad basada en riesgos | Las medidas deben responder a riesgos reales, valorados y documentados. | Analisis de riesgos antes de decidir controles, arquitectura o externalizacion. |
+| Prevencion, deteccion, respuesta y conservacion | Hay que evitar incidentes, detectarlos, responder y conservar evidencias/informacion. | Hardening, SIEM, respuesta a incidentes, backups, logs y cadena de custodia. |
+| Existencia de lineas de defensa | La proteccion debe estar distribuida en capas. | Controles perimetrales, IAM, segmentacion, cifrado, monitorizacion y auditoria. |
+| Vigilancia continua | La seguridad requiere seguimiento permanente. | Monitorizacion, alertas, revision de logs, escaneo de vulnerabilidades y SOC. |
+| Reevaluacion periodica | Los riesgos y controles deben revisarse con el tiempo. | Auditorias, revisiones de categoria, actualizacion de amenazas y mejora continua. |
+| Diferenciacion de responsabilidades | Deben separarse funciones y responsabilidades de informacion, servicio, seguridad y sistema. | Roles claros: responsable de informacion, responsable del servicio, responsable de seguridad y responsable del sistema. |
+
+
+============================================================
+3. REQUISITOS MINIMOS
+============================================================
+
+| Requisito minimo | Que exige | Ejemplo de respuesta de oposicion |
+|---|---|---|
+| Organizacion e implantacion del proceso de seguridad | Definir una gestion formal de la seguridad. | Comite/roles, procedimientos, politica, plan de seguridad y seguimiento. |
+| Analisis y gestion de riesgos | Identificar activos, amenazas, vulnerabilidades, impactos y tratamiento. | MAGERIT u otra metodologia reconocida; plan de tratamiento de riesgos. |
+| Gestion de personal | Asegurar formacion, responsabilidades y control sobre usuarios internos/externos. | Concienciacion, minimo privilegio, bajas de usuarios y segregacion de funciones. |
+| Profesionalidad | Personal formado y cualificado. | Formacion continua, perfiles tecnicos, certificaciones y procedimientos. |
+| Autorizacion y control de accesos | Acceso limitado a quien lo necesita. | IAM, MFA, RBAC, revision de permisos y trazabilidad. |
+| Proteccion de las instalaciones | Seguridad fisica y ambiental. | CPD, control de acceso fisico, alimentacion, climatizacion y deteccion de incendios. |
+| Adquisicion de productos de seguridad y contratacion de servicios | Seleccionar productos/servicios con garantias suficientes. | Certificaciones, requisitos ENS en pliegos y acuerdos de nivel de servicio. |
+| Minimo privilegio | Cada usuario/proceso solo debe tener permisos imprescindibles. | Separacion de administradores, cuentas nominativas y privilegios temporales. |
+| Integridad y actualizacion del sistema | Mantener sistemas actualizados y controlados. | Parcheo, inventario, configuracion segura y gestion de vulnerabilidades. |
+| Proteccion de la informacion almacenada y en transito | Evitar acceso, alteracion o perdida indebida. | Cifrado, copias, DLP, TLS, control de soportes y clasificacion. |
+| Prevencion ante otros sistemas interconectados | Gestionar riesgos derivados de interconexion. | Segmentacion, API gateway, controles de terceros y acuerdos de interconexion. |
+| Registro de actividad y deteccion de codigo danino | Registrar eventos y detectar actividad maliciosa. | Logs centralizados, antivirus/EDR, SIEM, correlacion y alertas. |
+| Incidentes de seguridad | Disponer de proceso de notificacion, gestion y recuperacion. | Procedimiento de incidentes, CSIRT/SOC, lecciones aprendidas y comunicacion. |
+| Continuidad de la actividad | Garantizar continuidad y recuperacion. | BIA, RTO/RPO, plan de continuidad, DRP y pruebas periodicas. |
+| Mejora continua | Revisar y mejorar el sistema de seguridad. | Auditorias, indicadores, planes de mejora y reevaluacion periodica. |
+
+
+============================================================
+4. DIMENSIONES DE SEGURIDAD
+============================================================
+
+| Dimension | Pregunta clave | Ejemplo |
+|---|---|---|
+| Disponibilidad | Que impacto tiene que el servicio no este disponible? | Caida de sede electronica en plazo de presentacion de solicitudes. |
+| Autenticidad | Como garantizo que usuarios, servicios o datos son autenticos? | Certificados, firma, sello electronico e identidad federada. |
+| Integridad | Que impacto tiene que la informacion sea alterada? | Modificacion indebida de expediente o resolucion. |
+| Confidencialidad | Que impacto tiene una divulgacion no autorizada? | Datos personales, expedientes sancionadores o informacion sensible. |
+| Trazabilidad | Puedo saber quien hizo que, cuando y desde donde? | Logs de acceso, auditoria de acciones y conservacion de evidencias. |
+
+Regla de memoria: DAIC-T.
+Disponibilidad, Autenticidad, Integridad, Confidencialidad, Trazabilidad.
+
+
+============================================================
+5. CATEGORIAS DE SISTEMAS
+============================================================
+
+| Categoria | Como interpretarla | Ejemplo orientativo |
+|---|---|---|
+| Basica | Impacto limitado si hay incidente. | Aplicacion interna no critica con informacion de bajo impacto. |
+| Media | Impacto relevante para derechos, servicios o funcionamiento administrativo. | Sistema de expedientes, gestion de ayudas o servicios con datos personales. |
+| Alta | Impacto grave o muy grave en servicios esenciales, derechos, seguridad o funcionamiento. | Plataforma critica de tramitacion, identidad, sanidad, seguridad o servicio masivo. |
+
+Idea clave:
+La categoria se determina valorando el impacto sobre las dimensiones de seguridad. En un supuesto practico, no conviene afirmar "categoria alta" sin justificarlo por disponibilidad, autenticidad, integridad, confidencialidad o trazabilidad.
+
+
+============================================================
+6. GRUPOS DE MEDIDAS DEL ANEXO II
+============================================================
+
+| Grupo | Codigo | Que cubre | Ejemplos |
+|---|---|---|---|
+| Marco organizativo | org | Organizacion global de la seguridad. | Politica, normativa, procedimientos y autorizacion. |
+| Marco operacional | op | Proteccion de la operacion del sistema. | Analisis de riesgos, arquitectura, control de acceso, explotacion, monitorizacion, continuidad. |
+| Medidas de proteccion | mp | Proteccion de activos concretos. | Instalaciones, personal, equipos, comunicaciones, soportes, aplicaciones, informacion y servicios. |
+
+Frase de examen:
+"Seleccionaria las medidas del Anexo II del ENS en funcion de la categoria del sistema, las dimensiones afectadas y el resultado del analisis de riesgos, formalizando la Declaracion de Aplicabilidad."
+
+
+============================================================
+7. DECLARACION DE APLICABILIDAD
+============================================================
+
+Que es:
+Documento donde se formalizan las medidas de seguridad seleccionadas para un sistema, incluidos los refuerzos o medidas compensatorias cuando proceda.
+
+Como usarlo en un supuesto:
+- Identificar activos y dimensiones.
+- Determinar categoria.
+- Seleccionar medidas del Anexo II.
+- Justificar refuerzos segun nivel.
+- Documentar decisiones y responsables.
+
+
+============================================================
+8. ROLES QUE DEBEN APARECER EN RESPUESTAS A1/A2
+============================================================
+
+| Rol | Funcion en respuesta de examen |
+|---|---|
+| Responsable de la informacion | Determina requisitos sobre la informacion tratada. |
+| Responsable del servicio | Determina requisitos del servicio prestado. |
+| Responsable de seguridad | Supervisa la adecuacion de medidas de seguridad y gestion de riesgos. |
+| Responsable del sistema | Opera, administra y mantiene el sistema de informacion. |
+| Delegado de proteccion de datos | Debe considerarse cuando hay tratamiento de datos personales. |
+
+Trampa habitual:
+No mezclar todos los roles en una unica persona sin justificarlo. El ENS insiste en diferenciacion de responsabilidades.
+
+
+============================================================
+9. COMO METER ENS EN CUALQUIER SUPUESTO PRACTICO
+============================================================
+
+Parrafo reutilizable:
+"La solucion se disenara conforme al Real Decreto 311/2022, aplicando el ENS desde el inicio del ciclo de vida. Se identificaran activos, servicios y datos tratados; se valoraran las dimensiones de disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad; se determinara la categoria del sistema; y se seleccionaran las medidas del Anexo II mediante la correspondiente Declaracion de Aplicabilidad. Asimismo, se incorporaran controles de identidad, minimo privilegio, registro de actividad, gestion de vulnerabilidades, continuidad, respuesta a incidentes y mejora continua."
+
+
+============================================================
+10. TRAMPAS DE TEST FRECUENTES
+============================================================
+
+1. Confundir ENS con una guia tecnica voluntaria.
+Respuesta: el ENS es regulado por real decreto y establece principios basicos y requisitos minimos.
+
+2. Pensar que solo aplica a sistemas de categoria alta.
+Respuesta: aplica con proporcionalidad; las medidas se ajustan a categoria, dimensiones y riesgos.
+
+3. Reducir el ENS a confidencialidad.
+Respuesta: tambien cubre disponibilidad, autenticidad, integridad, trazabilidad y conservacion.
+
+4. Olvidar la Declaracion de Aplicabilidad.
+Respuesta: es clave para formalizar las medidas seleccionadas.
+
+5. No mencionar el analisis de riesgos.
+Respuesta: la gestion de seguridad basada en riesgos es principio basico y condiciona medidas.
+
+6. Responder solo con herramientas.
+Respuesta: el ENS exige organizacion, operacion, proteccion, roles, procedimientos y mejora continua.
+
+
+============================================================
+11. MINI TEST ENS
+============================================================
+
+1. Cual de los siguientes NO es un principio basico del ENS?
+A. Vigilancia continua.
+B. Reevaluacion periodica.
+C. Diferenciacion de responsabilidades.
+D. Maximizacion de privilegios.
+Respuesta: D.
+
+2. Las medidas del Anexo II se agrupan en:
+A. Preventivas, detectivas y correctivas.
+B. Marco organizativo, marco operacional y medidas de proteccion.
+C. Juridicas, economicas y tecnicas.
+D. Internas, externas y mixtas.
+Respuesta: B.
+
+3. Que dimensiones se valoran para categorizar un sistema?
+A. Coste, plazo, alcance, calidad y recursos.
+B. Disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad.
+C. Hardware, software, comunicaciones, datos y personas.
+D. Desarrollo, pruebas, produccion, soporte y retirada.
+Respuesta: B.
+
+4. La Declaracion de Aplicabilidad sirve para:
+A. Sustituir el analisis de riesgos.
+B. Formalizar las medidas de seguridad seleccionadas.
+C. Evitar auditorias.
+D. Clasificar economicamente el contrato.
+Respuesta: B.
+
+5. En un sistema de expediente electronico con datos personales y plazos administrativos, el ENS debe considerarse:
+A. Solo si se externaliza el servicio.
+B. Solo si el sistema es de categoria alta.
+C. Desde el diseno, junto con RGPD, ENI y normativa administrativa.
+D. Despues de la puesta en produccion.
+Respuesta: C.

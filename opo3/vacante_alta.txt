@@ -1,0 +1,55 @@
+### Vacante Alta: Cuerpo Superior de Sistemas y Tecnologias / A1 TIC
+
+Objetivo: preparar la oposicion informatica de mayor nivel de la AGE, orientada a direccion, estrategia, gobierno TIC, arquitectura, seguridad, contratacion y transformacion digital.
+
+Perfil al que encaja:
+- Ingeniero informatico senior con experiencia en arquitectura, desarrollo, sistemas, datos, seguridad o gestion.
+- Candidato que busca plaza A1 y salario/progresion acordes con responsabilidad directiva.
+- Persona capaz de sostener 20-30 horas semanales durante 12-18 meses.
+
+Estrategia general:
+- Preparar A1 como objetivo principal y A2 como red de seguridad si las fechas lo permiten.
+- Convertir experiencia privada en lenguaje publico: de "cliente/proyecto/producto" a "ciudadano, organo, expediente, servicio publico, interoperabilidad, seguridad y cumplimiento".
+- Estudiar cada tema con doble salida: test objetivo y desarrollo/caso con enfoque de tribunal.
+
+Bloques criticos:
+1. Marco juridico y administracion publica: Constitucion, UE, Gobierno, AGE, procedimiento administrativo, regimen juridico, EBEP, igualdad, transparencia y proteccion de datos.
+2. Administracion digital: Ley 39/2015, Ley 40/2015, ENI, ENS, sede, registro, firma, identificacion, notificaciones, archivo, interoperabilidad, datos y reutilizacion.
+3. Estrategia digital publica: planes de digitalizacion, gobernanza TIC, servicios comunes, carpeta ciudadana, intercambio de datos, automatizacion e inteligencia artificial.
+4. Seguridad y ciberseguridad: ENS, NIS2 si aplica en temario, gestion de riesgos, SOC, continuidad, identidad, auditoria, respuesta a incidentes y proteccion de infraestructuras.
+5. Arquitecturas y sistemas: cloud, CPD, redes, virtualizacion, contenedores, microservicios, integracion, observabilidad, escalabilidad y alta disponibilidad.
+6. Desarrollo y datos: ciclo de vida, metodologias, calidad, pruebas, DevSecOps, APIs, interoperabilidad semantica, gobierno del dato, analitica e IA.
+7. Gestion y contratacion: LCSP, pliegos, acuerdos marco, servicios gestionados, SLAs, direccion de proyectos, ITIL, calidad, accesibilidad y sostenibilidad.
+
+Formato de respuesta A1:
+1. Apertura: definir el problema publico y el objetivo estrategico.
+2. Marco normativo: citar normas relevantes sin saturar.
+3. Solucion tecnica: arquitectura, datos, seguridad, integraciones y operacion.
+4. Gobierno: roles, contratacion, seguimiento, indicadores, riesgos y continuidad.
+5. Impacto: mejora para ciudadanos, empleados publicos, eficiencia, seguridad y cumplimiento.
+
+Material que hay que producir:
+- Resumen ejecutivo de 1 pagina por tema.
+- Desarrollo oral/escrito de 5-7 minutos por tema nuclear.
+- Tabla de normativa: norma, ambito, articulos/ideas clave y ejemplo TIC.
+- Banco de casos A1: expediente electronico, plataforma de datos, nube hibrida, ciberincidente, licitacion TIC, IA publica, migracion legacy e interoperabilidad.
+- Fichas "palabras de tribunal": interes general, servicio publico, neutralidad tecnologica, proporcionalidad, seguridad por defecto, minimizacion de datos, trazabilidad, accesibilidad universal, reutilizacion, interoperabilidad y eficiencia.
+
+Plan de 12 semanas inicial:
+Semana 1: programa oficial, calendario, recopilacion de examenes y mapa de brechas.
+Semana 2: Constitucion, AGE, Gobierno y EBEP.
+Semana 3: Ley 39/2015 y Ley 40/2015 aplicadas a sistemas electronicos.
+Semana 4: administracion digital, sede, registro, firma, notificaciones, archivo y ENI.
+Semana 5: ENS y RGPD/LOPDGDD.
+Semana 6: arquitectura de sistemas, cloud, CPD, redes y continuidad.
+Semana 7: desarrollo, APIs, integracion, calidad y DevSecOps.
+Semana 8: datos, interoperabilidad semantica, analitica e IA.
+Semana 9: gestion de proyectos, ITIL, calidad, accesibilidad y servicios.
+Semana 10: contratacion publica TIC y pliegos.
+Semana 11: casos practicos integrales.
+Semana 12: simulacros, repaso de fallos y ajuste del calendario.
+
+Indicador de avance:
+- 80% o mas en test de bloques ya cerrados.
+- Una respuesta A1 debe sonar a directivo publico: tecnica, juridica, segura, medible y orientada al ciudadano.
+- Ser capaz de defender una arquitectura ante tribunal en 10 minutos con normativa, riesgos y plan de implantacion.

@@ -1,0 +1,202 @@
+### Fichas RGPD/LOPDGDD para oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Fuentes:
+- Reglamento (UE) 2016/679, RGPD.
+- LOPDGDD, Ley Organica 3/2018 consolidada: https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673
+- AEPD como referencia practica: https://www.aepd.es/
+
+
+============================================================
+FICHA 1. IDEA CENTRAL
+============================================================
+
+La proteccion de datos no es un anexo legal del sistema: condiciona finalidad, base juridica, datos recogidos, acceso, conservacion, seguridad, cesiones, interoperabilidad, auditoria y derechos de las personas.
+
+En sistemas publicos casi nunca basta decir "consentimiento":
+- Muchas actuaciones se basan en obligacion legal.
+- Otras en mision realizada en interes publico.
+- Otras en ejercicio de poderes publicos.
+
+Frase de examen:
+"El tratamiento se disenara conforme al RGPD y la LOPDGDD, identificando finalidad, base juridica, responsable, encargados, categorias de datos, minimizacion, plazos de conservacion, derechos, medidas ENS y, si procede, evaluacion de impacto."
+
+
+============================================================
+FICHA 2. PRINCIPIOS RGPD
+============================================================
+
+| Principio | Significado | Aplicacion TIC |
+|---|---|---|
+| Licitud, lealtad y transparencia | Tratamiento con base juridica e informacion clara. | Clausulas informativas, registro de actividades, trazabilidad. |
+| Limitacion de la finalidad | Datos usados para fines determinados. | Evitar reutilizacion sin base compatible. |
+| Minimizacion | Solo datos necesarios. | Formularios sin campos innecesarios. |
+| Exactitud | Datos correctos y actualizados. | Validaciones, interoperabilidad, rectificacion. |
+| Limitacion del plazo | No conservar indefinidamente sin causa. | Politicas de archivo y borrado. |
+| Integridad y confidencialidad | Seguridad adecuada. | ENS, cifrado, control de acceso, logs. |
+| Responsabilidad proactiva | Poder demostrar cumplimiento. | Documentacion, auditoria, EIPD, procedimientos. |
+
+
+============================================================
+FICHA 3. ROLES
+============================================================
+
+Responsable del tratamiento:
+- Decide fines y medios.
+- En Administracion suele ser el organo competente.
+
+Encargado del tratamiento:
+- Trata datos por cuenta del responsable.
+- En TIC suele ser proveedor cloud, mantenimiento, soporte o desarrollo con acceso a datos.
+
+Delegado de Proteccion de Datos:
+- Asesora, supervisa, coopera con autoridad de control y actua como punto de contacto.
+- Muy relevante en Administraciones Publicas.
+
+Usuario autorizado:
+- Accede segun rol y necesidad.
+
+Trampa:
+Un proveedor no es "responsable" solo por alojar o mantener el sistema si actua siguiendo instrucciones del organo responsable.
+
+
+============================================================
+FICHA 4. DERECHOS DE LAS PERSONAS
+============================================================
+
+Derechos clasicos:
+- Acceso.
+- Rectificacion.
+- Supresion.
+- Oposicion.
+- Limitacion.
+- Portabilidad.
+- No ser objeto de decisiones individuales automatizadas cuando proceda.
+
+En sistemas publicos:
+- Debe haber canal para ejercer derechos.
+- Debe registrarse y contestarse en plazo.
+- Debe poder localizarse el dato en sistemas y expedientes.
+- Deben existir perfiles de acceso y trazabilidad.
+
+Frase de examen:
+"El sistema debe permitir atender derechos de proteccion de datos mediante localizacion de informacion, registro de solicitudes, flujo de respuesta, trazabilidad y coordinacion con el DPD."
+
+
+============================================================
+FICHA 5. EIPD Y PRIVACIDAD DESDE EL DISEÑO
+============================================================
+
+EIPD:
+Evaluacion de impacto relativa a proteccion de datos cuando un tratamiento puede implicar alto riesgo para derechos y libertades.
+
+Casos probables:
+- Tratamientos masivos.
+- Categorias especiales.
+- Perfilado.
+- IA o decisiones automatizadas.
+- Vigilancia sistematica.
+- Cruce intensivo de datos entre Administraciones.
+
+Privacidad desde el diseno:
+- Minimizar datos.
+- Separar entornos.
+- Seudonimizar o anonimizar cuando proceda.
+- Controlar accesos.
+- Cifrar.
+- Registrar actividad.
+- Definir conservacion.
+- Probar seguridad.
+
+Trampa:
+Hacer una EIPD al final no sirve como diseño preventivo.
+
+
+============================================================
+FICHA 6. BRECHAS DE DATOS PERSONALES
+============================================================
+
+Brecha:
+Incidente que ocasiona destruccion, perdida, alteracion, comunicacion o acceso no autorizado a datos personales.
+
+Proceso:
+1. Detectar y contener.
+2. Evaluar datos, personas afectadas, impacto y riesgo.
+3. Documentar.
+4. Notificar a la autoridad de control si procede.
+5. Comunicar a afectados si el riesgo es alto, cuando proceda.
+6. Corregir causas.
+
+Conexion ENS:
+- Gestion de incidentes.
+- Logs.
+- Continuidad.
+- Mejora continua.
+
+Frase de examen:
+"Ante una brecha, coordinaria respuesta tecnica y juridica: contencion, evidencias, evaluacion de riesgo, documentacion, DPD, notificacion si procede, comunicacion a afectados en su caso y medidas correctoras."
+
+
+============================================================
+FICHA 7. IA Y DECISIONES AUTOMATIZADAS
+============================================================
+
+Riesgos:
+- Sesgos.
+- Falta de explicabilidad.
+- Tratamiento excesivo.
+- Decisiones no revisables.
+- Datos de entrenamiento inadecuados.
+
+Controles:
+- Finalidad clara.
+- Base juridica.
+- Evaluacion de impacto si procede.
+- Supervision humana.
+- Explicabilidad.
+- Trazabilidad.
+- Auditoria.
+- Calidad del dato.
+
+Frase de examen:
+"Si se emplea IA en procedimientos publicos, debe garantizarse supervision humana, explicabilidad, calidad del dato, ausencia de sesgos injustificados, trazabilidad, base juridica y respeto a los derechos del interesado."
+
+
+============================================================
+TEST RAPIDO RGPD/LOPDGDD
+============================================================
+
+1. En Administracion Publica, el consentimiento:
+A. Es siempre la unica base juridica.
+B. No siempre es la base adecuada; puede haber obligacion legal, interes publico o poderes publicos.
+C. Sustituye al ENS.
+D. Permite cualquier uso posterior.
+Respuesta: B.
+
+2. Minimizacion significa:
+A. Recoger todos los datos por si acaso.
+B. Recoger solo los datos necesarios.
+C. Borrar logs siempre.
+D. Evitar copias de seguridad.
+Respuesta: B.
+
+3. Un proveedor que mantiene una aplicacion con acceso a datos suele ser:
+A. Encargado del tratamiento si trata datos por cuenta del responsable.
+B. Interesado.
+C. Autoridad de control.
+D. Tribunal.
+Respuesta: A.
+
+4. Una EIPD es especialmente relevante cuando:
+A. Hay alto riesgo para derechos y libertades.
+B. Solo hay documentos sin datos.
+C. Se cambia el color de la web.
+D. Se imprime un cartel.
+Respuesta: A.
+
+5. Una brecha de datos personales debe:
+A. Ignorarse si el servicio vuelve.
+B. Documentarse y evaluarse, notificando/comunicando si procede.
+C. Publicarse siempre en redes.
+D. Resolverla solo el proveedor sin informar.
+Respuesta: B.

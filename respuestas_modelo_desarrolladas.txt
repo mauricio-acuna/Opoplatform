@@ -1,0 +1,75 @@
+### Respuestas modelo desarrolladas - Supuestos TIC A1/A2
+Fecha de trabajo: 29/04/2026
+
+Uso:
+Leer, tapar, reescribir en 30-45 minutos y comparar. El objetivo es interiorizar estructura, no memorizar literal.
+
+
+============================================================
+RESPUESTA MODELO 1. IMPLANTACION DE SEDE ELECTRONICA
+============================================================
+
+El supuesto debe abordarse como una transformacion completa del canal de relacion electronica del organismo con ciudadanos y empresas, no como la publicacion de una pagina web. El objetivo es permitir actuaciones administrativas con plenas garantias juridicas, mejorando accesibilidad, trazabilidad, disponibilidad y reduccion de cargas.
+
+En primer lugar, realizaria un diagnostico de los procedimientos afectados: volumen de solicitudes, sujetos obligados a relacionarse electronicamente, documentos requeridos, organos gestores, plazos, notificaciones, integraciones y datos personales tratados. Tambien identificaria los sistemas existentes, contratos, riesgos, dependencias y nivel de criticidad.
+
+El marco normativo principal seria la Ley 39/2015 para procedimiento, registro, documentos, expediente, notificacion y derechos de los interesados; la Ley 40/2015 para sede electronica, identificacion/firma de las Administraciones, actuacion administrativa automatizada y archivo electronico; el RD 203/2021 para el funcionamiento electronico; el ENS para seguridad; el ENI y sus NTI para interoperabilidad; y RGPD/LOPDGDD por el tratamiento de datos personales.
+
+La arquitectura propuesta separaria portal informativo y sede electronica. La sede integraria autenticacion mediante Cl@ve/certificados cuando proceda, formularios normalizados, registro electronico, gestor de expedientes, gestor documental, notificaciones electronicas, CSV para verificacion documental, integracion con SIR, Carpeta Ciudadana y Plataforma de Intermediacion de Datos cuando el procedimiento lo permita. El sistema deberia generar evidencias de presentacion, trazabilidad de actuaciones, indice de expediente y conservacion documental.
+
+Desde el punto de vista de seguridad, aplicaria ENS desde el diseño: categorizacion del sistema, analisis de riesgos, declaracion de aplicabilidad, control de accesos, minimo privilegio, cifrado, registro de actividad, gestion de vulnerabilidades, copias de seguridad, continuidad y respuesta ante incidentes. Si hay datos personales, definiria responsable, encargados, base juridica, finalidad, minimizacion, plazos de conservacion, derechos y evaluacion de impacto si el tratamiento lo requiere.
+
+La implantacion deberia ser progresiva. Primero se seleccionaria un conjunto piloto de procedimientos representativos, se probarian integraciones, accesibilidad, rendimiento, seguridad, notificaciones, registro y archivo. Despues se incorporarian familias de procedimientos, con formacion a empleados publicos, comunicacion a ciudadanos y soporte reforzado durante la puesta en marcha.
+
+Finalmente, el servicio se gobernaria con indicadores: disponibilidad de sede, tiempos de tramitacion, solicitudes electronicas, incidencias, accesibilidad, satisfaccion, tiempos de respuesta y cumplimiento de SLAs. El resultado esperado seria un servicio mas seguro, trazable, interoperable y accesible, con garantias juridicas y menor carga administrativa para ciudadanos y empleados publicos.
+
+
+============================================================
+RESPUESTA MODELO 2. CIBERINCIDENTE CON POSIBLE BRECHA
+============================================================
+
+Ante un incidente de cifrado masivo y posible exfiltracion de datos personales, la prioridad es proteger la continuidad del servicio publico, contener el incidente, preservar evidencias y coordinar la respuesta tecnica, juridica y organizativa.
+
+Activaria el procedimiento formal de gestion de incidentes, clasificando severidad, sistemas afectados, servicios impactados, datos comprometidos y responsables implicados. De forma inmediata aislaria los equipos o segmentos afectados, bloquearia credenciales sospechosas, revisaria accesos recientes y evitaria que las acciones de recuperacion destruyan evidencias necesarias para el analisis.
+
+El analisis tecnico incluiria revision de logs, EDR/SIEM, indicadores de compromiso, vectores de entrada, cuentas usadas, vulnerabilidades explotadas, alcance real del cifrado y posible exfiltracion. Se coordinaria con el responsable de seguridad, responsable del sistema, responsable del servicio, DPD si hay datos personales y, si procede, equipos especializados de respuesta.
+
+Para la continuidad, priorizaria servicios criticos y expedientes sujetos a plazo. Usaria el BIA, RTO y RPO para decidir orden de recuperacion. La restauracion se realizaria desde copias verificadas y limpias, evitando reconectar sistemas sin asegurar que no permanecen comprometidos. Si la sede o sistemas de tramitacion estuvieran afectados, se definirian medidas organizativas y comunicacion para evitar indefension de los interesados.
+
+Desde el punto de vista normativo, aplicaria ENS en gestion de incidentes, registro de actividad, deteccion de codigo dañino, continuidad y mejora continua. Si se confirma o sospecha brecha de datos personales, documentaria el incidente, evaluaria riesgo para derechos y libertades, coordinaria con el DPD y notificaria a la autoridad de control o comunicaria a afectados cuando proceda.
+
+Tras la recuperacion, elaboraria un informe de lecciones aprendidas: causa raiz, impacto, tiempos de respuesta, controles fallidos y medidas correctoras. Reforzaria MFA, segmentacion, minimo privilegio, copias inmutables, parcheo, gestion de vulnerabilidades, concienciacion, simulacros, monitorizacion y procedimientos de respuesta. El cierre no es solo tecnico: debe mejorar la resiliencia institucional.
+
+
+============================================================
+RESPUESTA MODELO 3. LICITACION DE SERVICIO TIC CRITICO
+============================================================
+
+La licitacion de una plataforma critica debe plantearse como un instrumento para garantizar la continuidad y calidad de un servicio publico, no como una simple compra de horas tecnicas.
+
+Primero justificaria la necesidad: criticidad de la plataforma, usuarios afectados, obligaciones legales, carencias de medios propios, riesgos actuales y alternativas evaluadas, incluida la reutilizacion de soluciones existentes si procede. El objeto contractual debe ser claro, evitando ambiguedades y dependencia injustificada de marcas o proveedores.
+
+El PPT deberia incluir requisitos funcionales y no funcionales: mantenimiento correctivo, evolutivo y adaptativo; soporte; integraciones; niveles de disponibilidad; rendimiento; seguridad; accesibilidad; pruebas; documentacion; gestion de cambios; formacion; transferencia y reversibilidad. En seguridad, incorporaria cumplimiento ENS segun categoria del sistema, control de accesos, confidencialidad, gestion de vulnerabilidades, notificacion de incidentes, registro de actividad y auditoria. Si hay datos personales, incluiria el correspondiente encargo de tratamiento y obligaciones RGPD/LOPDGDD.
+
+Los criterios de adjudicacion deben estar vinculados al objeto y ser medibles. No ponderaria exclusivamente el precio. Valoraria calidad tecnica, organizacion del servicio, plan de transicion, seguridad, experiencia del equipo, SLAs, mejora de monitorizacion, pruebas, accesibilidad y transferencia de conocimiento. Las mejoras deben ser concretas y verificables.
+
+Durante la ejecucion, estableceria gobierno del contrato: comite de seguimiento, informes periodicos, indicadores, gestion de riesgos, control de cambios, aceptacion formal de entregables y penalidades por incumplimiento de SLAs. Los indicadores incluirian disponibilidad, tiempos de respuesta/resolucion, defectos, vulnerabilidades abiertas, retrasos, calidad documental y satisfaccion de usuarios.
+
+Finalmente, la reversibilidad debe quedar prevista desde el inicio: entrega de codigo, datos, configuraciones, documentacion, inventario, procedimientos, conocimiento y soporte a un nuevo adjudicatario. Sin reversibilidad, la Administracion pierde capacidad de gobierno. El resultado debe ser un servicio controlable, seguro, medible y sostenible.
+
+
+============================================================
+RESPUESTA MODELO 4. PLATAFORMA DE DATOS E IA
+============================================================
+
+Una plataforma de datos para politicas publicas debe abordarse desde el gobierno del dato y no solo desde la tecnologia. El objetivo es disponer de informacion fiable, segura e interoperable para mejorar decisiones, reducir cargas administrativas y facilitar transparencia cuando proceda.
+
+El primer paso seria definir finalidad, organos responsables, tipos de datos, fuentes, calidad, base juridica, usuarios, cesiones, plazos de conservacion y riesgos. Se crearia un catalogo de datos con metadatos, responsables, linaje, reglas de calidad y clasificacion de sensibilidad. La plataforma deberia distinguir dato operacional, dato analitico, dato seudonimizado/anonimizado y dato abierto.
+
+Normativamente, aplicaria RGPD/LOPDGDD si hay datos personales, ENS para seguridad, ENI para interoperabilidad semantica y tecnica, normativa de reutilizacion de informacion del sector publico si se publican datos abiertos, y principios de transparencia y minimizacion. Si se usan tecnicas de IA o perfilado con alto riesgo, valoraria una evaluacion de impacto.
+
+La arquitectura incluiria ingesta controlada, validacion, almacenamiento, tratamiento, catalogo, capa analitica, cuadros de mando y APIs. Los accesos se definirian por rol, finalidad y necesidad, con cifrado, trazabilidad, segregacion de entornos, monitorizacion y auditoria. La calidad del dato debe gestionarse como proceso continuo.
+
+Si se emplea IA para priorizar expedientes o detectar fraude, incorporaria supervision humana, explicabilidad, evaluacion de sesgos, registro de recomendaciones, posibilidad de revision y control periodico de deriva del modelo. La IA no debe sustituir garantias del procedimiento ni motivacion administrativa cuando haya efectos relevantes sobre personas.
+
+El exito se mediria con indicadores: calidad de datos, datasets catalogados, tiempos de obtencion de informacion, reduccion de peticiones al ciudadano, reutilizacion, incidencias de calidad, accesos auditados y decisiones mejor informadas. El cierre debe destacar que dato e IA en Administracion requieren confianza, legalidad, seguridad y explicabilidad.

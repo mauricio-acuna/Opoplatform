@@ -1,0 +1,65 @@
+### Tabla de traduccion: sector privado vs sector publico
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Transformar experiencia profesional privada en lenguaje de tribunal A1/A2.
+
+| En privado sueles decir | En oposicion conviene decir | Por que |
+|---|---|---|
+| Cliente | Ciudadano, interesado, organo gestor, unidad usuaria | Precisa el rol administrativo. |
+| Proyecto | Servicio publico / procedimiento / sistema de informacion | Enfoca en funcion publica. |
+| Producto | Servicio digital / plataforma corporativa / aplicacion administrativa | Evita tono comercial. |
+| Login | Identificacion y autenticacion | Lenguaje juridico-tecnico. |
+| Enviar email | Aviso / comunicacion / notificacion electronica segun proceda | Una notificacion tiene garantias juridicas. |
+| Ticket | Incidencia / solicitud / expediente segun contexto | No todo es soporte. |
+| Carpeta de documentos | Expediente electronico / archivo electronico | Requiere indice, metadatos, firma, conservacion. |
+| Dashboard | Cuadro de mando / sistema de indicadores | Lenguaje de direccion publica. |
+| Deploy | Despliegue controlado / puesta en produccion | Mas formal y auditable. |
+| Rollback | Plan de reversión | Termino de gestion de cambios. |
+| Vendor lock-in | Dependencia del proveedor / falta de reversibilidad | Clave en contratacion publica. |
+| Compliance | Cumplimiento normativo | Castellano tecnico-administrativo. |
+| Security by design | Seguridad desde el diseno | Encaja con ENS. |
+| Privacy by design | Privacidad/proteccion de datos desde el diseno | Encaja con RGPD. |
+| Stakeholders | Organos responsables, usuarios, interesados, unidades afectadas | Evita anglicismo generico. |
+| Owner | Responsable del servicio / informacion / sistema | Roles ENS/administrativos. |
+| Data owner | Responsable del dato/informacion | Mejor para gobierno del dato. |
+| Backup | Copia de seguridad y recuperacion | Incluir prueba y RPO/RTO. |
+| DR | Recuperacion ante desastres / continuidad | Lenguaje ENS. |
+| Monitoring | Monitorizacion y vigilancia continua | Conecta con ENS. |
+| Logs | Registro de actividad / trazabilidad | Conecta con auditoria. |
+| SLA | Acuerdo de nivel de servicio | Usar ambos si procede. |
+| UX | Usabilidad y experiencia de usuario | Añadir accesibilidad. |
+| Open data | Datos abiertos / reutilizacion de informacion del sector publico | Normativa publica. |
+| API | Servicio/API interoperable | Añadir seguridad/finalidad. |
+| Microservices | Arquitectura de microservicios | Justificar operacion, seguridad y complejidad. |
+| Cloud | Nube publica/privada/hibrida | Añadir ENS, RGPD, reversibilidad. |
+| AI | IA con supervision humana, explicabilidad y control de sesgos | Evita solucionismo. |
+
+
+============================================================
+FRASES DE CONVERSION RAPIDA
+============================================================
+
+Privado:
+"El cliente entra con login y sube PDFs."
+
+Publico:
+"El interesado accede a la sede mediante un sistema de identificacion admitido, presenta la solicitud en registro electronico y aporta documentos que se integran en el expediente electronico con metadatos, trazabilidad y garantias de integridad."
+
+Privado:
+"El proveedor cloud se ocupa de todo."
+
+Publico:
+"La Administracion mantiene el gobierno del servicio, exigiendo cumplimiento ENS, RGPD, SLAs, auditoria, control de accesos, portabilidad y reversibilidad contractual."
+
+Privado:
+"Hacemos un dashboard con datos de varias areas."
+
+Publico:
+"Se implanta un cuadro de mando basado en gobierno del dato, interoperabilidad semantica, calidad, linaje, base juridica del tratamiento, minimizacion y control de accesos."
+
+Privado:
+"Metemos IA para decidir prioridades."
+
+Publico:
+"Se usa IA como apoyo a la decision, con finalidad publica delimitada, supervision humana, explicabilidad, evaluacion de sesgos, trazabilidad y respeto a garantias del procedimiento."

@@ -1,0 +1,405 @@
+### Fichas base - Ley 39/2015, Ley 40/2015 y administracion digital
+Fecha de trabajo: 29/04/2026
+
+Fuentes:
+- Ley 39/2015 consolidada BOE: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
+- Ley 40/2015 consolidada BOE: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566
+- RD 203/2021: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-5032
+- RD 311/2022 ENS: https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191
+- RD 4/2010 ENI: https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331
+
+
+============================================================
+FICHA 1. LEY 39/2015 - PARA INFORMATICA
+============================================================
+
+Idea fuerza:
+La Ley 39/2015 regula como se tramitan los procedimientos administrativos y como se relacionan las personas con las Administraciones Publicas. Para informatica, es la ley que explica por que existen registros electronicos, expedientes electronicos, notificaciones electronicas, copias autenticas y obligacion de relacionarse electronicamente.
+
+Conceptos que deben sonar en examen:
+- Interesado.
+- Representacion.
+- Identificacion y firma.
+- Derechos de las personas.
+- Sujetos obligados a relacionarse electronicamente.
+- Registro electronico.
+- Archivo de documentos.
+- Expediente administrativo.
+- Terminos y plazos.
+- Notificacion.
+- Silencio administrativo.
+- Recursos administrativos.
+
+Relacion directa con sistemas:
+- Un procedimiento administrativo se traduce en workflow, estados, documentos, metadatos, firmas, trazabilidad y archivo.
+- Un registro electronico debe generar asiento, justificante, fecha/hora, organo destinatario y vinculo con expediente.
+- La notificacion electronica exige puesta a disposicion, acceso, constancia y control de plazos.
+- El expediente electronico debe permitir integridad, ordenacion, indice, documentos, firma y remision interoperable.
+
+Errores de opositor informatico:
+- Hablar de "ticket" cuando el contexto exige "expediente".
+- Hablar de "login" sin mencionar identificacion/firma y sistema admitido.
+- Hablar de "email" como notificacion administrativa sin garantizar puesta a disposicion y constancia.
+- Proponer almacenamiento de documentos sin metadatos, firma, indice ni conservacion.
+
+Frase reutilizable:
+"El sistema debe modelar el procedimiento administrativo conforme a la Ley 39/2015, garantizando identificacion y firma, registro electronico, generacion y conservacion del expediente, computo de plazos, notificacion electronica y trazabilidad completa de las actuaciones."
+
+
+============================================================
+FICHA 2. LEY 40/2015 - PARA INFORMATICA
+============================================================
+
+Idea fuerza:
+La Ley 40/2015 regula la organizacion y funcionamiento del sector publico. Para informatica, es esencial porque recoge principios de actuacion, funcionamiento electronico, relaciones electronicas entre Administraciones, sede electronica, actuacion administrativa automatizada, archivo electronico, ENI, ENS y reutilizacion de sistemas.
+
+Conceptos que deben sonar en examen:
+- Sector publico y Administraciones Publicas.
+- Principios de eficacia, eficiencia, coordinacion, transparencia, servicio al ciudadano, interoperabilidad y seguridad.
+- Sede electronica.
+- Portal de internet.
+- Identificacion y firma de las Administraciones.
+- Actuacion administrativa automatizada.
+- Intercambio electronico de datos en entornos cerrados.
+- Archivo electronico.
+- Transmisiones de datos entre Administraciones.
+- ENI y ENS.
+- Reutilizacion de sistemas y aplicaciones.
+
+Relacion directa con sistemas:
+- La sede electronica es el punto juridicamente responsable de relacion electronica con ciudadanos.
+- La actuacion administrativa automatizada exige definir organo responsable, criterios, sello/firma y sistema.
+- El intercambio de datos entre Administraciones exige seguridad, integridad, disponibilidad, interoperabilidad y minimizacion.
+- Antes de desarrollar o adquirir una aplicacion, hay que valorar reutilizacion de soluciones existentes cuando proceda.
+
+Errores de opositor informatico:
+- Confundir portal web con sede electronica.
+- Diseñar una automatizacion sin responsable ni criterios auditables.
+- Proponer intercambio masivo de datos sin base competencial, minimizacion ni seguridad.
+- Ignorar reutilizacion de aplicaciones publicas y neutralidad tecnologica.
+
+Frase reutilizable:
+"La solucion debe alinearse con la Ley 40/2015, integrando sede electronica cuando haya relacion con interesados, funcionamiento electronico seguro, actuacion automatizada con organo responsable, archivo electronico, interoperabilidad, ENS, ENI y reutilizacion de sistemas cuando sea viable."
+
+
+============================================================
+FICHA 3. SEDE ELECTRONICA
+============================================================
+
+Definicion de examen:
+Direccion electronica disponible para los ciudadanos a traves de redes de telecomunicaciones, cuya titularidad corresponde a una Administracion Publica u organismo publico en el ejercicio de sus competencias.
+
+Para que sirve:
+- Publicar procedimientos y servicios.
+- Presentar solicitudes.
+- Acceder a notificaciones.
+- Verificar documentos mediante CSV.
+- Consultar estado de expedientes.
+- Acceder a registro electronico y formularios.
+
+Requisitos TIC:
+- Identificacion clara del titular.
+- Disponibilidad y accesibilidad.
+- Integridad y autenticidad de la informacion.
+- Certificados validos.
+- Integracion con Cl@ve, registro, notificaciones, carpeta ciudadana y archivo.
+- Cumplimiento ENS, ENI, accesibilidad y proteccion de datos.
+
+Trampa:
+No toda pagina web institucional es sede electronica. El portal informa; la sede soporta actuaciones con efectos juridicos.
+
+
+============================================================
+FICHA 4. REGISTRO ELECTRONICO
+============================================================
+
+Idea clave:
+El registro electronico permite presentar solicitudes, escritos y comunicaciones por medios electronicos, generando constancia de entrada o salida.
+
+Elementos funcionales:
+- Presentacion 24x7.
+- Fecha y hora oficial.
+- Recibo justificativo.
+- Identificacion del interesado.
+- Documentos anexos.
+- Organo destinatario.
+- Integracion con SIR cuando proceda.
+- Vinculacion con expediente.
+
+Controles TIC:
+- Sellado de tiempo.
+- Integridad de documentos.
+- Antivirus y control de formatos.
+- Trazabilidad.
+- Alta disponibilidad.
+- Registro de auditoria.
+- Politicas de conservacion.
+
+Trampa:
+Un formulario web sin asiento registral, justificante y garantias no equivale por si solo a registro electronico.
+
+
+============================================================
+FICHA 5. NOTIFICACION ELECTRONICA
+============================================================
+
+Idea clave:
+La notificacion electronica no es "mandar un correo". El correo puede ser aviso, pero la notificacion exige puesta a disposicion, acceso por el interesado o representante y constancia del momento relevante para computo de plazos.
+
+Elementos funcionales:
+- Puesta a disposicion en sede o sistema habilitado.
+- Aviso al correo/dispositivo indicado, si procede.
+- Acceso con identificacion.
+- Evidencia de acceso o rechazo.
+- Control de plazos.
+- Integracion con expediente.
+
+Riesgos:
+- Avisos fallidos.
+- Confusion entre aviso y notificacion.
+- Falta de evidencia.
+- Indisponibilidad de sede.
+- Mala gestion de representantes.
+
+Respuesta de examen:
+"Implantaria notificacion electronica con puesta a disposicion en sede/carpeta, aviso no constitutivo, evidencias de acceso, sello de tiempo, integracion con expediente y logs protegidos conforme al ENS."
+
+
+============================================================
+FICHA 6. EXPEDIENTE ELECTRONICO
+============================================================
+
+Idea clave:
+El expediente electronico es el conjunto ordenado de documentos y actuaciones correspondientes a un procedimiento administrativo, con indice y garantias de integridad.
+
+Componentes:
+- Documentos electronicos.
+- Indice electronico.
+- Metadatos.
+- Firmas y sellos.
+- Trazabilidad de actuaciones.
+- Estado del procedimiento.
+- Archivo y conservacion.
+- Posibilidad de remision interoperable.
+
+Relacion con ENI:
+- El ENI y las NTI son esenciales para documento, expediente, politica de firma, metadatos, digitalizacion, copiado autentico e intercambio.
+
+Trampa:
+Una carpeta compartida con PDFs no es un expediente electronico conforme a la logica administrativa.
+
+
+============================================================
+FICHA 7. ACTUACION ADMINISTRATIVA AUTOMATIZADA
+============================================================
+
+Idea clave:
+Actuacion producida por un sistema de informacion sin intervencion directa de empleado publico en cada acto concreto, siempre bajo marco definido, organo responsable y garantias.
+
+Ejemplos:
+- Emision automatica de justificantes.
+- Sellado de documentos.
+- Verificacion automatica de requisitos simples.
+- Generacion de certificados.
+- Comprobacion de datos mediante interoperabilidad.
+
+Requisitos de buen diseno:
+- Definir organo u organos responsables.
+- Publicar criterios cuando corresponda.
+- Usar sello electronico o codigo seguro de verificacion.
+- Mantener trazabilidad y auditoria.
+- Gestionar errores, recursos y revision humana.
+- Asegurar explicabilidad si se usan algoritmos complejos.
+
+Trampa:
+Automatizar no elimina responsabilidad administrativa.
+
+
+============================================================
+FICHA 8. ENI - ESQUEMA NACIONAL DE INTEROPERABILIDAD
+============================================================
+
+Idea fuerza:
+El ENI asegura que sistemas, datos, documentos y servicios de las Administraciones puedan interoperar de forma organizativa, semantica y tecnica.
+
+Dimensiones:
+- Organizativa: acuerdos, procesos y colaboracion entre entidades.
+- Semantica: datos entendibles y reutilizables por distintos sistemas.
+- Tecnica: interfaces, estandares, comunicaciones, formatos, accesibilidad y seguridad.
+
+Material de examen:
+- Normas Tecnicas de Interoperabilidad.
+- Documento electronico.
+- Expediente electronico.
+- Digitalizacion.
+- Copiado autentico.
+- Politica de firma.
+- Catalogo de estandares.
+- Reutilizacion.
+- Conservacion.
+
+Frase reutilizable:
+"La interoperabilidad se incorporara desde el diseno, contemplando dimensiones organizativa, semantica y tecnica, aplicando ENI y NTI para documento, expediente, metadatos, firma, intercambio y conservacion."
+
+
+============================================================
+FICHA 9. SERVICIOS COMUNES AGE QUE CONVIENE CITAR
+============================================================
+
+| Servicio | Para que sirve | Donde encaja |
+|---|---|---|
+| Cl@ve | Identificacion y autenticacion de ciudadanos. | Acceso a sede, carpeta, procedimientos. |
+| Carpeta Ciudadana | Punto de relacion y consulta del ciudadano. | Notificaciones, expedientes, datos. |
+| SIR | Interconexion de registros. | Registro electronico e intercambio de asientos. |
+| Plataforma de Intermediacion de Datos | Consulta/verificacion de datos entre Administraciones. | Evitar pedir documentos ya disponibles. |
+| CSV | Verificacion de documentos electronicos. | Autenticidad e integridad documental. |
+| DIR3 | Directorio comun de unidades organicas y oficinas. | Interoperabilidad organizativa. |
+| Notifica/DEHú | Notificaciones electronicas. | Puesta a disposicion y gestion de evidencias. |
+
+Nota:
+Antes de citar un servicio en una respuesta final, comprobar disponibilidad y denominacion actual en fuente oficial si el supuesto exige precision maxima.
+
+
+============================================================
+TEST INICIAL - 20 PREGUNTAS
+============================================================
+
+1. En una respuesta TIC, la Ley 39/2015 se relaciona especialmente con:
+A. Solo con presupuestos.
+B. Procedimiento administrativo y relaciones de interesados con Administraciones.
+C. Solo con contratos.
+D. Solo con regimen disciplinario.
+Respuesta: B.
+
+2. La Ley 40/2015 es clave para TIC porque regula, entre otros:
+A. Sede electronica, actuacion administrativa automatizada y relaciones electronicas entre Administraciones.
+B. Solo vacaciones del empleado publico.
+C. Exclusivamente delitos informaticos.
+D. Solo propiedad intelectual.
+Respuesta: A.
+
+3. Un portal informativo y una sede electronica:
+A. Son siempre lo mismo.
+B. Se diferencian porque la sede soporta actuaciones con efectos juridicos.
+C. No tienen relacion con la Administracion.
+D. Solo existen en ayuntamientos.
+Respuesta: B.
+
+4. En notificacion electronica, el correo de aviso:
+A. Sustituye siempre a la notificacion.
+B. Es necesariamente la notificacion.
+C. Puede ser aviso, pero la notificacion exige puesta a disposicion y evidencias.
+D. No puede existir.
+Respuesta: C.
+
+5. El expediente electronico debe incluir:
+A. Solo PDFs en una carpeta.
+B. Documentos, indice, metadatos, firma/trazabilidad y conservacion.
+C. Solo emails.
+D. Solo base de datos sin documentos.
+Respuesta: B.
+
+6. La actuacion administrativa automatizada:
+A. Elimina responsabilidad.
+B. Exige marco, organo responsable, garantias y trazabilidad.
+C. Esta prohibida.
+D. Solo vale para redes sociales.
+Respuesta: B.
+
+7. El ENI contempla interoperabilidad:
+A. Organizativa, semantica y tecnica.
+B. Solo de cableado.
+C. Solo de bases de datos SQL.
+D. Economica, contable y fiscal.
+Respuesta: A.
+
+8. El ENS debe aplicarse:
+A. Solo despues de sufrir un incidente.
+B. Desde el diseno y durante el ciclo de vida del sistema.
+C. Solo si hay cloud publico.
+D. Solo si no hay datos personales.
+Respuesta: B.
+
+9. La Plataforma de Intermediacion de Datos se asocia a:
+A. Evitar pedir al ciudadano datos/documentos ya disponibles cuando procede.
+B. Editar documentos ofimaticos.
+C. Diseñar logotipos.
+D. Crear contraseñas.
+Respuesta: A.
+
+10. DIR3 es util para:
+A. Interoperabilidad organizativa de unidades y oficinas.
+B. Cifrado simetrico.
+C. Compilacion Java.
+D. Virtualizacion de servidores.
+Respuesta: A.
+
+11. En un supuesto de sede electronica, nunca debe faltar:
+A. ENS, ENI, identificacion/firma, registro/notificacion si procede y accesibilidad.
+B. Solo un framework frontend moderno.
+C. Solo una base de datos NoSQL.
+D. Solo una direccion de email.
+Respuesta: A.
+
+12. El CSV se usa para:
+A. Verificar documentos electronicos.
+B. Comprimir imagenes.
+C. Reemplazar al ENS.
+D. Crear usuarios del sistema.
+Respuesta: A.
+
+13. En la Ley 40/2015, las Administraciones deben relacionarse entre si:
+A. Preferentemente por papel.
+B. A traves de medios electronicos con interoperabilidad y seguridad.
+C. Solo por fax.
+D. Sin requisitos de proteccion de datos.
+Respuesta: B.
+
+14. La reutilizacion de sistemas y aplicaciones publicas se asocia con:
+A. Eficiencia, interoperabilidad y evitar duplicidades.
+B. Prohibicion de software libre.
+C. Eliminacion de seguridad.
+D. Sustitucion de procedimientos administrativos.
+Respuesta: A.
+
+15. Una respuesta de tribunal sobre interoperabilidad debe mencionar:
+A. Solo APIs.
+B. Organizacion, semantica, tecnica, ENI, NTI y datos/documentos.
+C. Solo la marca de servidores.
+D. Solo precio de licencias.
+Respuesta: B.
+
+16. Un registro electronico debe proporcionar:
+A. Asiento/constancia, fecha y hora, recibo y vinculo con tramitacion.
+B. Solo una pantalla de confirmacion sin valor.
+C. Solo email al funcionario.
+D. Solo copia local del navegador.
+Respuesta: A.
+
+17. Si hay datos personales, debe considerarse:
+A. RGPD/LOPDGDD junto con ENS y normativa administrativa.
+B. Solo el color de la interfaz.
+C. Solo compresion de archivos.
+D. Nada adicional.
+Respuesta: A.
+
+18. El archivo electronico exige pensar en:
+A. Conservacion, integridad, recuperacion, metadatos y ciclo de vida.
+B. Solo espacio en disco barato.
+C. Solo borrado automatico.
+D. Solo carpetas temporales.
+Respuesta: A.
+
+19. Un buen supuesto A2/A1 debe cerrar con:
+A. Impacto en ciudadano, empleados publicos, eficiencia, seguridad y cumplimiento.
+B. Una lista de marcas comerciales.
+C. Una opinion personal.
+D. Un presupuesto inventado.
+Respuesta: A.
+
+20. La trampa principal al venir del sector privado es:
+A. Responder solo con tecnologia sin base normativa ni orientacion a servicio publico.
+B. Citar demasiada normativa real.
+C. Explicar procedimientos.
+D. Hablar de seguridad.
+Respuesta: A.

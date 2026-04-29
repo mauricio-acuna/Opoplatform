@@ -1,0 +1,284 @@
+### Calendario inicial de 12 semanas para A1 TIC con cobertura A2 GSI
+Fecha de trabajo: 29/04/2026
+
+Supuesto de dedicacion:
+- Minimo viable: 15 horas/semana.
+- Recomendado A2: 18-22 horas/semana.
+- Recomendado A1: 22-30 horas/semana.
+
+Distribucion semanal tipo:
+- 3 sesiones de normativa: 90 minutos.
+- 3 sesiones tecnicas: 90 minutos.
+- 2 sesiones de test: 60 minutos.
+- 1 sesion de supuesto practico: 2-3 horas.
+- 1 sesion de repaso/fallos: 90 minutos.
+
+Regla:
+Ninguna semana se cierra sin:
+- 1 ficha nueva.
+- 1 test corregido.
+- 1 lista de fallos.
+- 1 respuesta practica escrita.
+
+
+============================================================
+SEMANA 1 - MAPA Y BASE ADMINISTRATIVA
+============================================================
+
+Objetivo:
+Entender la convocatoria, fijar calendario personal y estudiar la base juridica minima.
+
+Estudiar:
+- Convocatorias BOE A1/A2/C1.
+- Ley 39/2015: estructura, interesados, derechos, obligacion de relacion electronica.
+- Ley 40/2015: principios de actuacion y sector publico.
+
+Producir:
+- Mapa de oposicion elegida.
+- Ficha Ley 39/2015.
+- Ficha Ley 40/2015.
+
+Practicar:
+- 50 preguntas de normativa.
+- Mini supuesto: portal vs sede electronica.
+
+
+============================================================
+SEMANA 2 - PROCEDIMIENTO ELECTRONICO
+============================================================
+
+Estudiar:
+- Registro electronico.
+- Documentos, copias, archivo y expediente.
+- Plazos y notificaciones.
+- RD 203/2021 como reglamento operativo.
+
+Producir:
+- Diagrama de expediente electronico.
+- Tabla de plazos y notificaciones.
+
+Practicar:
+- 80 preguntas Ley 39/2015.
+- Supuesto 1: sede electronica.
+
+
+============================================================
+SEMANA 3 - FUNCIONAMIENTO ELECTRONICO DEL SECTOR PUBLICO
+============================================================
+
+Estudiar:
+- Sede electronica.
+- Portal de internet.
+- Identificacion y firma de Administraciones.
+- Actuacion administrativa automatizada.
+- Relaciones electronicas entre Administraciones.
+- Reutilizacion de sistemas.
+
+Producir:
+- Ficha de actuacion administrativa automatizada.
+- Tabla portal/sede/registro/notificacion/carpeta.
+
+Practicar:
+- 60 preguntas Ley 40/2015.
+- Supuesto 6: intercambio de datos.
+
+
+============================================================
+SEMANA 4 - ENI E INTEROPERABILIDAD
+============================================================
+
+Estudiar:
+- RD 4/2010.
+- Interoperabilidad organizativa, semantica y tecnica.
+- NTI: documento, expediente, digitalizacion, copiado, firma, catalogo de estandares.
+- DIR3, SIR, CSV y servicios comunes.
+
+Producir:
+- Tabla ENI + NTI.
+- Glosario de interoperabilidad.
+
+Practicar:
+- 50 preguntas ENI/administracion digital.
+- Supuesto de expediente interoperable.
+
+
+============================================================
+SEMANA 5 - ENS Y PROTECCION DE DATOS
+============================================================
+
+Estudiar:
+- RD 311/2022.
+- Principios, requisitos minimos, categorias, medidas.
+- RGPD/LOPDGDD: principios, bases juridicas, derechos, responsable/encargado, brechas.
+
+Producir:
+- Tabla ENS.
+- Plantilla de seguridad para cualquier supuesto.
+- Tabla RGPD para sistemas publicos.
+
+Practicar:
+- 80 preguntas ENS/RGPD.
+- Supuesto 2: ciberincidente.
+
+
+============================================================
+SEMANA 6 - SISTEMAS, CPD, CLOUD Y CONTINUIDAD
+============================================================
+
+Estudiar:
+- CPD, virtualizacion, contenedores, almacenamiento.
+- Cloud IaaS/PaaS/SaaS, nube hibrida.
+- Alta disponibilidad, backup, recuperacion, monitorizacion.
+- Continuidad: BIA, RTO, RPO, DRP.
+
+Producir:
+- Checklist de arquitectura segura.
+- Tabla cloud: ventajas, riesgos, controles y contratacion.
+
+Practicar:
+- 60 preguntas sistemas/cloud.
+- Supuesto 3: migracion a nube hibrida.
+- Supuesto 10: continuidad.
+
+
+============================================================
+SEMANA 7 - REDES Y SEGURIDAD TECNICA
+============================================================
+
+Estudiar:
+- TCP/IP, OSI, DNS, DHCP, HTTP, TLS, VPN, firewalls.
+- Segmentacion, IAM, MFA, certificados.
+- Logs, SIEM, EDR, gestion de vulnerabilidades.
+
+Producir:
+- Tabla protocolos: capa, funcion, riesgo, control.
+- Mapa de arquitectura de red segura para sede electronica.
+
+Practicar:
+- 80 preguntas redes/seguridad.
+- Mini caso: diseno de red para servicio publico critico.
+
+
+============================================================
+SEMANA 8 - DESARROLLO, APIs Y DEVSECOPS
+============================================================
+
+Estudiar:
+- Ciclo de vida software.
+- Metodologias predictivas/agiles/lean.
+- APIs, servicios web, microservicios.
+- Pruebas, calidad, CI/CD, DevSecOps.
+- Java/Jakarta EE, .NET, aplicaciones web a nivel temario.
+
+Producir:
+- Plantilla de arquitectura aplicativa.
+- Checklist DevSecOps ENS.
+
+Practicar:
+- 80 preguntas desarrollo.
+- Supuesto 8: DevSecOps.
+- Supuesto 7: modernizacion legacy.
+
+
+============================================================
+SEMANA 9 - DATOS, ANALITICA E IA
+============================================================
+
+Estudiar:
+- Bases de datos relacionales, SQL, NoSQL.
+- Gobierno del dato, calidad, metadatos, linaje.
+- Big data, analitica, cuadros de mando.
+- IA: usos, riesgos, sesgos, explicabilidad, supervision humana.
+
+Producir:
+- Ficha gobierno del dato.
+- Tabla IA publica: riesgos y controles.
+
+Practicar:
+- 60 preguntas datos/IA.
+- Supuesto 4: plataforma de datos.
+- Supuesto 9: IA para priorizar expedientes.
+
+
+============================================================
+SEMANA 10 - GESTION TIC, ITIL, CALIDAD Y ACCESIBILIDAD
+============================================================
+
+Estudiar:
+- Gestion de servicios.
+- ITIL, COBIT a nivel conceptual.
+- SLAs, incidencias, cambios, configuracion y capacidad.
+- Calidad, EFQM/ISO si aparece en temario.
+- Accesibilidad, usabilidad, W3C y diseño universal.
+
+Producir:
+- Tabla procesos ITIL utiles.
+- Checklist accesibilidad/usabilidad para sede.
+
+Practicar:
+- 60 preguntas gestion/calidad.
+- Mini caso: mejora de CAU y gestion de incidencias.
+
+
+============================================================
+SEMANA 11 - CONTRATACION PUBLICA TIC
+============================================================
+
+Estudiar:
+- Compra publica TIC.
+- Pliegos tecnicos.
+- Criterios de solvencia y adjudicacion.
+- SLAs, penalizaciones, propiedad intelectual, transferencia y reversibilidad.
+- Requisitos ENS/RGPD/ENI en contratos.
+
+Producir:
+- Plantilla de pliego tecnico TIC.
+- Tabla de clausulas criticas.
+
+Practicar:
+- 50 preguntas contratacion TIC.
+- Supuesto 5: licitacion de servicio TIC critico.
+
+
+============================================================
+SEMANA 12 - SIMULACRO Y CIERRE DE BRECHAS
+============================================================
+
+Objetivo:
+Consolidar, detectar fallos y crear el siguiente ciclo de 12 semanas.
+
+Hacer:
+- Simulacro test de 100 preguntas.
+- Dos supuestos practicos completos.
+- Revision de todas las fichas.
+- Lista priorizada de 20 debilidades.
+- Plan de semanas 13-24.
+
+Criterios de paso:
+- Test normativa: 75% minimo.
+- Test tecnico: 70% minimo.
+- Supuesto A2: estructura completa en 90-120 minutos.
+- Supuesto A1: respuesta con gobierno, normativa, arquitectura, seguridad, indicadores e impacto.
+
+
+============================================================
+CONTROL SEMANAL
+============================================================
+
+Registrar cada domingo:
+- Horas estudiadas.
+- Temas cerrados.
+- Porcentaje de test.
+- Fallos repetidos.
+- Supuesto escrito.
+- Normas citadas correctamente.
+- Siguiente ajuste.
+
+Formato:
+Semana:
+Horas:
+Test realizados:
+Porcentaje medio:
+Supuesto:
+Mayor fallo:
+Accion correctora:

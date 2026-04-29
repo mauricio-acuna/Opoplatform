@@ -1,0 +1,177 @@
+### Plantillas de respuesta de examen - A1 TIC / A2 GSI
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Responder con estructura de tribunal. Una buena respuesta no es una lista de tecnologias; es una decision publica justificada, segura, interoperable, operable y medible.
+
+
+============================================================
+PLANTILLA 1. SUPUESTO PRACTICO GENERAL
+============================================================
+
+1. Introduccion y objetivo publico
+"El supuesto plantea [problema] en el contexto de [organismo/servicio]. El objetivo no es solo implantar una solucion tecnica, sino garantizar un servicio publico [seguro, interoperable, accesible, eficiente y juridicamente valido]."
+
+2. Marco normativo
+"La solucion debe alinearse con la Ley 39/2015 en materia de procedimiento, expediente, registro/notificacion y derechos de los interesados; con la Ley 40/2015 en funcionamiento electronico, sede, actuacion automatizada e interoperabilidad; con el RD 203/2021 para la actuacion electronica; con el ENS para seguridad; con el ENI para interoperabilidad; y con RGPD/LOPDGDD si se tratan datos personales."
+
+3. Diagnostico
+"Antes de implantar, realizaria inventario de procedimientos, usuarios, datos, sistemas afectados, integraciones, criticidad, volumen, riesgos, contratos y restricciones normativas."
+
+4. Solucion tecnica
+"Propondria una arquitectura modular por capas: canal de relacion, identidad, procedimiento, documentos, datos, integracion, seguridad y operacion."
+
+5. Seguridad
+"Aplicaria ENS desde el diseno: categorizacion del sistema, analisis de riesgos, declaracion de aplicabilidad, control de accesos, minimo privilegio, cifrado, logs, gestion de vulnerabilidades, continuidad y respuesta a incidentes."
+
+6. Interoperabilidad
+"Aplicaria ENI y NTI para documento, expediente, firma, metadatos, intercambio y conservacion. Cuando proceda, integraria servicios comunes como Cl@ve, SIR, Carpeta Ciudadana, Plataforma de Intermediacion de Datos, CSV y DIR3."
+
+7. Proteccion de datos
+"Si hay datos personales, definiria responsable, encargados, finalidad, base juridica, minimizacion, conservacion, derechos, medidas tecnicas y organizativas, y EIPD si hay alto riesgo."
+
+8. Implantacion
+"El despliegue se realizaria por fases: analisis, diseño, piloto, integracion, migracion, pruebas, formacion, puesta en produccion y estabilizacion."
+
+9. Operacion y gobierno
+"Definiria SLAs, monitorizacion, soporte, gestion de incidencias, cambios, continuidad, auditorias, comite de seguimiento e indicadores."
+
+10. Cierre
+"La solucion mejoraria la calidad del servicio publico, reduciendo cargas administrativas, aumentando trazabilidad, seguridad, interoperabilidad y disponibilidad, sin reducir garantias juridicas del ciudadano."
+
+
+============================================================
+PLANTILLA 2. CIBERINCIDENTE
+============================================================
+
+1. Activacion
+"Activaria el procedimiento de gestion de incidentes, clasificando severidad, servicios afectados, datos comprometidos y responsables implicados."
+
+2. Contencion
+"Aislaria sistemas afectados, bloquearia credenciales comprometidas, preservaria evidencias, evitaria propagacion y mantendria cadena de custodia."
+
+3. Analisis
+"Revisaria logs, EDR/SIEM, accesos, vulnerabilidades, indicadores de compromiso, alcance y posible exfiltracion."
+
+4. Continuidad
+"Priorizaria servicios criticos segun BIA, RTO y RPO, recuperando desde copias verificadas y evitando reinfeccion."
+
+5. Datos personales
+"Si existen datos personales afectados, coordinaria con el DPD la evaluacion de brecha, documentacion y notificacion/comunicacion si procede."
+
+6. Comunicacion
+"Estableceria comunicacion interna, tecnica, juridica y, si procede, institucional, evitando informacion imprecisa."
+
+7. Mejora
+"Tras la recuperacion, elaboraria informe de lecciones aprendidas y reforzaria MFA, segmentacion, copias inmutables, parcheo, concienciacion, monitorizacion y pruebas periodicas."
+
+
+============================================================
+PLANTILLA 3. LICITACION TIC
+============================================================
+
+1. Necesidad
+"La contratacion debe partir de una necesidad publica concreta y justificada, evaluando alternativas, reutilizacion de soluciones y medios propios disponibles."
+
+2. Objeto y alcance
+"El objeto debe definirse de forma precisa, evitando ambiguedad, dependencia injustificada de marca y prestaciones no vinculadas al servicio."
+
+3. PPT
+"El PPT debe recoger requisitos funcionales, arquitectura, integraciones, seguridad ENS, proteccion de datos, interoperabilidad ENI, accesibilidad, rendimiento, disponibilidad, pruebas, documentacion, soporte, formacion, transferencia y reversibilidad."
+
+4. PCAP y criterios
+"Los criterios de adjudicacion deben ser objetivos, vinculados al objeto y medibles, ponderando calidad tecnica, seguridad, plan de servicio, equipo, SLAs y transferencia, no solo precio."
+
+5. Gobierno del contrato
+"Definiria comites, informes, indicadores, gestion de riesgos, penalidades, aceptacion de entregables y control de cambios."
+
+6. Cierre
+"El contrato debe garantizar continuidad del servicio, control por la Administracion, seguridad, cumplimiento normativo y posibilidad real de cambio de proveedor."
+
+
+============================================================
+PLANTILLA 4. MIGRACION CLOUD
+============================================================
+
+1. Principio
+"La migracion a cloud no debe ser automatica ni indiscriminada; debe basarse en valor publico, riesgo, criticidad, datos, coste y capacidad de gobierno."
+
+2. Diagnostico
+"Inventariaria aplicaciones, datos, dependencias, integraciones, obsolescencia, cargas, usuarios, categoria ENS y requisitos RGPD."
+
+3. Estrategia
+"Clasificaria cada sistema: retirar, mantener, reubicar, replatformar, refactorizar o rediseñar."
+
+4. Arquitectura
+"La nube hibrida incluiria conectividad segura, IAM, segmentacion, cifrado, monitorizacion, backup, continuidad, automatizacion y observabilidad."
+
+5. Contratacion
+"El contrato debe prever ENS, ubicacion de datos, encargado de tratamiento, subcontratacion, auditoria, SLAs, portabilidad, reversibilidad y salida."
+
+6. Cierre
+"El resultado buscado es mejorar escalabilidad, resiliencia y eficiencia, manteniendo seguridad, soberania del dato, cumplimiento e independencia operativa."
+
+
+============================================================
+PLANTILLA 5. IA EN ADMINISTRACION
+============================================================
+
+1. Finalidad
+"La IA debe responder a una finalidad publica legitima, delimitada y proporcional, no a una automatizacion opaca sin control."
+
+2. Datos
+"Evaluaria origen, calidad, sesgos, minimizacion, base juridica, conservacion y seguridad de los datos."
+
+3. Garantias
+"Incorporaria supervision humana, explicabilidad, trazabilidad, auditoria, gestion de errores y mecanismos de reclamacion/revision."
+
+4. Normativa
+"Aplicaria RGPD/LOPDGDD, ENS, procedimiento administrativo, transparencia cuando proceda y principios de buena administracion."
+
+5. Operacion
+"Definiria monitorizacion del modelo, reevaluacion, control de deriva, registro de decisiones/recomendaciones e indicadores."
+
+6. Cierre
+"La IA puede mejorar priorizacion y eficiencia, pero no debe reducir derechos, motivacion administrativa ni control humano en decisiones relevantes."
+
+
+============================================================
+PALABRAS QUE SUBEN NOTA
+============================================================
+
+- Interes general.
+- Servicio publico.
+- Seguridad juridica.
+- Trazabilidad.
+- Interoperabilidad.
+- Neutralidad tecnologica.
+- Accesibilidad universal.
+- Minimizacion de datos.
+- Privacidad desde el diseno.
+- Seguridad desde el diseno.
+- Minimo privilegio.
+- Reversibilidad.
+- Continuidad.
+- Mejora continua.
+- Indicadores.
+- Gobierno del servicio.
+- Rendicion de cuentas.
+- Proporcionalidad.
+- Reutilizacion.
+- Eficiencia.
+
+
+============================================================
+PALABRAS/ENFOQUES QUE BAJAN NOTA
+============================================================
+
+- "Cliente" como sustituto sistematico de ciudadano/interesado/organismo.
+- "Mando un email" como notificacion.
+- "Carpeta con PDFs" como expediente.
+- "Ponemos cloud" sin ENS/RGPD/reversibilidad.
+- "Usamos IA" sin explicabilidad, sesgos ni supervision.
+- "El proveedor se encarga" sin gobierno ni control publico.
+- "Cumplimos normativa" sin concretar controles.
+- Lista de marcas sin justificar necesidad.
+- Respuesta sin marco juridico.
+- Respuesta sin operacion ni continuidad.

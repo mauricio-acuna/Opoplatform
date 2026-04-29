@@ -1,0 +1,172 @@
+### Fichas base - Constitucion y TREBEP para oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Fuentes:
+- Constitucion Espanola, BOE: https://www.boe.es/legislacion/documentos/ConstitucionCASTELLANO.pdf
+- TREBEP, RDL 5/2015: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719
+
+
+============================================================
+FICHA 1. CONSTITUCION ESPANOLA - MAPA MINIMO
+============================================================
+
+Idea fuerza:
+La Constitucion es el marco superior del ordenamiento. En oposiciones TIC no se estudia como informatico, sino como futuro empleado publico: derechos, organizacion del Estado, Administraciones, garantias y principios.
+
+Estructura que hay que dominar:
+- Titulo preliminar.
+- Derechos y deberes fundamentales.
+- Corona.
+- Cortes Generales.
+- Gobierno y Administracion.
+- Relaciones Gobierno-Cortes.
+- Poder Judicial.
+- Economia y Hacienda.
+- Organizacion territorial.
+- Tribunal Constitucional.
+- Reforma constitucional.
+
+Articulos muy rentables:
+- Art. 9.3: principios de legalidad, jerarquia normativa, publicidad de normas, seguridad juridica, responsabilidad e interdiccion de arbitrariedad.
+- Art. 14: igualdad.
+- Art. 18.4: limitacion del uso de la informatica para garantizar honor, intimidad y derechos.
+- Art. 23: participacion en asuntos publicos y acceso a funciones/cargos publicos.
+- Art. 103: Administracion sirve con objetividad los intereses generales y actua con eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion.
+- Art. 105: audiencia, acceso a archivos/registros y procedimiento administrativo.
+- Art. 149.1.18: bases del regimen juridico de las Administraciones y procedimiento administrativo comun.
+
+Conexion TIC:
+- Proteccion de datos nace constitucionalmente del art. 18.4.
+- Administracion digital debe respetar igualdad y no discriminacion.
+- Automatizacion administrativa debe respetar legalidad, seguridad juridica y ausencia de arbitrariedad.
+- Interoperabilidad y coordinacion entre Administraciones conectan con eficacia y coordinacion.
+
+Frase de examen:
+"La solucion tecnologica debe servir a los principios constitucionales de eficacia, objetividad, seguridad juridica, igualdad y servicio al interes general, evitando que la digitalizacion genere discriminacion o merma de garantias."
+
+
+============================================================
+FICHA 2. TREBEP - CLASES DE EMPLEADOS PUBLICOS
+============================================================
+
+Idea fuerza:
+El TREBEP regula las bases del regimen estatutario del personal funcionario y normas del personal laboral al servicio de las Administraciones Publicas.
+
+Clases:
+- Funcionarios de carrera.
+- Funcionarios interinos.
+- Personal laboral: fijo, indefinido o temporal.
+- Personal eventual.
+
+Conceptos clave:
+- Empleados publicos: desempenan funciones retribuidas al servicio de intereses generales.
+- Funcionario de carrera: nombramiento legal, relacion estatutaria de Derecho Administrativo, servicios profesionales retribuidos permanentes.
+- Funcionario interino: razones justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera.
+- Personal eventual: funciones de confianza o asesoramiento especial.
+
+Conexion con oposiciones:
+- Acceso por igualdad, merito y capacidad.
+- La condicion de funcionario de carrera da inamovilidad.
+- El ejercicio de potestades publicas se reserva a funcionarios publicos en los terminos legales.
+
+Trampa:
+No todo empleado publico es funcionario de carrera.
+
+
+============================================================
+FICHA 3. TREBEP - DERECHOS, DEBERES Y CODIGO DE CONDUCTA
+============================================================
+
+Derechos relevantes:
+- Inamovilidad del funcionario de carrera.
+- Desempeno efectivo de funciones.
+- Carrera profesional y promocion interna.
+- Retribuciones e indemnizaciones.
+- Formacion continua.
+- Respeto a intimidad, orientacion sexual, imagen y dignidad.
+- Conciliacion, permisos y vacaciones.
+
+Deberes y principios:
+- Objetividad.
+- Integridad.
+- Neutralidad.
+- Responsabilidad.
+- Imparcialidad.
+- Confidencialidad.
+- Dedicacion al servicio publico.
+- Transparencia.
+- Ejemplaridad.
+- Austeridad.
+- Accesibilidad.
+- Eficacia.
+- Honradez.
+- Igualdad entre mujeres y hombres.
+
+Conexion TIC:
+- Confidencialidad conecta con datos y seguridad.
+- Accesibilidad conecta con servicios digitales inclusivos.
+- Transparencia conecta con datos abiertos y trazabilidad.
+- Eficacia conecta con automatizacion y simplificacion.
+
+Frase de examen:
+"La funcion TIC publica no solo debe entregar sistemas tecnicos, sino sostener los principios de confidencialidad, transparencia, accesibilidad, eficacia, neutralidad e imparcialidad propios del codigo de conducta del empleado publico."
+
+
+============================================================
+FICHA 4. TREBEP - CARRERA, PROMOCION Y EVALUACION
+============================================================
+
+Conceptos:
+- Carrera profesional: progresion ordenada.
+- Carrera horizontal: progresion sin cambiar de puesto, mediante grados/categorias segun desarrollo normativo.
+- Carrera vertical: ascenso en estructura de puestos.
+- Promocion interna: ascenso desde cuerpos/escalas inferiores.
+- Evaluacion del desempeno: medicion de conducta profesional, rendimiento o logro de resultados.
+
+Conexion estrategica:
+- C1 puede ser via de entrada y promocion posterior.
+- A2 puede servir como estabilizacion y salto futuro.
+- A1 es objetivo natural si se busca direccion TIC.
+
+Trampa:
+Promocionar no es automatico: exige requisitos, convocatoria y superar proceso.
+
+
+============================================================
+TEST RAPIDO - CONSTITUCION/TREBEP
+============================================================
+
+1. El articulo 18.4 CE se relaciona especialmente con:
+A. Proteccion de datos frente al uso de la informatica.
+B. Contratacion publica.
+C. Permisos.
+D. Presupuestos.
+Respuesta: A.
+
+2. La Administracion Publica, segun el art. 103 CE, sirve:
+A. Intereses privados.
+B. Con objetividad los intereses generales.
+C. Solo intereses del Gobierno.
+D. Solo intereses economicos.
+Respuesta: B.
+
+3. Son empleados publicos:
+A. Solo funcionarios de carrera.
+B. Quienes desempenan funciones retribuidas en las Administraciones al servicio de intereses generales.
+C. Solo personal laboral.
+D. Solo politicos.
+Respuesta: B.
+
+4. El funcionario de carrera tiene:
+A. Relacion estatutaria de Derecho Administrativo.
+B. Contrato mercantil.
+C. Relacion voluntaria sin nombramiento.
+D. Solo contrato temporal.
+Respuesta: A.
+
+5. El acceso al empleo publico se vincula a:
+A. Igualdad, merito y capacidad.
+B. Antiguedad privada exclusivamente.
+C. Recomendacion personal.
+D. Sorteo.
+Respuesta: A.
