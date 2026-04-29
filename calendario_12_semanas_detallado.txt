@@ -1,0 +1,370 @@
+### Calendario detallado dia a dia - 12 semanas A1/A2 TIC
+Fecha de trabajo: 29/04/2026
+
+Uso:
+Este archivo baja el calendario a tareas diarias. Si una semana se complica, no se recupera leyendo mas: se recupera priorizando test, fallos y supuestos.
+
+Leyenda:
+- F: ficha/teoria.
+- T: test.
+- S: supuesto.
+- R: repaso/fallos.
+- M: memoria/tarjetas.
+
+
+============================================================
+SEMANA 1 - MAPA Y BASE ADMINISTRATIVA
+============================================================
+
+Objetivo: entender convocatoria, estrategia C1/A2/A1 y base Ley 39/40.
+
+Lunes:
+- F: leer fuentes_actualizadas_2026 y seguimiento_convocatorias_2026.
+- M: crear/repasar 10 tarjetas de convocatoria.
+- Resultado: saber plazas, estado y objetivo principal.
+
+Martes:
+- F: fichas_ley_39_40_admon_digital, Ley 39/2015.
+- T: 20 preguntas normativa.
+
+Miercoles:
+- F: Ley 40/2015 aplicada a TIC.
+- M: tarjetas sobre sede, portal, actuacion automatizada.
+
+Jueves:
+- S: mini supuesto portal vs sede electronica.
+- R: corregir lenguaje privado/publico.
+
+Viernes:
+- F: matriz_decision_c1_a2_a1.
+- T: 30 preguntas banco_test_inicial_100.
+
+Sabado:
+- S: esquema de supuesto de sede electronica en 45 min.
+- R: lista de 10 fallos.
+
+Domingo:
+- R: control_estudio_oposiciones.
+- Meta: 50 preguntas acumuladas y 1 mini supuesto.
+
+
+============================================================
+SEMANA 2 - PROCEDIMIENTO ELECTRONICO
+============================================================
+
+Lunes:
+- F: tabla_plazos_ley_39.
+- M: plazos clave.
+
+Martes:
+- F: registro electronico y expediente.
+- T: 20 preguntas.
+
+Miercoles:
+- F: notificacion electronica.
+- M: aviso vs notificacion.
+
+Jueves:
+- S: supuesto 1 banco_supuestos_30, sede electronica.
+
+Viernes:
+- F: fichas_rd_203_2021.
+- T: 30 preguntas normativa.
+
+Sabado:
+- S: redactar 1 pagina sobre expediente electronico.
+
+Domingo:
+- R: corregir y actualizar fallos.
+- Meta: explicar registro/notificacion/expediente sin mirar.
+
+
+============================================================
+SEMANA 3 - FUNCIONAMIENTO ELECTRONICO
+============================================================
+
+Lunes:
+- F: RD 203/2021 arquitectura tipo.
+
+Martes:
+- F: actuacion administrativa automatizada.
+- M: organo responsable, sello, criterios, logs.
+
+Miercoles:
+- F: servicios comunes AGE en glosario.
+- T: 25 preguntas.
+
+Jueves:
+- S: supuesto 29 automatizacion administrativa.
+
+Viernes:
+- F: tabla_privado_vs_publico.
+- R: reescribir 5 frases privadas a publicas.
+
+Sabado:
+- T: 60 preguntas Ley 39/40/RD203.
+
+Domingo:
+- R: control semanal.
+- Meta: no confundir portal, sede, registro, notificacion, expediente.
+
+
+============================================================
+SEMANA 4 - ENI E INTEROPERABILIDAD
+============================================================
+
+Lunes:
+- F: tabla_eni_nti, dimensiones ENI.
+
+Martes:
+- F: documento y expediente electronico ENI.
+- M: DIME FiTA.
+
+Miercoles:
+- F: digitalizacion y copiado autentico.
+- T: 25 preguntas.
+
+Jueves:
+- S: supuesto 12 digitalizacion de archivo papel.
+
+Viernes:
+- F: interoperabilidad de datos, PID, DIR3, SIR.
+
+Sabado:
+- S: supuesto 6 intercambio de datos entre Administraciones.
+
+Domingo:
+- R: corregir.
+- Meta: meter ENI/NTI correctamente en cualquier supuesto documental.
+
+
+============================================================
+SEMANA 5 - ENS Y RGPD
+============================================================
+
+Lunes:
+- F: tabla_ens_rd_311_2022, principios.
+- M: mnemotecnia ENS.
+
+Martes:
+- F: requisitos minimos ENS.
+- T: 30 preguntas ENS.
+
+Miercoles:
+- F: fichas_rgpd_lopdgdd y tabla_bases_juridicas.
+- M: bases juridicas.
+
+Jueves:
+- S: caso 1 casos_ens_rgpd.
+
+Viernes:
+- F: brechas y EIPD.
+- T: 30 preguntas RGPD.
+
+Sabado:
+- S: supuesto 2 ciberincidente.
+
+Domingo:
+- R: corregir.
+- Meta: responder ENS/RGPD sin caer en "consentimiento para todo".
+
+
+============================================================
+SEMANA 6 - SISTEMAS, CPD, CLOUD, CONTINUIDAD
+============================================================
+
+Lunes:
+- F: fichas_sistemas_cloud_detalladas, sistemas y CPD.
+
+Martes:
+- F: virtualizacion, contenedores, Kubernetes.
+- T: 25 preguntas tecnicas.
+
+Miercoles:
+- F: cloud IaaS/PaaS/SaaS y reversibilidad.
+
+Jueves:
+- S: supuesto 3 migracion cloud.
+
+Viernes:
+- F: backup, BIA, RTO, RPO, observabilidad.
+
+Sabado:
+- S: supuesto 10 continuidad sede.
+- T: 30 preguntas test_tecnico_100.
+
+Domingo:
+- R: fallos.
+- Meta: toda respuesta cloud debe incluir ENS, RGPD, SLAs y reversibilidad.
+
+
+============================================================
+SEMANA 7 - REDES Y SEGURIDAD TECNICA
+============================================================
+
+Lunes:
+- F: fichas_redes_detalladas, OSI/TCP-IP.
+
+Martes:
+- F: DNS, DHCP, NTP, HTTP, TLS.
+- T: 30 preguntas redes.
+
+Miercoles:
+- F: DMZ, firewall, WAF, IDS/IPS, VPN.
+
+Jueves:
+- S: diseño de red segura para sede electronica.
+
+Viernes:
+- F: IAM, MFA, SIEM, EDR, DLP.
+
+Sabado:
+- T: 50 preguntas tecnicas.
+- R: corregir por bloque.
+
+Domingo:
+- R: control semanal.
+- Meta: explicar segmentacion y minimo privilegio con naturalidad.
+
+
+============================================================
+SEMANA 8 - DESARROLLO, APIS, DEVSECOPS
+============================================================
+
+Lunes:
+- F: fichas_desarrollo_web_apis, ciclo de vida.
+
+Martes:
+- F: arquitecturas monolito/capas/microservicios/eventos.
+
+Miercoles:
+- F: REST, SOAP, API Gateway.
+- T: 30 preguntas.
+
+Jueves:
+- S: supuesto 18 API corporativa.
+
+Viernes:
+- F: seguridad aplicativa, SAST/DAST/SCA.
+
+Sabado:
+- S: supuesto 8 DevSecOps.
+
+Domingo:
+- R: corregir.
+- Meta: no proponer microservicios sin justificar operacion.
+
+
+============================================================
+SEMANA 9 - DATOS, ANALITICA E IA
+============================================================
+
+Lunes:
+- F: fichas_bases_datos_sql, SQL/ACID.
+
+Martes:
+- F: NoSQL, OLTP/OLAP, data warehouse/lake.
+
+Miercoles:
+- F: gobierno del dato, calidad, catalogo, linaje.
+
+Jueves:
+- S: supuesto 4 plataforma de datos.
+
+Viernes:
+- F: IA publica, sesgos, explicabilidad, supervision humana.
+
+Sabado:
+- S: supuesto 9 IA para priorizar expedientes.
+- T: 40 preguntas datos/IA.
+
+Domingo:
+- R: control.
+- Meta: IA siempre con finalidad, base juridica, supervision y trazabilidad.
+
+
+============================================================
+SEMANA 10 - GESTION TIC, ITIL, CALIDAD, ACCESIBILIDAD
+============================================================
+
+Lunes:
+- F: fichas_itil_cobit_calidad.
+
+Martes:
+- F: ITIL incidencias/problemas/cambios/SLAs.
+
+Miercoles:
+- F: COBIT y gobierno TIC.
+
+Jueves:
+- S: supuesto 15 CAU.
+
+Viernes:
+- F: accesibilidad y WCAG.
+
+Sabado:
+- S: supuesto 22 accesibilidad de sede.
+- T: 40 preguntas gestion/calidad.
+
+Domingo:
+- R: corregir.
+- Meta: distinguir ITIL operacion y COBIT gobierno.
+
+
+============================================================
+SEMANA 11 - CONTRATACION PUBLICA TIC
+============================================================
+
+Lunes:
+- F: fichas_contratacion_publica_tic.
+
+Martes:
+- F: plantilla_ppt_tic, objeto, alcance, requisitos.
+
+Miercoles:
+- F: ENS/RGPD/ENI en contratos, SLAs.
+
+Jueves:
+- S: supuesto 5 licitacion TIC critica.
+
+Viernes:
+- F: reversibilidad, transferencia, penalidades.
+
+Sabado:
+- S: redactar PPT resumido para plataforma de expedientes.
+- T: 40 preguntas contratacion.
+
+Domingo:
+- R: control.
+- Meta: ningun contrato sin reversibilidad.
+
+
+============================================================
+SEMANA 12 - SIMULACRO Y BRECHAS
+============================================================
+
+Lunes:
+- R: repasar tarjetas rojas.
+
+Martes:
+- T: banco_test_inicial_100 completo.
+
+Miercoles:
+- R: corregir test y clasificar fallos.
+
+Jueves:
+- S: simulacro_a2_1 supuesto.
+
+Viernes:
+- R: corregir con rubrica.
+
+Sabado:
+- S: simulacro_a1_1 caso integral.
+
+Domingo:
+- R: lista de 20 debilidades y plan semanas 13-24.
+
+Meta:
+- Test normativa >= 75%.
+- Test tecnico >= 70%.
+- 2 supuestos completos corregidos.

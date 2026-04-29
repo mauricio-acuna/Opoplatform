@@ -1038,6 +1038,25 @@ Contiene:
 - Metas mensuales.
 - Señales de progreso real.
 
+40. calendario_12_semanas_detallado.txt
+Contiene:
+- Plan dia a dia de las primeras 12 semanas.
+- Tareas F/T/S/R/M: ficha, test, supuesto, repaso y memoria.
+- Metas semanales concretas.
+
+41. calendario_13_24_consolidacion.txt
+Contiene:
+- Segunda fase de consolidacion.
+- Repasos intensivos por bloque.
+- Simulacros A1/A2.
+- Velocidad, memoria y cierre de brechas.
+
+42. dashboard_mensual_oposiciones.txt
+Contiene:
+- Control mensual de horas, teoria, test, supuestos, memoria y decisiones.
+- Semaforo de porcentajes.
+- Reglas para ajustar el mes siguiente.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

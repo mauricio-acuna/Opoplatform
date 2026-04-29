@@ -30,7 +30,7 @@ ESTADO GENERAL
 | Supuestos | Alto | banco_supuestos, banco_supuestos_30, respuestas_modelo, plantillas, simulacro_a1_1, simulacro_a2_1 | Mas respuestas desarrolladas |
 | Test | Inicial | banco_test_inicial_100 | Llegar a 500 preguntas |
 | Memoria | Medio-alto | glosario, mnemotecnias, tarjetas_memoria_iniciales, errores_frecuentes_y_correcciones | Convertir a Anki/CSV si se desea |
-| Control de estudio | Medio-alto | calendario_12_semanas, control_estudio, plan_semanal_operativo | Cuadro mensual y revision |
+| Control de estudio | Alto | calendario_12_semanas, calendario_12_semanas_detallado, calendario_13_24_consolidacion, control_estudio, plan_semanal_operativo, dashboard_mensual_oposiciones | Mantener actualizado |
 
 
 ============================================================

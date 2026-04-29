@@ -1,6 +1,19 @@
 ### Calendario inicial de 12 semanas para A1 TIC con cobertura A2 GSI
 Fecha de trabajo: 29/04/2026
 
+Archivos complementarios:
+- calendario_12_semanas_detallado.txt: baja este plan a tareas dia a dia.
+- calendario_13_24_consolidacion.txt: segunda fase para consolidar, subir velocidad y preparar simulacros.
+- plan_semanal_operativo.txt: rutina semanal segun disponibilidad.
+- control_estudio_oposiciones.txt: registro de avance, test, supuestos y fallos.
+
+Modo de uso:
+1. Usar este archivo como mapa general.
+2. Usar calendario_12_semanas_detallado.txt para ejecutar cada dia.
+3. Registrar resultados en control_estudio_oposiciones.txt.
+4. Cada domingo corregir fallos y ajustar la semana siguiente.
+5. Al terminar semana 12, pasar a calendario_13_24_consolidacion.txt.
+
 Supuesto de dedicacion:
 - Minimo viable: 15 horas/semana.
 - Recomendado A2: 18-22 horas/semana.

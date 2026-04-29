@@ -63,8 +63,11 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 - `tarjetas_memoria_iniciales.txt`
 - `errores_frecuentes_y_correcciones.txt`
 - `calendario_12_semanas_a1_a2.txt`
+- `calendario_12_semanas_detallado.txt`
+- `calendario_13_24_consolidacion.txt`
 - `plan_semanal_operativo.txt`
 - `control_estudio_oposiciones.txt`
+- `dashboard_mensual_oposiciones.txt`
 
 ## Regla de trabajo
 

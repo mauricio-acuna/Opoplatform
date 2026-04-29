@@ -1,0 +1,146 @@
+### Dashboard mensual - Oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Medir progreso real. El enemigo es confundir horas sentado con avance.
+
+
+============================================================
+RESUMEN DEL MES
+============================================================
+
+Mes:
+Fechas:
+Objetivo principal:
+- [ ] A1
+- [ ] A2
+- [ ] C1
+- [ ] Mixto A1/A2
+
+Horas objetivo:
+Horas reales:
+Porcentaje cumplimiento:
+
+
+============================================================
+TEORIA
+============================================================
+
+Fichas leidas:
+Fichas creadas:
+Fichas repasadas:
+
+Bloques cerrados:
+- [ ] Ley 39/2015
+- [ ] Ley 40/2015
+- [ ] RD 203/2021
+- [ ] ENS
+- [ ] ENI
+- [ ] RGPD/LOPDGDD
+- [ ] Contratacion TIC
+- [ ] Gobernanza TIC
+- [ ] Redes
+- [ ] Sistemas/cloud
+- [ ] Bases de datos
+- [ ] Desarrollo/APIs
+- [ ] Datos/IA
+- [ ] ITIL/COBIT/calidad
+
+
+============================================================
+TEST
+============================================================
+
+Preguntas realizadas:
+Aciertos:
+Fallos:
+Porcentaje global:
+
+Por bloque:
+| Bloque | Preguntas | % acierto | Estado |
+|---|---:|---:|---|
+| Normativa | | | |
+| Administracion digital | | | |
+| ENS/RGPD | | | |
+| ENI | | | |
+| Tecnica | | | |
+| Gestion/contratacion | | | |
+
+Semaforo:
+- Verde: >= 80%.
+- Amarillo: 70-79%.
+- Rojo: < 70%.
+
+
+============================================================
+SUPUESTOS
+============================================================
+
+Supuestos escritos:
+Supuestos solo esquematizados:
+Tiempo medio:
+Mejor nota/rubrica:
+Peor nota/rubrica:
+
+Errores recurrentes:
+- [ ] Falta normativa.
+- [ ] Falta ENS.
+- [ ] Falta RGPD.
+- [ ] Falta ENI.
+- [ ] Falta operacion/continuidad.
+- [ ] Falta contratacion/reversibilidad.
+- [ ] Respuesta demasiado tecnica.
+- [ ] Cierre sin impacto publico.
+
+
+============================================================
+MEMORIA
+============================================================
+
+Tarjetas verdes:
+Tarjetas amarillas:
+Tarjetas rojas:
+
+Conceptos que ya salen solos:
+-
+-
+
+Conceptos que siguen flojos:
+-
+-
+
+
+============================================================
+DECISION DEL MES
+============================================================
+
+Si test < 70%:
+- Bajar teoria nueva y subir correccion de fallos.
+
+Si test 70-80% pero supuestos flojos:
+- Mantener test y duplicar supuestos.
+
+Si supuestos no incluyen normativa:
+- Rehacer plantillas de respuesta.
+
+Si hay muchas horas y poco avance:
+- Reducir lectura pasiva y aumentar test/escritura.
+
+Decision para mes siguiente:
+- [ ] Subir normativa.
+- [ ] Subir tecnica.
+- [ ] Subir supuestos.
+- [ ] Subir simulacros.
+- [ ] Repetir ciclo.
+- [ ] Cambiar foco A1/A2/C1.
+
+
+============================================================
+FRASE DE CONTROL
+============================================================
+
+Este mes no cuenta como bueno si no hay:
+- 300 preguntas.
+- 4 supuestos.
+- 1 simulacro parcial.
+- Lista de fallos corregida.

@@ -1,0 +1,178 @@
+### Calendario semanas 13-24 - Consolidacion A1/A2 TIC
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Pasar de "he visto los temas" a "puedo aprobar". Esta fase sube test, supuestos y velocidad.
+
+
+============================================================
+SEMANA 13 - REPASO NORMATIVA 39/40/RD203
+============================================================
+
+Objetivo:
+Cerrar administracion digital.
+
+Tareas:
+- Releer fichas Ley 39/40.
+- Rehacer tabla_plazos_ley_39.
+- 150 preguntas normativa.
+- 2 supuestos: sede electronica y notificaciones.
+
+Meta:
+- 80% en normativa administrativa.
+
+
+============================================================
+SEMANA 14 - ENS/RGPD INTENSIVO
+============================================================
+
+Tareas:
+- Releer tabla ENS.
+- Releer fichas RGPD y bases juridicas.
+- Resolver 4 casos ENS/RGPD.
+- 100 preguntas seguridad/datos.
+
+Meta:
+- Responder brecha, EIPD y categoria ENS sin mirar.
+
+
+============================================================
+SEMANA 15 - ENI, DOCUMENTO Y EXPEDIENTE
+============================================================
+
+Tareas:
+- Releer tabla ENI/NTI.
+- Escribir respuesta sobre expediente electronico.
+- Resolver supuestos digitalizacion, archivo y copiado autentico.
+- 80 preguntas administracion digital.
+
+Meta:
+- Meter ENI/NTI en respuestas sin sonar forzado.
+
+
+============================================================
+SEMANA 16 - TECNICA 1: REDES/SISTEMAS/CLOUD
+============================================================
+
+Tareas:
+- Releer redes y sistemas/cloud.
+- 150 preguntas tecnicas.
+- Supuestos: cloud, continuidad, CPD.
+
+Meta:
+- 75% test tecnico en estos bloques.
+
+
+============================================================
+SEMANA 17 - TECNICA 2: BD/APIS/DESARROLLO
+============================================================
+
+Tareas:
+- Releer BD/SQL y desarrollo/APIs.
+- 150 preguntas.
+- Supuestos: API corporativa, DevSecOps, legacy.
+
+Meta:
+- Explicar arquitectura sin caer en moda tecnologica.
+
+
+============================================================
+SEMANA 18 - GOBERNANZA, PROYECTOS, CONTRATACION
+============================================================
+
+Tareas:
+- Releer RD 1125/2024/gobernanza.
+- Releer plantilla PPT.
+- Redactar 2 mini pliegos.
+- Resolver supuesto de gobernanza departamental.
+
+Meta:
+- Respuesta A1 con CETIC/Agencia/CMAD cuando proceda.
+
+
+============================================================
+SEMANA 19 - DATOS, ANALITICA, IA
+============================================================
+
+Tareas:
+- Plataforma de datos.
+- IA publica.
+- Datos abiertos.
+- 3 supuestos.
+- 100 preguntas mixtas.
+
+Meta:
+- IA siempre con supervision, sesgos, explicabilidad, EIPD si procede.
+
+
+============================================================
+SEMANA 20 - SIMULACRO A2 COMPLETO
+============================================================
+
+Tareas:
+- Simulacro test 100 preguntas.
+- Supuesto A2 120 min.
+- Correccion con rubrica.
+- Lista de 20 fallos.
+
+Meta:
+- Test >= 75%.
+- Supuesto ordenado en tiempo.
+
+
+============================================================
+SEMANA 21 - SIMULACRO A1 COMPLETO
+============================================================
+
+Tareas:
+- Caso A1 integral.
+- Respuesta 2-3 horas.
+- Correccion por rubrica 20 puntos.
+- Reescritura de introduccion y cierre.
+
+Meta:
+- Vision directiva, no solo tecnica.
+
+
+============================================================
+SEMANA 22 - REPASO DE FALLOS
+============================================================
+
+Tareas:
+- Rehacer tarjetas rojas.
+- Repetir preguntas falladas.
+- Reescribir 3 respuestas flojas.
+- Crear lista de 30 conceptos inseguros.
+
+Meta:
+- Reducir fallos repetidos.
+
+
+============================================================
+SEMANA 23 - VELOCIDAD Y MEMORIA
+============================================================
+
+Tareas:
+- 3 bloques de 50 preguntas cronometradas.
+- 2 esquemas de supuesto en 20 min.
+- 1 supuesto en 90 min.
+- Repaso glosario y mnemotecnias.
+
+Meta:
+- Velocidad sin perder estructura.
+
+
+============================================================
+SEMANA 24 - CIERRE Y NUEVO CICLO
+============================================================
+
+Tareas:
+- Simulacro mixto.
+- Recalcular porcentajes.
+- Revisar convocatoria.
+- Decidir foco siguiente: A1, A2 o C1 complementario.
+- Plan semanas 25-36.
+
+Meta:
+- Saber donde estas realmente.
+- Tener plan basado en datos, no sensaciones.
