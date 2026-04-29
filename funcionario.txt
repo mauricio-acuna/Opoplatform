@@ -900,6 +900,19 @@ Contiene:
 - Trampas de examen.
 - Mini test.
 
+23. casos_ens_rgpd.txt
+Contiene:
+- 8 casos combinados ENS/RGPD.
+- Brecha en sistema de ayudas.
+- Proveedor cloud con datos.
+- Publicacion de datos abiertos.
+- IA para detectar fraude.
+- App movil de cita previa.
+- Descarga masiva por empleado.
+- Formulario con datos excesivos.
+- Logs con datos personales.
+- Rubrica rapida ENS/RGPD.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

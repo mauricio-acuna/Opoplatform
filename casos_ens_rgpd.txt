@@ -1,0 +1,232 @@
+### Casos combinados ENS + RGPD/LOPDGDD
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Entrenar respuestas donde seguridad y proteccion de datos aparecen juntas. En la Administracion, casi siempre van de la mano.
+
+
+============================================================
+CASO 1. BRECHA EN SISTEMA DE AYUDAS
+============================================================
+
+Enunciado:
+Un organismo detecta que durante 48 horas varios usuarios internos pudieron acceder a expedientes de ayudas de provincias distintas a la suya. Los expedientes contienen DNI, renta, domicilio, discapacidad y datos bancarios.
+
+Cuestiones:
+1. Que medidas inmediatas tomarias?
+2. Como valorarias la brecha?
+3. Que controles ENS/RGPD reforzarias?
+
+Respuesta esperada:
+- Contencion: retirar acceso indebido, revisar roles, bloquear sesiones si procede.
+- Evidencias: logs de acceso, usuarios, expedientes consultados, exportaciones.
+- Evaluacion RGPD: datos personales, categorias especialmente sensibles si hay discapacidad/salud, volumen, riesgo para afectados.
+- DPD: informar y coordinar analisis.
+- Notificacion a autoridad de control si procede.
+- Comunicacion a afectados si hay alto riesgo.
+- ENS: minimo privilegio, autorizacion, registro de actividad, segregacion, revision periodica de permisos.
+- Mejora: RBAC/ABAC, alertas de acceso anomalos, recertificacion de permisos, formacion.
+
+Frase modelo:
+"El incidente debe tratarse simultaneamente como fallo de control de acceso ENS y posible brecha de datos RGPD, documentando alcance, personas afectadas, datos consultados, riesgo y medidas correctoras."
+
+
+============================================================
+CASO 2. PROVEEDOR CLOUD CON ACCESO A DATOS
+============================================================
+
+Enunciado:
+Un servicio SaaS se propone para gestionar solicitudes ciudadanas. El proveedor alojara datos personales y ofrece soporte desde fuera de la organizacion.
+
+Cuestiones:
+1. Que debe exigirse antes de contratar?
+2. Que obligaciones deben quedar en contrato?
+3. Que riesgos hay que controlar?
+
+Respuesta esperada:
+- Verificar adecuacion ENS segun categoria del sistema.
+- Determinar responsable y encargado del tratamiento.
+- Firmar encargo de tratamiento.
+- Comprobar ubicacion de datos, subencargados, transferencias internacionales si las hubiera.
+- Exigir confidencialidad, control de accesos, logs, incidentes, auditoria, reversibilidad, eliminacion/devolucion de datos.
+- SLAs de disponibilidad, soporte, recuperacion.
+- Evaluar EIPD si hay alto riesgo.
+- Plan de salida.
+
+Frase modelo:
+"El uso de SaaS no traslada la responsabilidad publica al proveedor; la Administracion debe conservar gobierno, control, auditoria, cumplimiento ENS/RGPD y capacidad de reversibilidad."
+
+
+============================================================
+CASO 3. PUBLICACION DE DATOS ABIERTOS
+============================================================
+
+Enunciado:
+Un ministerio quiere publicar un dataset de expedientes tramitados para mejorar transparencia. El dataset contiene fechas, codigos postales, importe de ayuda, edad, genero y tipo de discapacidad.
+
+Cuestiones:
+1. Que riesgos hay?
+2. Como lo publicarias?
+3. Que controles aplicarias?
+
+Respuesta esperada:
+- Riesgo de reidentificacion por combinacion de atributos.
+- Revisar finalidad, base normativa y compatibilidad.
+- Anonimizacion robusta, agregacion, supresion/generalizacion.
+- Evitar publicar categorias sensibles individualizables.
+- Evaluar riesgo de singling out, linking e inference.
+- Metadatos, formatos reutilizables, licencia y calidad.
+- Control de versionado y revision antes de publicacion.
+
+Frase modelo:
+"Datos abiertos no significa publicar datos personales; debe garantizarse anonimización efectiva o agregacion suficiente, especialmente cuando existen categorias sensibles o riesgo de reidentificacion."
+
+
+============================================================
+CASO 4. IA PARA DETECTAR FRAUDE
+============================================================
+
+Enunciado:
+Un organismo quiere usar un modelo de IA para señalar expedientes con probabilidad de fraude. El modelo usara historico de expedientes, datos tributarios y patrones de comportamiento.
+
+Cuestiones:
+1. Que analisis previo harias?
+2. Que garantias exigirias?
+3. Como lo explicarias al tribunal?
+
+Respuesta esperada:
+- Finalidad publica delimitada.
+- Base juridica para tratamientos y cruces.
+- Minimizacion de datos.
+- Calidad y sesgos del historico.
+- EIPD si alto riesgo.
+- Supervision humana.
+- Explicabilidad.
+- Trazabilidad de recomendaciones.
+- No decision automatizada sin garantias.
+- Seguridad ENS de datos/modelo.
+- Auditoria y reevaluacion.
+
+Frase modelo:
+"La IA debe ser apoyo a la decision, no sustituto opaco del procedimiento administrativo ni de la motivacion de los actos que afecten a derechos o intereses."
+
+
+============================================================
+CASO 5. APP MOVIL DE CITA PREVIA
+============================================================
+
+Enunciado:
+Se desarrolla una app movil para cita previa, consulta de expedientes y recepcion de avisos. Recoge identificador, telefono, email, ubicacion opcional y datos de expediente.
+
+Cuestiones:
+1. Que datos son necesarios?
+2. Que medidas de seguridad aplicarias?
+3. Como tratarias avisos/notificaciones?
+
+Respuesta esperada:
+- Minimizar datos: ubicacion solo si imprescindible y opcional.
+- Separar avisos informativos de notificaciones administrativas.
+- Autenticacion robusta si se consulta expediente.
+- No mostrar datos sensibles en notificaciones push.
+- Cifrado en transito.
+- Gestion segura de sesiones/tokens.
+- Logs.
+- Politica de privacidad clara.
+- Derechos RGPD.
+- ENS y pruebas de seguridad movil.
+
+Frase modelo:
+"La app puede mejorar accesibilidad del servicio, pero no debe degradar garantias de identificacion, confidencialidad, notificacion ni proteccion de datos."
+
+
+============================================================
+CASO 6. EMPLEADO DESCARGA MASIVA
+============================================================
+
+Enunciado:
+Un empleado publico descarga 20.000 registros de ciudadanos fuera de su patron habitual. No consta autorizacion para esa extraccion.
+
+Cuestiones:
+1. Que controles deberian haber detectado esto?
+2. Que respuesta dar?
+3. Que medidas preventivas implantar?
+
+Respuesta esperada:
+- Deteccion por logs, SIEM, UEBA si existe, alertas por volumen/anomalia.
+- Contencion: suspender acceso si procede, preservar evidencias, investigar finalidad.
+- RGPD: valorar brecha/acceso no autorizado.
+- ENS: registro de actividad, minimo privilegio, trazabilidad, autorizacion.
+- Medidas: DLP, alertas, control de exportaciones, doble autorizacion, recertificacion de permisos, formacion y regimen disciplinario si procede.
+
+Frase modelo:
+"El riesgo interno debe tratarse con minimo privilegio, trazabilidad y deteccion de comportamientos anomalos, no solo con confianza organizativa."
+
+
+============================================================
+CASO 7. FORMULARIO PIDE DATOS EXCESIVOS
+============================================================
+
+Enunciado:
+Un formulario electronico de subvenciones pide estado civil, numero de hijos, IBAN, renta, discapacidad y copia de DNI, aunque no todos esos datos son necesarios para todos los solicitantes.
+
+Cuestiones:
+1. Que principio RGPD se vulnera potencialmente?
+2. Como rediseñarias el formulario?
+3. Que integraciones usarias?
+
+Respuesta esperada:
+- Minimizacion y limitacion de finalidad.
+- Formularios dinamicos segun caso.
+- No pedir DNI/certificados si se puede consultar dato por interoperabilidad.
+- PID para verificaciones cuando proceda.
+- Informacion por capas.
+- Validaciones y trazabilidad de consentimiento/oposicion cuando aplique.
+- Seguridad e integracion con expediente.
+
+Frase modelo:
+"El procedimiento electronico debe pedir solo los datos necesarios y, cuando sea posible legalmente, sustituir aportacion documental por consulta interoperable con trazabilidad."
+
+
+============================================================
+CASO 8. LOGS CON DATOS PERSONALES
+============================================================
+
+Enunciado:
+Los logs de una aplicacion almacenan DNI, nombre completo, direccion y texto libre de solicitudes. Los logs se conservan indefinidamente y son accesibles por todo el equipo tecnico.
+
+Cuestiones:
+1. Que riesgos hay?
+2. Como corregirias?
+3. Como equilibrar trazabilidad y minimizacion?
+
+Respuesta esperada:
+- Exceso de datos en logs.
+- Conservacion indefinida injustificada.
+- Acceso excesivo.
+- Minimizar/seudonimizar logs.
+- Definir plazos de conservacion.
+- Control de acceso.
+- Cifrado/integridad.
+- Separar logs tecnicos de auditoria.
+- Procedimiento de acceso.
+- ENS: registro de actividad protegido.
+
+Frase modelo:
+"La trazabilidad es obligatoria, pero no justifica registrar datos personales excesivos ni conservarlos indefinidamente sin control."
+
+
+============================================================
+RUBRICA RAPIDA ENS/RGPD
+============================================================
+
+Una buena respuesta debe mencionar:
+- Tipo de datos.
+- Finalidad y base juridica.
+- Responsable/encargado/DPD.
+- Riesgo para personas y servicio.
+- Controles ENS.
+- Derechos RGPD.
+- Evidencias/logs.
+- Continuidad si afecta servicio.
+- Medidas correctoras.
+- Documentacion y mejora continua.
