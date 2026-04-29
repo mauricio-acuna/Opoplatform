@@ -1,0 +1,155 @@
+### Errores frecuentes y correcciones - Oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Evitar fallos de enfoque que cuestan puntos aunque se sepa tecnologia.
+
+
+============================================================
+1. ADMINISTRACION DIGITAL
+============================================================
+
+Error:
+"Creamos una web para que el ciudadano suba documentos."
+
+Correccion:
+"Implantamos una sede electronica con identificacion, registro electronico, justificante, expediente electronico, notificacion, archivo y trazabilidad."
+
+
+Error:
+"Se notifica por email."
+
+Correccion:
+"El email puede ser aviso, pero la notificacion electronica exige puesta a disposicion, evidencias de acceso/rechazo y computo de plazos."
+
+
+Error:
+"Guardamos PDFs en una carpeta."
+
+Correccion:
+"El expediente electronico requiere documentos, indice, metadatos, firma/trazabilidad, conservacion e interoperabilidad."
+
+
+============================================================
+2. SEGURIDAD
+============================================================
+
+Error:
+"Ponemos firewall y antivirus."
+
+Correccion:
+"Aplicamos ENS: categoria, analisis de riesgos, declaracion de aplicabilidad, minimo privilegio, IAM/MFA, cifrado, logs, vulnerabilidades, continuidad e incidentes."
+
+
+Error:
+"El proveedor cloud se ocupa de la seguridad."
+
+Correccion:
+"La Administracion mantiene responsabilidad de gobierno; el contrato debe exigir ENS, RGPD, auditoria, SLAs, reversibilidad y evidencias."
+
+
+Error:
+"Los logs guardan todo para investigar."
+
+Correccion:
+"Los logs deben equilibrar trazabilidad, minimizacion, seguridad, acceso restringido y plazos de conservacion."
+
+
+============================================================
+3. PROTECCION DE DATOS
+============================================================
+
+Error:
+"Pedimos consentimiento al ciudadano para todo."
+
+Correccion:
+"En procedimientos administrativos la base suele ser obligacion legal, mision en interes publico o poderes publicos; el consentimiento no siempre es libre ni adecuado."
+
+
+Error:
+"Publicamos datos anonimizados quitando nombre y DNI."
+
+Correccion:
+"Anonimizar exige evitar reidentificacion razonable, considerando combinaciones de atributos, datos sensibles y contexto."
+
+
+Error:
+"La IA decide automaticamente."
+
+Correccion:
+"La IA debe ser apoyo con supervision humana, explicabilidad, trazabilidad, control de sesgos y garantias del procedimiento."
+
+
+============================================================
+4. CONTRATACION
+============================================================
+
+Error:
+"Se contrata al proveedor que ofrezca mejor precio."
+
+Correccion:
+"La adjudicacion debe ponderar calidad tecnica, seguridad, SLAs, equipo, transferencia, reversibilidad y criterios vinculados al objeto."
+
+
+Error:
+"El PPT dice cumplir normativa vigente."
+
+Correccion:
+"Hay que traducir la normativa a obligaciones verificables: ENS, RGPD, ENI, accesibilidad, pruebas, auditoria, documentacion y penalidades."
+
+
+Error:
+"No hace falta reversibilidad hasta el final."
+
+Correccion:
+"La reversibilidad debe diseñarse desde el pliego: datos, codigo, configuracion, documentacion, conocimiento y soporte a transicion."
+
+
+============================================================
+5. TECNICA
+============================================================
+
+Error:
+"Microservicios siempre son mejores."
+
+Correccion:
+"Deben justificarse por escalado/evolucion independiente; aumentan complejidad operativa, observabilidad y gobierno."
+
+
+Error:
+"Cloud ahorra costes automaticamente."
+
+Correccion:
+"Cloud exige gobierno de costes, ENS/RGPD, SLAs, portabilidad, reversibilidad, seguridad y operacion."
+
+
+Error:
+"NoSQL sustituye SQL."
+
+Correccion:
+"La eleccion depende de consistencia, modelo de datos, volumen, consultas, transacciones y gobierno."
+
+
+============================================================
+6. RESPUESTA DE EXAMEN
+============================================================
+
+Error:
+Respuesta lista de tecnologias.
+
+Correccion:
+Estructura: objetivo publico, marco normativo, diagnostico, arquitectura, seguridad, interoperabilidad, datos, implantacion, operacion, indicadores e impacto.
+
+
+Error:
+Sonar a consultor privado.
+
+Correccion:
+Usar lenguaje publico: ciudadano/interesado, expediente, organo gestor, servicio publico, trazabilidad, seguridad juridica, interoperabilidad, interes general.
+
+
+Error:
+No cerrar con impacto.
+
+Correccion:
+Terminar explicando mejora en servicio ciudadano, empleados publicos, eficiencia, seguridad, cumplimiento, accesibilidad y calidad.

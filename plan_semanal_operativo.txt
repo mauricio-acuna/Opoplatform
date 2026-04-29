@@ -1,0 +1,151 @@
+### Plan semanal operativo - Oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Convertir el repositorio en rutina real. Este plan complementa el calendario de 12 semanas.
+
+
+============================================================
+SEMANA TIPO - 15 HORAS
+============================================================
+
+Lunes - Normativa base:
+- 60 min ficha.
+- 30 min tarjetas.
+- 30 min test.
+
+Martes - Tecnica:
+- 75 min ficha tecnica.
+- 45 min test tecnico.
+
+Miercoles - Administracion digital/ENS:
+- 60 min ENS/ENI/RD 203.
+- 30 min tarjetas.
+- 30 min errores frecuentes.
+
+Jueves - Supuesto corto:
+- 30 min leer plantilla.
+- 90 min resolver mini supuesto.
+
+Viernes - Gestion/contratacion:
+- 60 min gobernanza/proyectos/contratacion.
+- 30 min test.
+- 30 min repaso fallos.
+
+Sabado - Simulacro parcial:
+- 60 min test de 50 preguntas.
+- 90 min supuesto o esquema de supuesto.
+
+Domingo - Revision:
+- 45 min corregir.
+- 30 min actualizar control_estudio.
+- 45 min tarjetas rojas/amarillas.
+
+
+============================================================
+SEMANA TIPO - 25 HORAS
+============================================================
+
+Lunes:
+- 2h normativa.
+- 1h test.
+
+Martes:
+- 2h tecnica.
+- 1h tarjetas.
+
+Miercoles:
+- 2h ENS/RGPD/ENI.
+- 1h casos.
+
+Jueves:
+- 3h supuesto A2/A1.
+
+Viernes:
+- 2h gestion/contratacion.
+- 1h test.
+
+Sabado:
+- 2h simulacro test.
+- 3h caso practico.
+
+Domingo:
+- 2h correccion.
+- 1h planificacion.
+- 2h repaso de fallos.
+
+
+============================================================
+REGLA DE PRIORIDAD DIARIA
+============================================================
+
+Si solo hay 20 minutos:
+- Tarjetas rojas.
+- 10 preguntas tipo test.
+
+Si hay 60 minutos:
+- 30 min ficha.
+- 20 min test.
+- 10 min fallos.
+
+Si hay 2 horas:
+- 60 min teoria.
+- 30 min test.
+- 30 min escribir respuesta corta.
+
+Si hay 4 horas:
+- 90 min teoria.
+- 60 min test.
+- 120 min supuesto.
+- 30 min correccion.
+
+
+============================================================
+REVISION DE DOMINGO
+============================================================
+
+Preguntas:
+1. Que he aprendido esta semana?
+2. Que tema sigo evitando?
+3. Que fallos se repiten?
+4. Que porcentaje de test tengo?
+5. He escrito al menos un supuesto?
+6. He citado normativa correctamente?
+7. Que haria si el examen fuera en 30 dias?
+
+
+============================================================
+METAS MINIMAS MENSUALES
+============================================================
+
+Mes 1:
+- 20 fichas leidas.
+- 300 preguntas.
+- 4 supuestos.
+- 1 simulacro A2 parcial.
+
+Mes 2:
+- 40 fichas acumuladas.
+- 700 preguntas acumuladas.
+- 10 supuestos acumulados.
+- 1 simulacro A1.
+
+Mes 3:
+- 60 fichas acumuladas.
+- 1200 preguntas acumuladas.
+- 18 supuestos acumulados.
+- 2 simulacros completos.
+
+
+============================================================
+SEÑALES DE PROGRESO REAL
+============================================================
+
+- Explicas Ley 39/40 sin mirar.
+- ENS sale automaticamente en cualquier supuesto.
+- Ya no dices "email" como notificacion.
+- Citas ENI cuando hablas de expediente/documento.
+- En cloud mencionas reversibilidad.
+- En IA mencionas supervision humana y sesgos.
+- En contratos mencionas PPT, SLAs, transferencia y penalidades.
+- En tecnica no eliges herramientas por moda.

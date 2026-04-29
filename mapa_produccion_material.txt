@@ -29,8 +29,8 @@ ESTADO GENERAL
 | Desarrollo/datos/IA | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_bases_datos_sql, fichas_desarrollo_web_apis, test_tecnico_100 | Java/.NET especifico |
 | Supuestos | Alto | banco_supuestos, banco_supuestos_30, respuestas_modelo, plantillas, simulacro_a1_1, simulacro_a2_1 | Mas respuestas desarrolladas |
 | Test | Inicial | banco_test_inicial_100 | Llegar a 500 preguntas |
-| Memoria | Inicial | glosario, mnemotecnias | Tarjetas y repasos espaciados |
-| Control de estudio | Medio | calendario_12_semanas, control_estudio | Cuadro mensual y revision |
+| Memoria | Medio-alto | glosario, mnemotecnias, tarjetas_memoria_iniciales, errores_frecuentes_y_correcciones | Convertir a Anki/CSV si se desea |
+| Control de estudio | Medio-alto | calendario_12_semanas, control_estudio, plan_semanal_operativo | Cuadro mensual y revision |
 
 
 ============================================================

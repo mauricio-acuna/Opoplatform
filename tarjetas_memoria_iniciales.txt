@@ -1,0 +1,184 @@
+### Tarjetas de memoria iniciales - Oposiciones TIC
+Fecha de trabajo: 29/04/2026
+
+Uso:
+Formato pregunta/respuesta para repaso espaciado. Leer en voz alta y marcar: verde, amarillo, rojo.
+
+
+============================================================
+NORMATIVA Y ADMINISTRACION DIGITAL
+============================================================
+
+Q: Que regula la Ley 39/2015?
+A: El procedimiento administrativo comun y las relaciones de las personas con las Administraciones Publicas.
+
+Q: Que regula la Ley 40/2015?
+A: El regimen juridico del sector publico, incluyendo funcionamiento electronico, sede, actuacion automatizada y relaciones entre Administraciones.
+
+Q: Que aporta el RD 203/2021?
+A: Desarrolla la actuacion y funcionamiento del sector publico por medios electronicos.
+
+Q: Diferencia entre portal y sede electronica.
+A: El portal informa; la sede permite actuaciones electronicas con efectos juridicos bajo titularidad administrativa.
+
+Q: Que debe tener un registro electronico?
+A: Presentacion, asiento, fecha/hora, recibo, organo destinatario, documentos e integracion con expediente.
+
+Q: Por que el email no es notificacion electronica suficiente?
+A: Porque la notificacion exige puesta a disposicion, acceso/rechazo, evidencias y computo de plazos; el email puede ser solo aviso.
+
+Q: Que es expediente electronico?
+A: Conjunto ordenado de documentos y actuaciones de un procedimiento, con indice, metadatos, firma/trazabilidad y conservacion.
+
+Q: Que es actuacion administrativa automatizada?
+A: Actuacion producida por un sistema sin intervencion directa en cada acto, con organo responsable, criterios y garantias.
+
+
+============================================================
+ENS
+============================================================
+
+Q: Idea central del ENS.
+A: Marco de principios y requisitos minimos para proteger informacion y servicios electronicos del sector publico.
+
+Q: Dimensiones ENS.
+A: Disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad.
+
+Q: Que es la Declaracion de Aplicabilidad?
+A: Documento que formaliza las medidas de seguridad aplicables a un sistema segun categoria, riesgos y Anexo II.
+
+Q: Que significa minimo privilegio?
+A: Cada usuario/proceso solo tiene los permisos imprescindibles.
+
+Q: Que implica vigilancia continua?
+A: Monitorizacion, logs, alertas, revision de eventos y mejora constante.
+
+Q: Que categorias ENS existen?
+A: Basica, media y alta.
+
+Q: Como se determina categoria ENS?
+A: Por impacto en las dimensiones de seguridad y criticidad del sistema.
+
+
+============================================================
+ENI
+============================================================
+
+Q: Dimensiones del ENI.
+A: Organizativa, semantica y tecnica.
+
+Q: Que es interoperabilidad semantica?
+A: Que los datos tengan significado comun y sean interpretables por distintos sistemas.
+
+Q: Que es una NTI?
+A: Norma Tecnica de Interoperabilidad que concreta aspectos como documento, expediente, firma, digitalizacion o copiado.
+
+Q: Que debe tener un expediente electronico segun enfoque ENI?
+A: Documentos, indice, metadatos, firma/trazabilidad, archivo y posibilidad de intercambio.
+
+
+============================================================
+RGPD / LOPDGDD
+============================================================
+
+Q: Principio de minimizacion.
+A: Tratar solo los datos adecuados, pertinentes y necesarios para la finalidad.
+
+Q: Responsable del tratamiento.
+A: Quien decide fines y medios del tratamiento.
+
+Q: Encargado del tratamiento.
+A: Quien trata datos por cuenta del responsable siguiendo instrucciones.
+
+Q: DPD.
+A: Delegado de Proteccion de Datos; asesora, supervisa y actua como punto de contacto.
+
+Q: EIPD.
+A: Evaluacion de Impacto en Proteccion de Datos para tratamientos de alto riesgo.
+
+Q: Base juridica habitual en procedimientos administrativos.
+A: Obligacion legal, mision en interes publico o ejercicio de poderes publicos, segun caso.
+
+Q: Por que no usar consentimiento para todo en Administracion?
+A: Porque muchas relaciones no son libres/equilibradas y el tratamiento deriva de potestades o normas.
+
+
+============================================================
+CONTRATACION TIC
+============================================================
+
+Q: Que debe contener un PPT TIC?
+A: Requisitos funcionales/no funcionales, ENS, RGPD, ENI, accesibilidad, SLAs, entregables, pruebas, documentacion, transferencia y reversibilidad.
+
+Q: Que es reversibilidad?
+A: Capacidad de recuperar o transferir servicio, datos, codigo, configuracion, documentacion y conocimiento al finalizar/cambiar contrato.
+
+Q: Por que no valorar solo precio?
+A: Porque puede degradar calidad, seguridad, continuidad, transferencia y control publico.
+
+Q: Que es SLA?
+A: Acuerdo de nivel de servicio medible y verificable.
+
+
+============================================================
+GOBERNANZA Y GESTION
+============================================================
+
+Q: Norma vigente de gobernanza TIC AGE.
+A: RD 1125/2024.
+
+Q: Que paso con el RD 806/2014?
+A: Fue derogado por el RD 1125/2024.
+
+Q: Que es la CETIC?
+A: Organo colegiado superior de estrategia TIC en la Administracion del Estado.
+
+Q: Que es la CMAD?
+A: Comision Ministerial de Administracion Digital, coordina necesidades digitales en cada ministerio.
+
+Q: ITIL sirve para...
+A: Gestion de servicios TIC: incidencias, problemas, cambios, SLAs, catalogo y mejora continua.
+
+Q: COBIT sirve para...
+A: Gobierno y control TIC: alineacion estrategica, riesgos, cumplimiento, recursos y valor.
+
+
+============================================================
+TECNICA
+============================================================
+
+Q: Diferencia TCP/UDP.
+A: TCP es fiable y orientado a conexion; UDP es sin conexion y menor sobrecarga/latencia.
+
+Q: Para que sirve DNS?
+A: Resolver nombres a direcciones.
+
+Q: Para que sirve NTP?
+A: Sincronizacion horaria, clave para logs, certificados y evidencias.
+
+Q: Que es DMZ?
+A: Zona separada para servicios expuestos, evitando exposicion directa de redes internas.
+
+Q: IaaS/PaaS/SaaS.
+A: Infraestructura / plataforma / software como servicio.
+
+Q: RTO/RPO.
+A: Tiempo objetivo de recuperacion / perdida maxima asumible de datos.
+
+Q: ACID.
+A: Atomicidad, consistencia, aislamiento y durabilidad.
+
+Q: WHERE vs HAVING.
+A: WHERE filtra filas antes de agrupar; HAVING filtra grupos.
+
+Q: REST.
+A: Estilo de API basado en recursos HTTP, habitualmente JSON.
+
+Q: API Gateway.
+A: Centraliza publicacion, seguridad, cuotas, versionado, logs y trazabilidad de APIs.
+
+Q: SAST/DAST/SCA.
+A: Analisis estatico / dinamico / dependencias.
+
+Q: DevSecOps.
+A: Integrar seguridad en desarrollo, CI/CD y operacion.

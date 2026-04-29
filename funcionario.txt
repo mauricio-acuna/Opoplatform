@@ -1018,6 +1018,26 @@ Contiene:
 - Temas de sede, ciberseguridad, cloud, datos, licitacion, interoperabilidad, legacy, DevSecOps, IA, continuidad, accesibilidad, CPD, identidad, APIs y gobernanza.
 - Checklist de correccion rapida.
 
+37. tarjetas_memoria_iniciales.txt
+Contiene:
+- Tarjetas pregunta/respuesta.
+- Normativa, administracion digital, ENS, ENI, RGPD, contratacion, gobernanza y tecnica.
+
+38. errores_frecuentes_y_correcciones.txt
+Contiene:
+- Errores tipicos de opositor tecnico.
+- Correcciones en lenguaje de tribunal.
+- Administracion digital, seguridad, datos, contratacion, tecnica y respuesta de examen.
+
+39. plan_semanal_operativo.txt
+Contiene:
+- Semana tipo de 15 horas.
+- Semana tipo de 25 horas.
+- Reglas para dias de 20, 60, 120 y 240 minutos.
+- Revision de domingo.
+- Metas mensuales.
+- Señales de progreso real.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 
