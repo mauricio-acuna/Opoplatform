@@ -1,0 +1,175 @@
+### Rubricas de correccion de supuestos A1/A2
+Fecha de trabajo: 29/04/2026
+
+Objetivo:
+Corregir con criterio estable. Si no hay rubrica, todo parece "mas o menos bien" y no se mejora.
+
+
+============================================================
+RUBRICA A2 - 10 PUNTOS
+============================================================
+
+1. Comprension del problema - 1 punto
+- 1: identifica organismo, usuarios, datos, servicio y problema.
+- 0,5: identifica parcialmente.
+- 0: respuesta generica.
+
+2. Marco normativo - 1,5 puntos
+- 1,5: cita y aplica Ley 39/40, RD 203, ENS, ENI, RGPD/LCSP si procede.
+- 1: cita normas, pero aplica poco.
+- 0,5: cita alguna norma suelta.
+- 0: no hay marco normativo.
+
+3. Solucion tecnica - 2 puntos
+- 2: arquitectura coherente, modular, integrable y operable.
+- 1: solucion parcial.
+- 0,5: lista de herramientas.
+- 0: no hay solucion clara.
+
+4. Seguridad ENS/RGPD - 1,5 puntos
+- 1,5: riesgos, categoria, controles, datos, DPD/EIPD si procede.
+- 1: controles basicos.
+- 0,5: mencion superficial.
+- 0: sin seguridad/datos.
+
+5. Interoperabilidad - 1 punto
+- 1: ENI, NTI, servicios comunes, datos/documentos.
+- 0,5: mencion parcial.
+- 0: ausente.
+
+6. Implantacion/operacion - 1 punto
+- 1: fases, pruebas, formacion, soporte, continuidad.
+- 0,5: fases vagas.
+- 0: ausente.
+
+7. Indicadores e impacto publico - 1 punto
+- 1: indicadores y mejora para ciudadano/empleado/Administracion.
+- 0,5: cierre generico.
+- 0: sin cierre.
+
+8. Claridad - 1 punto
+- 1: estructura clara y lenguaje publico.
+- 0,5: entendible pero desordenado.
+- 0: confuso.
+
+
+============================================================
+RUBRICA A1 - 20 PUNTOS
+============================================================
+
+1. Vision estrategica y gobierno - 3 puntos
+- RD 1125/2024.
+- CETIC/Agencia/CMAD si procede.
+- Estrategia TIC.
+- Servicios comunes/transversales.
+- Priorizacion y toma de decisiones.
+
+2. Marco normativo integrado - 3 puntos
+- Ley 39/40.
+- RD 203.
+- ENS.
+- ENI.
+- RGPD/LOPDGDD.
+- LCSP.
+- Accesibilidad/transparencia/reutilizacion si procede.
+
+3. Arquitectura objetivo - 3 puntos
+- Capas.
+- Integraciones.
+- Datos.
+- Documentos.
+- Identidad.
+- Seguridad.
+- Observabilidad.
+- Continuidad.
+
+4. Seguridad y proteccion de datos - 3 puntos
+- ENS completo.
+- Analisis de riesgos.
+- Declaracion de aplicabilidad.
+- IAM/MFA/logs.
+- RGPD, DPD, EIPD.
+- Brechas y continuidad.
+
+5. Interoperabilidad y administracion digital - 2 puntos
+- ENI/NTI.
+- Servicios comunes.
+- Expediente/documento.
+- Notificaciones/registro.
+- PID, SIR, DIR3, CSV.
+
+6. Datos, analitica e IA - 2 puntos
+- Gobierno del dato.
+- Calidad, catalogo, linaje.
+- IA responsable.
+- Sesgos, explicabilidad, supervision.
+
+7. Contratacion y reversibilidad - 1,5 puntos
+- PPT.
+- SLAs.
+- ENS/RGPD/ENI en contrato.
+- Transferencia.
+- Reversibilidad.
+- Evitar dependencia.
+
+8. Implantacion, cambio y operacion - 1,5 puntos
+- Fases.
+- Gestion del cambio.
+- Formacion.
+- ITIL.
+- Soporte.
+- Indicadores.
+
+9. Claridad y lenguaje directivo publico - 1 punto
+- Orden.
+- Priorizacion.
+- No lista de marcas.
+- Cierre con impacto.
+
+
+============================================================
+PLANTILLA DE AUTOCORRECCION
+============================================================
+
+Supuesto:
+Fecha:
+Tiempo:
+
+Puntuacion A2/10:
+Puntuacion A1/20:
+
+Lo mejor:
+-
+-
+
+Lo peor:
+-
+-
+
+Normativa olvidada:
+-
+
+Parte tecnica floja:
+-
+
+Parte de gestion floja:
+-
+
+Proxima accion:
+-
+
+
+============================================================
+PENALIZACIONES TIPICAS
+============================================================
+
+- Sin ENS en sistema publico digital: penalizacion grave.
+- Sin RGPD con datos personales: penalizacion grave.
+- Sin ENI en expediente/documento/interoperabilidad: penalizacion media/grave.
+- Cloud sin reversibilidad: penalizacion media/grave.
+- Contrato sin SLAs ni transferencia: penalizacion media.
+- IA sin supervision/sesgos/explicabilidad: penalizacion grave.
+- Notificacion por email: penalizacion grave.
+- Carpeta de PDFs como expediente: penalizacion grave.
+- Respuesta sin indicadores: penalizacion media.
+- Respuesta sin impacto publico: penalizacion media.

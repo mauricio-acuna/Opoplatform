@@ -52,6 +52,7 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 - `casos_ens_rgpd.txt`
 - `simulacro_a2_1.txt`
 - `simulacro_a1_1.txt`
+- `rubricas_correccion_supuestos.txt`
 - `plantillas_respuesta_examen_a1_a2.txt`
 - `respuestas_modelo_desarrolladas.txt`
 

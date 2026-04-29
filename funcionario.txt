@@ -1057,6 +1057,13 @@ Contiene:
 - Semaforo de porcentajes.
 - Reglas para ajustar el mes siguiente.
 
+43. rubricas_correccion_supuestos.txt
+Contiene:
+- Rubrica A2 de 10 puntos.
+- Rubrica A1 de 20 puntos.
+- Plantilla de autocorreccion.
+- Penalizaciones tipicas.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 
