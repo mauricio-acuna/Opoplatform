@@ -1,0 +1,302 @@
+### Redes avanzadas y telecomunicaciones - A1/A2 TIC
+Fecha de trabajo: 30/04/2026
+
+Fuentes:
+- Ley 11/2022 General de Telecomunicaciones: https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10757
+- CNMC Telecomunicaciones: https://www.cnmc.es/sectores-que-regulamos/telecomunicaciones
+
+Objetivo:
+Cubrir redes avanzadas, comunicaciones electronicas y conceptos de telecomunicaciones para A1/A2. En A1 importa especialmente relacionarlo con estrategia, contratacion, calidad, continuidad y servicio publico.
+
+
+============================================================
+1. MARCO GENERAL DE TELECOMUNICACIONES
+============================================================
+
+Idea clave:
+La Ley 11/2022 configura las telecomunicaciones como servicios de interes general y regula redes y servicios de comunicaciones electronicas.
+
+CNMC:
+- Supervisa mercados de comunicaciones electronicas.
+- Analiza mercados y operadores con poder significativo.
+- Revisa ofertas mayoristas reguladas.
+- Gestiona materias como portabilidad, calidad, conflictos e infracciones.
+
+Frase de examen:
+"En proyectos de comunicaciones electronicas debe considerarse la Ley 11/2022, el marco regulatorio sectorial, la calidad del servicio, la seguridad e integridad de redes y, cuando proceda, la supervision de la CNMC."
+
+
+============================================================
+2. MPLS
+============================================================
+
+MPLS:
+- Multiprotocol Label Switching.
+- Conmuta paquetes usando etiquetas.
+- Permite VPNs de operador, calidad de servicio y transporte eficiente.
+
+Uso:
+- Redes corporativas WAN.
+- Priorizacion de trafico.
+- Separacion logica.
+
+Ventajas:
+- QoS.
+- Escalabilidad.
+- Gestion por operador.
+
+Riesgos:
+- Dependencia del operador.
+- Coste.
+- Necesidad de cifrado adicional si el riesgo lo exige.
+
+
+============================================================
+3. SD-WAN
+============================================================
+
+SD-WAN:
+- Gestion definida por software de redes WAN.
+- Usa multiples enlaces: MPLS, Internet, 4G/5G.
+- Politicas centralizadas.
+- Optimiza trafico por aplicacion.
+
+Ventajas:
+- Flexibilidad.
+- Menor dependencia de enlaces dedicados.
+- Mejor gestion centralizada.
+- Visibilidad.
+
+Controles:
+- Cifrado.
+- Segmentacion.
+- Monitorizacion.
+- Politicas.
+- Alta disponibilidad.
+
+Frase:
+"SD-WAN puede mejorar flexibilidad y resiliencia de comunicaciones, pero debe gobernarse con cifrado, segmentacion, monitorizacion, politicas centralizadas y SLAs."
+
+
+============================================================
+4. FIBRA, GPON Y FTTH
+============================================================
+
+FTTH:
+- Fiber To The Home.
+- Fibra hasta el hogar/usuario final.
+
+GPON:
+- Gigabit Passive Optical Network.
+- Red optica pasiva punto-multipunto.
+- Elementos: OLT, ONT/ONU, splitters.
+
+Uso publico:
+- Conectividad de sedes.
+- Banda ancha.
+- Servicios ciudadanos.
+
+Trampa:
+Fibra no significa automaticamente alta disponibilidad; hacen falta redundancia, rutas diversas y SLAs.
+
+
+============================================================
+5. REDES MOVILES 4G/5G
+============================================================
+
+4G/LTE:
+- Banda ancha movil.
+- Baja latencia respecto generaciones previas.
+
+5G:
+- Mayor ancho de banda.
+- Menor latencia.
+- Network slicing.
+- IoT masivo.
+- Comunicaciones criticas de baja latencia en ciertos escenarios.
+
+Usos publicos:
+- Movilidad de empleados.
+- IoT urbano.
+- Emergencias.
+- Acceso de respaldo.
+- Servicios de campo.
+
+Riesgos:
+- Cobertura.
+- Dependencia operador.
+- Seguridad de dispositivos.
+- Gestion MDM.
+- Cifrado extremo a extremo si procede.
+
+
+============================================================
+6. VOIP, SIP, VIDEOCONFERENCIA
+============================================================
+
+VoIP:
+- Voz sobre IP.
+
+SIP:
+- Protocolo de señalizacion para establecer/modificar/finalizar sesiones multimedia.
+
+RTP/SRTP:
+- Transporte de audio/video; SRTP añade seguridad.
+
+Videoconferencia:
+- Requiere ancho de banda, latencia baja, calidad, seguridad, gestion de identidad y grabaciones si procede.
+
+Controles:
+- Cifrado.
+- Control de acceso.
+- Salas protegidas.
+- Politica de grabacion.
+- Logs.
+- Continuidad.
+
+
+============================================================
+7. IOT
+============================================================
+
+IoT:
+- Dispositivos conectados que capturan/transmiten datos.
+
+Usos publicos:
+- Smart cities.
+- Sensores ambientales.
+- Edificios inteligentes.
+- Logistica.
+- Salud/servicios sociales con cautelas.
+
+Riesgos:
+- Dispositivos vulnerables.
+- Identidades debiles.
+- Firmware obsoleto.
+- Datos personales/localizacion.
+- Ataques a disponibilidad.
+
+Controles:
+- Inventario.
+- Identidad de dispositivo.
+- Segmentacion.
+- Actualizaciones.
+- Cifrado.
+- Monitorizacion.
+- Ciclo de vida.
+- ENS/RGPD si aplica.
+
+
+============================================================
+8. MDM/UEM Y MOVILIDAD
+============================================================
+
+MDM:
+- Mobile Device Management.
+
+UEM:
+- Unified Endpoint Management.
+
+Funciones:
+- Inventario de dispositivos.
+- Politicas.
+- Cifrado.
+- Borrado remoto.
+- Separacion personal/corporativo.
+- Gestion de apps.
+- Cumplimiento.
+
+En Administracion:
+- BYOD con mucha cautela.
+- Dispositivos corporativos para funciones sensibles.
+- MFA.
+- VPN/ZTNA.
+- DLP.
+
+
+============================================================
+9. CALIDAD Y SLAS DE COMUNICACIONES
+============================================================
+
+Indicadores:
+- Disponibilidad.
+- Latencia.
+- Jitter.
+- Perdida de paquetes.
+- Ancho de banda.
+- Tiempo de reparacion.
+- Tiempo de provision.
+- Cobertura.
+
+En pliegos:
+- Definir medicion.
+- Penalidades.
+- Informes.
+- Redundancia.
+- Escalado.
+- Pruebas.
+
+
+============================================================
+10. SUPUESTO MODELO
+============================================================
+
+Enunciado:
+Un ministerio con 200 sedes quiere renovar su red WAN, incorporar respaldo 5G, videoconferencia segura y conectar sensores IoT en edificios.
+
+Respuesta esperada:
+- Diagnostico de sedes, criticidad, trafico y servicios.
+- Alternativas: MPLS, SD-WAN, Internet seguro, 5G respaldo.
+- Seguridad: segmentacion, cifrado, IAM, monitorizacion.
+- IoT separado y gestionado.
+- MDM/UEM para movilidad.
+- SLAs: disponibilidad, latencia, jitter, reparacion.
+- ENS/RGPD si hay datos personales.
+- Contratacion con reversibilidad y dependencia de operador controlada.
+
+
+============================================================
+11. TEST
+============================================================
+
+1. MPLS conmuta principalmente mediante:
+A. Etiquetas.
+B. Certificados.
+C. SQL.
+D. HTML.
+Respuesta: A.
+
+2. SD-WAN permite:
+A. Gestion centralizada y uso flexible de enlaces WAN.
+B. Sustituir RGPD.
+C. Eliminar cifrado.
+D. Crear expedientes.
+Respuesta: A.
+
+3. GPON se relaciona con:
+A. Redes opticas pasivas.
+B. Bases de datos.
+C. Contratacion.
+D. Formularios.
+Respuesta: A.
+
+4. SIP se usa principalmente para:
+A. Señalizacion de sesiones multimedia/VoIP.
+B. Normalizacion SQL.
+C. Backup.
+D. Accesibilidad web.
+Respuesta: A.
+
+5. IoT en Administracion requiere:
+A. Inventario, segmentacion, actualizaciones, seguridad y privacidad.
+B. Dispositivos sin gestion.
+C. Contraseñas por defecto.
+D. Sin monitorizacion.
+Respuesta: A.
+
+6. En comunicaciones, jitter se refiere a:
+A. Variacion de retardo.
+B. Capacidad legal.
+C. Copia de seguridad.
+D. Codigo HTTP.
+Respuesta: A.

@@ -1,0 +1,1275 @@
+### Test normativo 200 preguntas - Oposiciones TIC AGE
+Fecha de trabajo: 30/04/2026
+
+Uso:
+- Bloque 1: responder 50 preguntas.
+- Corregir.
+- Anotar fallos por norma.
+- Repetir hasta 80%.
+
+Claves:
+1B 2A 3C 4B 5A 6C 7B 8A 9C 10B
+11A 12C 13B 14A 15C 16B 17A 18C 19B 20A
+21C 22B 23A 24C 25B 26A 27C 28B 29A 30C
+31B 32A 33C 34B 35A 36C 37B 38A 39C 40B
+41A 42C 43B 44A 45C 46B 47A 48C 49B 50A
+51B 52A 53C 54B 55A 56C 57B 58A 59C 60B
+61A 62C 63B 64A 65C 66B 67A 68C 69B 70A
+71C 72B 73A 74C 75B 76A 77C 78B 79A 80C
+81B 82A 83C 84B 85A 86C 87B 88A 89C 90B
+91A 92C 93B 94A 95C 96B 97A 98C 99B 100A
+101C 102B 103A 104C 105B 106A 107C 108B 109A 110C
+111B 112A 113C 114B 115A 116C 117B 118A 119C 120B
+121A 122C 123B 124A 125C 126B 127A 128C 129B 130A
+131C 132B 133A 134C 135B 136A 137C 138B 139A 140C
+141B 142A 143C 144B 145A 146C 147B 148A 149C 150B
+151A 152C 153B 154A 155C 156B 157A 158C 159B 160A
+161C 162B 163A 164C 165B 166A 167C 168B 169A 170C
+171B 172A 173C 174B 175A 176C 177B 178A 179C 180B
+181A 182C 183B 184A 185C 186B 187A 188C 189B 190A
+191C 192B 193A 194C 195B 196A 197C 198B 199A 200C
+
+
+============================================================
+LEY 39/2015
+============================================================
+
+1. La Ley 39/2015 regula:
+A. Solo contratos publicos.
+B. Procedimiento administrativo comun.
+C. Solo telecomunicaciones.
+D. Solo empleo publico.
+
+2. Si un plazo se señala por dias, salvo disposicion contraria, se entiende:
+A. En dias habiles.
+B. En dias naturales siempre.
+C. En meses.
+D. En horas.
+
+3. En dias habiles se excluyen:
+A. Solo domingos.
+B. Solo festivos nacionales.
+C. Sabados, domingos y festivos.
+D. Ningun dia.
+
+4. El plazo de subsanacion de una solicitud suele ser:
+A. 3 dias.
+B. 10 dias.
+C. 1 mes.
+D. 6 meses.
+
+5. Si la norma no fija plazo maximo para resolver, el plazo sera:
+A. 3 meses.
+B. 10 dias.
+C. 1 año.
+D. 24 horas.
+
+6. El recurso de alzada contra acto expreso se interpone en:
+A. 10 dias.
+B. 15 dias.
+C. 1 mes.
+D. 3 años.
+
+7. La resolucion de recurso de alzada debe producirse en:
+A. 1 mes.
+B. 3 meses.
+C. 10 dias.
+D. 1 año.
+
+8. El recurso potestativo de reposicion contra acto expreso se interpone en:
+A. 1 mes.
+B. 3 meses.
+C. 10 dias.
+D. 4 años.
+
+9. La notificacion electronica:
+A. Es siempre un email.
+B. No requiere evidencias.
+C. Exige puesta a disposicion, acceso/rechazo y computo de plazos.
+D. No afecta a plazos.
+
+10. El expediente electronico:
+A. Es una carpeta cualquiera.
+B. Debe integrar documentos, indice, metadatos y garantias.
+C. No requiere trazabilidad.
+D. Solo contiene emails.
+
+11. La tramitacion de urgencia:
+A. Reduce plazos a la mitad salvo excepciones.
+B. Elimina todo procedimiento.
+C. Duplica plazos.
+D. Solo aplica a contratos.
+
+12. En procedimientos iniciados a solicitud, el silencio:
+A. Siempre es negativo.
+B. Siempre es positivo.
+C. Depende de regla general y excepciones.
+D. No existe.
+
+13. El interesado tiene derecho a:
+A. Que no se tramite nada.
+B. Conocer estado de tramitacion en los terminos legales.
+C. Evitar identificacion siempre.
+D. Exigir cualquier tecnologia.
+
+14. Estan obligados a relacionarse electronicamente, entre otros:
+A. Personas juridicas.
+B. Todos los ciudadanos sin excepcion.
+C. Menores siempre.
+D. Nadie.
+
+15. El registro electronico debe:
+A. No emitir recibo.
+B. No registrar fecha.
+C. Dar constancia/recibo de presentacion.
+D. Funcionar solo por email.
+
+16. Las copias autenticas:
+A. Son capturas sin control.
+B. Deben cumplir garantias normativas.
+C. No tienen efectos.
+D. Sustituyen RGPD.
+
+17. Los documentos aportados por interesados:
+A. Deben integrarse con garantias en expediente.
+B. Se pierden tras registro.
+C. No requieren metadatos nunca.
+D. No pueden ser electronicos.
+
+18. Un aviso de notificacion:
+A. Sustituye siempre la notificacion.
+B. No puede existir.
+C. No sustituye la notificacion con garantias.
+D. Elimina puesta a disposicion.
+
+19. El computo de plazos requiere:
+A. Solo color de interfaz.
+B. Calendarios, fecha/hora, suspensiones y reglas.
+C. Solo email.
+D. Solo firma manual.
+
+20. En una plataforma de expedientes, Ley 39/2015 obliga a pensar en:
+A. Procedimiento, plazos, interesados, documentos, expediente, notificacion y recursos.
+B. Solo servidores.
+C. Solo redes.
+D. Solo licencias.
+
+
+============================================================
+LEY 40/2015 Y RD 203/2021
+============================================================
+
+21. La Ley 40/2015 regula:
+A. Solo oposiciones.
+B. Solo delitos.
+C. Regimen juridico del sector publico.
+D. Solo propiedad intelectual.
+
+22. La sede electronica:
+A. Es cualquier pagina.
+B. Es direccion electronica con titularidad administrativa para actuaciones.
+C. No tiene titular.
+D. No requiere seguridad.
+
+23. El portal de internet:
+A. Tiene funcion principalmente informativa/acceso.
+B. Siempre sustituye sede.
+C. Es registro.
+D. Es expediente.
+
+24. La actuacion administrativa automatizada:
+A. Elimina responsabilidad.
+B. Prohibe trazabilidad.
+C. Requiere organo responsable y garantias.
+D. Solo se hace en papel.
+
+25. El archivo electronico se relaciona con:
+A. Conservacion y recuperacion de documentos.
+B. Eliminar documentos.
+C. Solo impresoras.
+D. Solo redes.
+
+26. Las Administraciones deben relacionarse entre si:
+A. Por medios electronicos en los terminos legales.
+B. Solo por papel.
+C. Solo por fax.
+D. Sin seguridad.
+
+27. El RD 203/2021 desarrolla:
+A. Solo contratos.
+B. Solo EBEP.
+C. Actuacion y funcionamiento electronico del sector publico.
+D. Solo telecomunicaciones.
+
+28. RD 203/2021 conecta especialmente con:
+A. Solo Codigo Penal.
+B. Ley 39/2015 y Ley 40/2015.
+C. Solo LCSP.
+D. Solo RGPD.
+
+29. En sede electronica, RD 203/2021 ayuda a concretar:
+A. Funcionamiento electronico, identificacion, registro, notificacion y expediente.
+B. Solo nominas.
+C. Solo telefonia.
+D. Solo impuestos.
+
+30. La reutilizacion de sistemas publicos:
+A. Esta siempre prohibida.
+B. No existe.
+C. Puede favorecer eficiencia y evitar duplicidades.
+D. Elimina seguridad.
+
+31. Un sistema de firma/sello de Administracion se vincula con:
+A. Solo diseño.
+B. Identificacion/firma administrativa.
+C. Solo CPD.
+D. Solo DHCP.
+
+32. El intercambio electronico de datos debe garantizar:
+A. Seguridad e interoperabilidad.
+B. Ausencia de logs.
+C. Sin finalidad.
+D. Acceso publico total.
+
+33. La actuacion automatizada debe tener:
+A. Organo responsable y criterios.
+B. Ningun responsable.
+C. Secreto absoluto.
+D. Solo proveedor.
+
+34. El RD 203/2021 es importante en:
+A. Diseño de servicios electronicos publicos.
+B. Solo redes opticas.
+C. Solo contratacion privada.
+D. Solo programacion.
+
+35. En un supuesto de sede, error grave es:
+A. Separar portal y sede.
+B. Integrar registro.
+C. Confundir una web informativa con sede electronica completa.
+D. Usar ENS.
+
+36. Carpeta Ciudadana se relaciona con:
+A. Solo almacenamiento local.
+B. Relacion/consulta ciudadana con Administracion.
+C. DNS.
+D. SQL.
+
+37. El CSV permite:
+A. Verificar documentos electronicos.
+B. Hacer backups.
+C. Configurar VPN.
+D. Contratar.
+
+38. DIR3 ayuda a:
+A. Interoperabilidad organizativa.
+B. Cifrado.
+C. Virtualizacion.
+D. Analitica.
+
+39. SIR se asocia con:
+A. Bases de datos.
+B. Contratos.
+C. Interconexion de registros.
+D. Servidores.
+
+40. PID se asocia con:
+A. Intermediacion/verificacion de datos entre Administraciones.
+B. DNS.
+C. Firewalls.
+D. CSS.
+
+
+============================================================
+ENS / ENI
+============================================================
+
+41. ENS significa:
+A. Esquema Nacional de Seguridad.
+B. Entorno Nuevo Seguro.
+C. Estudio Nacional Software.
+D. Enlace Nodo Servicio.
+
+42. ENI significa:
+A. Equipo Nacional Informatico.
+B. Enlace Nominal Interno.
+C. Esquema Nacional de Interoperabilidad.
+D. Entorno Neutral Internet.
+
+43. Una dimension ENS es:
+A. Color.
+B. Confidencialidad.
+C. Precio.
+D. Marca.
+
+44. Las dimensiones ENS incluyen:
+A. Disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad.
+B. Solo precio.
+C. Solo calidad visual.
+D. Solo contratos.
+
+45. Las categorias ENS son:
+A. Basica, media y alta.
+B. Pequeña, grande y enorme.
+C. Interna y externa.
+D. Publica y privada.
+
+46. La Declaracion de Aplicabilidad:
+A. Formaliza medidas seleccionadas.
+B. Sustituye todo analisis.
+C. No documenta nada.
+D. Es un contrato laboral.
+
+47. Una medida ENS organizativa puede referirse a:
+A. Politica, normativa y procedimientos.
+B. Solo SQL.
+C. Solo fibra.
+D. Solo tipografia.
+
+48. El analisis de riesgos:
+A. Es base de la seguridad proporcionada.
+B. Se evita siempre.
+C. Solo se hace tras incidente.
+D. No afecta medidas.
+
+49. ENI cubre interoperabilidad:
+A. Solo tecnica.
+B. Solo juridica.
+C. Organizativa, semantica y tecnica.
+D. Solo fisica.
+
+50. Las NTI concretan:
+A. Aspectos como documento, expediente, firma, digitalizacion.
+B. Solo vacaciones.
+C. Solo presupuestos.
+D. Solo nominas.
+
+51. Documento electronico ENI exige:
+A. Solo imagen.
+B. Contenido, metadatos, firma/garantias y formato.
+C. Solo email.
+D. Solo papel.
+
+52. Expediente electronico ENI exige:
+A. Indice, documentos, metadatos y garantias.
+B. Solo carpeta.
+C. Solo logs.
+D. Solo contrato.
+
+53. Digitalizacion con validez administrativa:
+A. Requiere requisitos y garantias.
+B. Es cualquier foto.
+C. No requiere calidad.
+D. Sustituye todos los metadatos.
+
+54. Copiado autentico:
+A. No tiene efectos.
+B. Genera copia con garantias de autenticidad.
+C. Es captura de pantalla.
+D. Es backup.
+
+55. Minimo privilegio es:
+A. Solo permisos necesarios.
+B. Todos administradores.
+C. Sin permisos.
+D. Usuarios anonimos.
+
+56. Registro de actividad ENS sirve para:
+A. Trazabilidad y auditoria.
+B. Publicidad indiscriminada.
+C. Eliminar control.
+D. Decoracion.
+
+57. Continuidad ENS se relaciona con:
+A. RTO/RPO, backup, recuperacion.
+B. Solo colores.
+C. Solo nominas.
+D. Solo Java.
+
+58. La vigilancia continua implica:
+A. Monitorizacion y revision permanente.
+B. No mirar logs.
+C. Esperar auditoria anual exclusivamente.
+D. Quitar alertas.
+
+59. Interoperabilidad semantica implica:
+A. Significado comun de datos.
+B. Solo cableado.
+C. Solo firewall.
+D. Solo almacenamiento.
+
+60. Error frecuente:
+A. Tratar ENI como solo API.
+B. Citar NTI.
+C. Usar metadatos.
+D. Hablar de expediente.
+
+
+============================================================
+RGPD / LOPDGDD
+============================================================
+
+61. RGPD exige:
+A. Licitud, lealtad, transparencia y otros principios.
+B. Recoger todo.
+C. Publicar todo.
+D. Eliminar derechos.
+
+62. Minimizacion significa:
+A. Menos servidores.
+B. Menos contratos.
+C. Solo datos necesarios.
+D. Mas logs personales.
+
+63. Responsable del tratamiento es:
+A. Quien decide fines y medios.
+B. Siempre proveedor.
+C. Siempre ciudadano.
+D. Siempre DPD.
+
+64. Encargado del tratamiento:
+A. Trata datos por cuenta del responsable.
+B. Decide siempre finalidad propia.
+C. Es el interesado.
+D. Es tribunal.
+
+65. DPD:
+A. Asesora/supervisa proteccion de datos.
+B. Compila codigo.
+C. Configura DNS siempre.
+D. Firma contratos publicos.
+
+66. EIPD:
+A. Evaluacion de impacto en proteccion de datos.
+B. Expediente interno.
+C. Esquema interoperable.
+D. Error de programa.
+
+67. Una brecha de datos:
+A. Debe documentarse y evaluarse.
+B. Siempre se ignora.
+C. Nunca se notifica.
+D. No afecta derechos.
+
+68. En Administracion, consentimiento:
+A. Puede no ser base adecuada para potestades publicas.
+B. Siempre es unico.
+C. Sustituye ley.
+D. Elimina transparencia.
+
+69. Base habitual en ayudas publicas:
+A. Obligacion legal o interes publico/poderes publicos.
+B. Interes comercial.
+C. Ninguna.
+D. Solo contrato privado.
+
+70. Categorias especiales requieren:
+A. Cautelas reforzadas.
+B. Menos seguridad.
+C. Publicacion.
+D. Sin base juridica.
+
+71. Seudonimizacion:
+A. No equivale necesariamente a anonimizacion.
+B. Elimina RGPD siempre.
+C. Es firewall.
+D. Es contrato.
+
+72. Datos abiertos:
+A. No deben publicar datos personales reidentificables sin base/garantias.
+B. Publican todo.
+C. No requieren metadatos.
+D. Sustituyen RGPD.
+
+73. IA con datos personales exige:
+A. Finalidad, base juridica, calidad, sesgos, supervision, EIPD si procede.
+B. Opacidad.
+C. Sin auditoria.
+D. Decision irrecurrible.
+
+74. Derechos RGPD incluyen:
+A. Acceso y rectificacion.
+B. Compilacion.
+C. Routing.
+D. Backup.
+
+75. Encargo de tratamiento se usa cuando:
+A. Proveedor trata datos por cuenta del responsable.
+B. Ciudadano pide cita.
+C. Se compra monitor.
+D. No hay datos.
+
+76. Registro de actividades:
+A. Documenta tratamientos.
+B. Es DNS.
+C. Es solo inventario hardware.
+D. Es VPN.
+
+77. Privacidad desde el diseño:
+A. Incorporar proteccion de datos desde concepcion.
+B. Añadir aviso al final.
+C. Ignorar minimizacion.
+D. Publicar logs.
+
+78. Limitacion de finalidad:
+A. Usar datos para fines determinados.
+B. Uso ilimitado.
+C. Reutilizar siempre.
+D. No informar.
+
+79. Exactitud:
+A. Datos correctos y actualizados.
+B. Datos opacos.
+C. Datos duplicados.
+D. Datos sin control.
+
+80. Responsabilidad proactiva:
+A. Poder demostrar cumplimiento.
+B. No documentar.
+C. No auditar.
+D. No responder derechos.
+
+
+============================================================
+LCSP / CONTRATACION TIC
+============================================================
+
+81. LCSP regula:
+A. Contratos del sector publico.
+B. Solo RGPD.
+C. Solo telecomunicaciones.
+D. Solo ENS.
+
+82. PPT contiene:
+A. Prescripciones tecnicas.
+B. Solo firmas.
+C. Solo nominas.
+D. Solo expedientes.
+
+83. PCAP contiene:
+A. Clausulas administrativas particulares.
+B. Solo SQL.
+C. Solo DNS.
+D. Solo logs.
+
+84. Reversibilidad:
+A. Recuperar/transferir control del servicio al finalizar/cambiar proveedor.
+B. Bloquear Administracion.
+C. Eliminar datos.
+D. Evitar documentacion.
+
+85. SLA debe ser:
+A. Medible y verificable.
+B. Secreto.
+C. Ambiguo.
+D. Inexistente.
+
+86. Un criterio de adjudicacion debe:
+A. Estar vinculado al objeto.
+B. Ser arbitrario.
+C. Definirse despues.
+D. Ser oculto.
+
+87. En contrato con datos personales:
+A. Puede requerirse encargo de tratamiento.
+B. Se elimina RGPD.
+C. No hay confidencialidad.
+D. No hay seguridad.
+
+88. Un PPT TIC robusto incluye:
+A. ENS, RGPD, ENI, accesibilidad, pruebas, SLAs y reversibilidad.
+B. Solo precio.
+C. Solo marca.
+D. Solo color.
+
+89. Transferencia de conocimiento:
+A. Reduce dependencia del proveedor.
+B. Es innecesaria.
+C. Impide documentacion.
+D. Sustituye SLAs.
+
+90. Penalidades:
+A. Deben vincularse a incumplimientos definidos.
+B. Son arbitrarias.
+C. No pueden existir.
+D. Sustituyen pruebas.
+
+91. Subcontratacion:
+A. Debe controlarse segun contrato y normativa.
+B. Elimina responsabilidad.
+C. Elimina RGPD.
+D. No importa.
+
+92. Propiedad intelectual/licencias:
+A. Deben regularse.
+B. Nunca importan.
+C. Sustituyen seguridad.
+D. Son solo diseño.
+
+93. Aceptacion de entregables:
+A. Debe basarse en pruebas y conformidad.
+B. Es automatica siempre.
+C. No requiere documentacion.
+D. No existe.
+
+94. Contrato TIC critico:
+A. Debe incluir continuidad y soporte.
+B. Solo precio.
+C. Sin SLAs.
+D. Sin seguridad.
+
+95. "Cumplir normativa vigente" sin concretar:
+A. Es debil si no se traduce a obligaciones verificables.
+B. Siempre basta.
+C. Sustituye auditoria.
+D. Elimina riesgos.
+
+96. Auditoria contractual revisa:
+A. SLAs, entregables, seguridad, reversibilidad.
+B. Solo colores.
+C. Solo nombre proveedor.
+D. Nada.
+
+97. Criterios de solvencia:
+A. Deben estar relacionados/proporcionados al objeto.
+B. Son secretos.
+C. Se improvisan.
+D. Sustituyen adjudicacion.
+
+98. Precio:
+A. No deberia ser el unico factor en servicios TIC complejos.
+B. Siempre debe ser unico.
+C. Sustituye calidad.
+D. Elimina seguridad.
+
+99. Plan de salida:
+A. Forma parte de reversibilidad.
+B. Es innecesario.
+C. Se define despues de terminar.
+D. Es solo backup.
+
+100. En licitacion TIC publica:
+A. Debe mantenerse control por la Administracion.
+B. El proveedor decide todo.
+C. No hay seguimiento.
+D. No hay responsables.
+
+
+============================================================
+CONSTITUCION / EBEP / GOBERNANZA
+============================================================
+
+101. Art. 18.4 CE se relaciona con:
+A. Contratacion.
+B. Redes.
+C. Limitacion del uso de informatica para garantizar derechos.
+D. Vacaciones.
+
+102. Art. 103 CE:
+A. Administracion sirve intereses generales con objetividad.
+B. Solo habla de DNS.
+C. Solo habla de Java.
+D. No afecta a TIC.
+
+103. Acceso al empleo publico:
+A. Igualdad, merito y capacidad.
+B. Sorteo.
+C. Precio.
+D. Recomendacion.
+
+104. TREBEP regula:
+A. Solo telecomunicaciones.
+B. Solo contratos.
+C. Estatuto basico del empleado publico.
+D. Solo RGPD.
+
+105. Funcionarios de carrera tienen:
+A. Relacion estatutaria de Derecho Administrativo.
+B. Contrato mercantil.
+C. Sin nombramiento.
+D. Relacion anonima.
+
+106. Codigo de conducta incluye:
+A. Objetividad, integridad, neutralidad y responsabilidad.
+B. Arbitrariedad.
+C. Opacidad.
+D. Favoritismo.
+
+107. RD 1125/2024:
+A. Regula gobernanza TIC/Administracion Digital del Estado.
+B. Regula solo CPD.
+C. Deroga Ley 39.
+D. Sustituye RGPD.
+
+108. RD 806/2014:
+A. Sigue plenamente vigente como norma principal.
+B. Fue derogado por RD 1125/2024.
+C. Es RGPD.
+D. Es LCSP.
+
+109. CETIC:
+A. Organo colegiado superior de estrategia TIC.
+B. Protocolo red.
+C. Base datos.
+D. Firma.
+
+110. CMAD:
+A. Comision Ministerial de Administracion Digital.
+B. DNS avanzado.
+C. SQL.
+D. Antivirus.
+
+111. Agencia Estatal de Administracion Digital:
+A. Tiene papel central en servicios digitales comunes/transversales.
+B. Es un proveedor privado.
+C. Es un lenguaje.
+D. Es una VPN.
+
+112. Estrategia TIC:
+A. Orienta objetivos, principios y acciones de transformacion digital.
+B. Es solo backup.
+C. Es solo UX.
+D. Es solo telefonia.
+
+113. Servicios comunes/transversales:
+A. Evitan duplicidades y favorecen reutilizacion.
+B. Siempre prohibidos.
+C. No existen.
+D. Eliminan ENS.
+
+114. Unidad TIC:
+A. No es solo soporte; impulsa transformacion, seguridad, desarrollo y administracion digital.
+B. Solo cambia monitores.
+C. No participa.
+D. No tiene responsabilidad.
+
+115. Directivo TIC A1 debe:
+A. Integrar estrategia, normativa, tecnologia, riesgos, contratacion e impacto.
+B. Solo programar.
+C. Solo comprar.
+D. Solo hacer soporte.
+
+116. ITIL:
+A. Gestion de servicios TIC.
+B. Derecho civil.
+C. SQL.
+D. LTE.
+
+117. COBIT:
+A. Gobierno y control TIC.
+B. CSS.
+C. DNS.
+D. DHCP.
+
+118. Incidencia:
+A. Interrupcion/degradacion de servicio.
+B. Causa raiz necesariamente.
+C. Contrato.
+D. Registro.
+
+119. Problema:
+A. Causa subyacente de incidencias.
+B. Siempre llamada.
+C. Sede.
+D. Recurso.
+
+120. Cambio:
+A. Modificacion controlada de sistema/servicio.
+B. Plazo legal.
+C. Articulo CE.
+D. CSV.
+
+
+============================================================
+ACCESIBILIDAD / TELECOM / AUDITORIA
+============================================================
+
+121. RD 1112/2018 regula:
+A. Accesibilidad de sitios web y apps moviles del sector publico.
+B. Solo contratos.
+C. Solo ENS.
+D. Solo Java.
+
+122. POUR significa:
+A. Perceptible, Operable, Comprensible, Robusto.
+B. Publico, Oficial, Unico, Rapido.
+C. Portal, Organismo, Usuario, Registro.
+D. Ninguna.
+
+123. Accesibilidad:
+A. Es obligacion/garantia de igualdad, no solo estetica.
+B. Es opcional siempre.
+C. Sustituye RGPD.
+D. Es solo color.
+
+124. Test automatico de accesibilidad:
+A. No garantiza por si solo accesibilidad completa.
+B. Es suficiente siempre.
+C. Sustituye usuarios.
+D. No sirve nunca.
+
+125. Ley 11/2022 regula:
+A. Telecomunicaciones.
+B. Solo oposiciones.
+C. Solo EBEP.
+D. Solo ENI.
+
+126. Telecomunicaciones son:
+A. Servicios de interes general segun marco legal.
+B. Solo hobby.
+C. Solo redes privadas sin regulacion.
+D. No afectan al sector publico.
+
+127. CNMC en telecom:
+A. Supervisa mercados, obligaciones, calidad, portabilidad, conflictos.
+B. Programa Java.
+C. Gestiona expedientes internos TIC.
+D. Emite certificados personales.
+
+128. Auditoria informatica:
+A. Revision sistematica basada en evidencias.
+B. Opinion informal.
+C. Solo instalar antivirus.
+D. Solo diseño.
+
+129. Hallazgo de auditoria debe incluir:
+A. Condicion, criterio, causa, efecto y recomendacion.
+B. Solo queja.
+C. Solo marca.
+D. Solo precio.
+
+130. Auditoria ENS revisa:
+A. Categoria, riesgos, declaracion de aplicabilidad, medidas y roles.
+B. Solo color web.
+C. Solo nominas.
+D. Solo Java.
+
+
+============================================================
+MIX NORMATIVO
+============================================================
+
+131. En sede electronica, normas clave:
+A. Ley 39/40, RD203, ENS, ENI, RGPD si datos.
+B. Solo HTML.
+C. Solo LCSP.
+D. Solo DNS.
+
+132. En ciberincidente con datos personales:
+A. ENS y RGPD/LOPDGDD.
+B. Solo CSS.
+C. Solo EBEP.
+D. Solo ENI.
+
+133. En licitacion de SaaS:
+A. LCSP, ENS, RGPD, SLAs, reversibilidad.
+B. Solo precio.
+C. Solo RGPD.
+D. Solo Java.
+
+134. En plataforma de datos:
+A. RGPD, ENS, ENI, gobierno del dato y reutilizacion si datos abiertos.
+B. Solo VPN.
+C. Solo CPD.
+D. Solo LCSP.
+
+135. En app movil publica:
+A. RD 1112/2018, RGPD, ENS, accesibilidad y seguridad movil.
+B. Solo colores.
+C. Solo redes.
+D. Solo SQL.
+
+136. En notificaciones:
+A. Ley 39/2015, RD203, evidencias y plazos.
+B. Solo email.
+C. Solo telefono.
+D. Solo DNS.
+
+137. En documento electronico:
+A. Ley 39, ENI/NTI, firma/metadatos/integridad.
+B. Solo carpeta.
+C. Solo Word.
+D. Solo proveedor.
+
+138. En automatizacion administrativa:
+A. Ley 40, RD203, organo responsable, sello/firma y trazabilidad.
+B. Ninguna responsabilidad.
+C. Sin logs.
+D. Solo IA.
+
+139. En IA publica:
+A. RGPD, ENS, procedimiento, supervision humana, explicabilidad.
+B. Opacidad.
+C. Sin base juridica.
+D. Sin auditoria.
+
+140. En cloud publico:
+A. ENS, RGPD, LCSP, reversibilidad, SLAs, seguridad.
+B. Solo escalabilidad.
+C. Solo precio.
+D. Solo marca.
+
+141. En datos abiertos:
+A. Reutilizacion, metadatos, formatos y anonimización si procede.
+B. Publicar todo.
+C. Sin calidad.
+D. Sin licencia.
+
+142. En CPD critico:
+A. ENS, continuidad, seguridad fisica, backup, RTO/RPO.
+B. Solo pintura.
+C. Solo Java.
+D. Solo notificaciones.
+
+143. En redes WAN:
+A. SLAs, seguridad, disponibilidad, regulacion telecom si procede.
+B. Solo UX.
+C. Solo EBEP.
+D. Solo PDFs.
+
+144. En CAU:
+A. ITIL, SLAs, incidencias, problemas, cambios, satisfaccion.
+B. Solo contratos.
+C. Solo datos abiertos.
+D. Solo RGPD.
+
+145. En auditoria de contrato TIC:
+A. LCSP, PPT, SLAs, entregables, seguridad, reversibilidad.
+B. Solo color.
+C. Solo DNS.
+D. Solo firma.
+
+146. En accesibilidad:
+A. RD1112/2018, WCAG/POUR, pruebas manuales y automaticas.
+B. Solo marketing.
+C. Solo backup.
+D. Solo SQL.
+
+147. En interoperabilidad:
+A. ENI, NTI, organizativa, semantica, tecnica.
+B. Solo API.
+C. Solo JSON.
+D. Solo cable.
+
+148. En proteccion de datos por proveedor:
+A. Encargo de tratamiento, instrucciones, medidas, subencargados.
+B. Sin contrato.
+C. Sin confidencialidad.
+D. Sin derechos.
+
+149. En expediente con discapacidad:
+A. Datos potencialmente especiales, minimizacion y controles reforzados.
+B. Publicacion libre.
+C. Sin RGPD.
+D. Sin seguridad.
+
+150. En registro electronico:
+A. Fecha/hora, asiento, recibo, documentos, organo destinatario.
+B. Solo email.
+C. Solo llamada.
+D. Solo Excel.
+
+
+============================================================
+PREGUNTAS FINALES DE CRITERIO
+============================================================
+
+151. Respuesta solo tecnica sin normativa:
+A. Es insuficiente en A1/A2.
+B. Siempre perfecta.
+C. Sustituye tribunal.
+D. No penaliza.
+
+152. En A1, gobernanza significa:
+A. Solo organigrama.
+B. Solo servidores.
+C. Estrategia, responsabilidades, decisiones, riesgos, recursos, indicadores.
+D. Solo desarrollo.
+
+153. En A2, supuesto practico exige:
+A. Normativa aplicada y solucion tecnica operable.
+B. Solo definiciones.
+C. Solo memoria.
+D. Solo opinion.
+
+154. En C1, test exige:
+A. Soltura conceptual y tecnica.
+B. Solo desarrollo oral.
+C. Solo estrategia.
+D. Solo pliegos.
+
+155. Si un supuesto habla de ciudadanos:
+A. Pensar en interesado, derechos, accesibilidad, datos, procedimiento.
+B. Pensar solo en frontend.
+C. Ignorar normativa.
+D. Solo marketing.
+
+156. Si habla de datos:
+A. Pensar en finalidad, base juridica, calidad, seguridad, acceso, conservacion.
+B. Solo dashboard.
+C. Solo SQL.
+D. Solo exportar.
+
+157. Si habla de proveedor:
+A. Pensar en contrato, SLAs, seguridad, datos, transferencia y reversibilidad.
+B. Dejar todo al proveedor.
+C. No auditar.
+D. No documentar.
+
+158. Si habla de servicio critico:
+A. Pensar en disponibilidad, continuidad, RTO/RPO, monitorizacion.
+B. Solo color.
+C. Solo precio.
+D. Solo UX.
+
+159. Si habla de documentos:
+A. Pensar en ENI/NTI, expediente, metadatos, firma, archivo.
+B. Solo PDFs.
+C. Solo carpetas.
+D. Solo email.
+
+160. Si habla de seguridad:
+A. Pensar en ENS, riesgos, medidas, logs, continuidad, incidentes.
+B. Solo antivirus.
+C. Solo firewall.
+D. Solo contraseñas.
+
+161. Si habla de IA:
+A. Pensar en base juridica, datos, sesgos, explicabilidad, supervision.
+B. Solo algoritmo.
+C. Solo GPU.
+D. Solo automatizar.
+
+162. Si habla de cloud:
+A. Pensar en ENS/RGPD/SLAs/reversibilidad/portabilidad.
+B. Solo ahorro.
+C. Solo escalado.
+D. Solo marca.
+
+163. Si habla de red:
+A. Pensar en segmentacion, cifrado, disponibilidad, SLAs, monitorizacion.
+B. Solo cable.
+C. Solo IP.
+D. Solo wifi.
+
+164. Si habla de app movil:
+A. Pensar en accesibilidad, seguridad movil, datos, notificaciones push.
+B. Solo iconos.
+C. Solo tienda.
+D. Solo colores.
+
+165. Si habla de plazos:
+A. Pensar en Ley 39, calendario, notificacion, silencio, recursos.
+B. Solo SLA tecnico.
+C. Solo agenda.
+D. Solo email.
+
+166. Si habla de automatizacion:
+A. Pensar en Ley 40, organo responsable, criterios, trazabilidad, revision.
+B. Eliminar humanos siempre.
+C. Sin responsabilidad.
+D. Sin logs.
+
+167. Si habla de datos abiertos:
+A. Pensar en reutilizacion, anonimización, metadatos, calidad, licencia.
+B. Publicar todo.
+C. Sin privacidad.
+D. Sin formatos.
+
+168. Si habla de auditoria:
+A. Pensar en evidencias, alcance, criterios, hallazgos, recomendaciones.
+B. Solo opinion.
+C. Solo reunion.
+D. Solo capturas.
+
+169. Si habla de accesibilidad:
+A. Pensar en RD1112, WCAG, pruebas, declaracion, canal, correccion.
+B. Solo diseño.
+C. Solo SEO.
+D. Solo CSS.
+
+170. Si habla de gobierno TIC:
+A. Pensar en RD1125, CETIC, Agencia, CMAD, estrategia, servicios comunes.
+B. Pensar en RD806 como vigente.
+C. Solo firewall.
+D. Solo soporte.
+
+171. Si habla de calidad:
+A. Pensar en pruebas, criterios aceptacion, defectos, indicadores, mejora.
+B. Solo opinion.
+C. Solo marca.
+D. Solo coste.
+
+172. Si habla de incidencia:
+A. Restaurar servicio y registrar.
+B. Ignorar.
+C. Cambiar sin control.
+D. Culpar usuario.
+
+173. Si habla de problema:
+A. Buscar causa raiz.
+B. Solo reiniciar.
+C. Cerrar sin analisis.
+D. No registrar.
+
+174. Si habla de cambio:
+A. Evaluar impacto, aprobar, probar, desplegar y documentar.
+B. Directo en produccion.
+C. Sin rollback.
+D. Sin informar.
+
+175. Si habla de backup:
+A. Politica, retencion, pruebas, RTO/RPO.
+B. Copia sin probar.
+C. Solo snapshot local.
+D. Nada.
+
+176. Si habla de logs:
+A. Trazabilidad, proteccion, minimizacion, conservacion.
+B. Guardar todo publicamente.
+C. Borrar siempre.
+D. No tener.
+
+177. Si habla de identidad:
+A. IAM, MFA, RBAC/ABAC, ciclo alta/baja.
+B. Usuarios compartidos.
+C. Password unico.
+D. Sin auditoria.
+
+178. Si habla de arquitectura:
+A. Capas, integraciones, seguridad, datos, operacion, escalabilidad.
+B. Solo diagrama bonito.
+C. Solo marca.
+D. Solo lenguaje.
+
+179. Si habla de compra TIC:
+A. Necesidad, alternativas, PPT, criterios, SLAs, reversibilidad.
+B. Solo comprar rapido.
+C. Solo proveedor conocido.
+D. Sin competencia.
+
+180. Si habla de presupuesto TIC:
+A. Alinearlo con estrategia, prioridades, riesgos y valor publico.
+B. Gastar por gastar.
+C. Solo precio bajo.
+D. Sin indicadores.
+
+181. Si habla de usuario interno:
+A. Empleado publico, permisos, formacion, soporte, cambio.
+B. Cliente privado.
+C. Sin control.
+D. Solo contraseña.
+
+182. Si habla de ciudadano:
+A. Accesibilidad, derechos, simplicidad, no pedir datos disponibles.
+B. Solo marketing.
+C. Sin datos.
+D. Sin procedimiento.
+
+183. Si habla de expediente:
+A. Procedimiento, documentos, indice, metadatos, estado, archivo.
+B. Carpeta local.
+C. Correo.
+D. Chat.
+
+184. Si habla de firma:
+A. Identidad, autenticidad, integridad, politica de firma.
+B. Solo imagen.
+C. Solo contraseña.
+D. Solo nombre.
+
+185. Si habla de CSV:
+A. Verificacion de documento electronico.
+B. Formato hoja de calculo siempre.
+C. VPN.
+D. DNS.
+
+186. Si habla de SIR:
+A. Interconexion de registros.
+B. Seguridad IA.
+C. SQL.
+D. CPD.
+
+187. Si habla de DIR3:
+A. Directorio comun de unidades/oficinas.
+B. Firewall.
+C. Backup.
+D. Red movil.
+
+188. Si habla de DEHú:
+A. Notificaciones electronicas.
+B. DNS.
+C. Desarrollo.
+D. Telefonia.
+
+189. Si habla de Cl@ve:
+A. Identificacion/autenticacion.
+B. Backup.
+C. SQL.
+D. Contrato.
+
+190. Si habla de PID:
+A. Intermediacion de datos.
+B. Routing.
+C. Control versiones.
+D. OCR.
+
+191. Si habla de MLOps:
+A. Gestion ciclo de vida de modelos en produccion.
+B. Gestion de impresoras.
+C. Firma electronica.
+D. Registro.
+
+192. Si habla de data mesh:
+A. Dominios gestionan datos como producto.
+B. Solo fibra.
+C. Solo firewall.
+D. Solo contrato.
+
+193. Si habla de PET:
+A. Tecnologias de mejora de privacidad.
+B. Tipo de expediente.
+C. Protocolo postal.
+D. Base de datos.
+
+194. Si habla de IoT:
+A. Inventario, seguridad dispositivo, segmentacion, actualizacion, privacidad.
+B. Dispositivos sin control.
+C. Sin red.
+D. Sin ciclo de vida.
+
+195. Si habla de MDM/UEM:
+A. Gestion de dispositivos moviles/endpoints.
+B. Solo SQL.
+C. Solo notificaciones.
+D. Solo auditoria.
+
+196. Si habla de VoIP:
+A. Voz sobre IP, calidad, seguridad, continuidad.
+B. Solo RGPD.
+C. Solo Java.
+D. Solo LCSP.
+
+197. Si habla de SD-WAN:
+A. Gestion flexible/centralizada de WAN.
+B. Sede electronica.
+C. Expediente.
+D. Archivo.
+
+198. Si habla de GPON:
+A. Red optica pasiva.
+B. Base juridica.
+C. DPD.
+D. DevSecOps.
+
+199. Si habla de RD1112:
+A. Accesibilidad web/app movil del sector publico.
+B. ENS.
+C. LCSP.
+D. Ley 39.
+
+200. Si habla de BOE/INAP:
+A. Fuentes primarias para convocatoria/temario.
+B. Fuentes decorativas.
+C. Sustituidas por opiniones.
+D. No revisar nunca.

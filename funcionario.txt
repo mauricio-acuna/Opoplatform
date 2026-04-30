@@ -1108,6 +1108,32 @@ Contiene:
 - Riesgos de IA publica.
 - PET, datos abiertos, supuesto modelo y test.
 
+49. fichas_redes_avanzadas_teleco.txt
+Contiene:
+- Ley 11/2022 General de Telecomunicaciones y CNMC.
+- MPLS, SD-WAN, GPON/FTTH, 4G/5G.
+- VoIP, SIP, videoconferencia.
+- IoT, MDM/UEM, calidad y SLAs de comunicaciones.
+- Supuesto modelo y test.
+
+50. fichas_accesibilidad_web_movil.txt
+Contiene:
+- RD 1112/2018.
+- Principios WCAG/POUR.
+- Problemas frecuentes.
+- Accesibilidad en sede electronica.
+- Pruebas, declaracion, gobierno, supuesto y test.
+
+51. test_normativa_200.txt
+Contiene:
+- 200 preguntas normativas.
+- Ley 39/2015.
+- Ley 40/2015 y RD 203/2021.
+- ENS/ENI.
+- RGPD/LOPDGDD.
+- LCSP/contratacion.
+- Constitucion, EBEP, gobernanza, accesibilidad, telecomunicaciones y auditoria.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

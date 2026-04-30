@@ -1,0 +1,204 @@
+### Accesibilidad web y movil en el sector publico
+Fecha de trabajo: 30/04/2026
+
+Fuente:
+- RD 1112/2018: https://boe.es/buscar/act.php?id=BOE-A-2018-12699
+
+Objetivo:
+Cubrir accesibilidad de sitios web y aplicaciones moviles publicas con enfoque de examen y supuesto.
+
+
+============================================================
+1. IDEA FUERZA
+============================================================
+
+La accesibilidad no es estetica ni "mejora UX"; es una obligacion del sector publico y una garantia de igualdad en el acceso a servicios digitales.
+
+Frase de examen:
+"La solucion debera cumplir los requisitos de accesibilidad aplicables a sitios web y aplicaciones moviles del sector publico, integrando accesibilidad desde el diseño, verificaciones, correccion de incumplimientos y publicacion de declaracion de accesibilidad cuando proceda."
+
+
+============================================================
+2. RD 1112/2018
+============================================================
+
+Objeto:
+- Garantizar requisitos de accesibilidad de sitios web y aplicaciones moviles del sector publico.
+
+Aplica a:
+- Sitios web.
+- Apps moviles.
+- Contenidos y documentos incluidos segun ambito.
+
+Relacion:
+- Directiva UE 2016/2102.
+- Estandares europeos y criterios tecnicos de accesibilidad.
+- WCAG como referencia tecnica habitual.
+
+
+============================================================
+3. PRINCIPIOS WCAG
+============================================================
+
+POUR:
+- Perceptible.
+- Operable.
+- Comprensible.
+- Robusto.
+
+Perceptible:
+- Alternativas textuales.
+- Subtitulos/transcripciones.
+- Contraste.
+- Estructura.
+
+Operable:
+- Teclado.
+- Tiempo suficiente.
+- Evitar contenido que provoque crisis.
+- Navegacion clara.
+
+Comprensible:
+- Lenguaje claro.
+- Consistencia.
+- Ayuda ante errores.
+
+Robusto:
+- Compatible con tecnologias de asistencia.
+- HTML semantico.
+- Validacion.
+
+
+============================================================
+4. PROBLEMAS FRECUENTES
+============================================================
+
+- Formularios sin etiquetas.
+- Errores no descriptivos.
+- Captchas inaccesibles.
+- PDFs escaneados sin OCR/estructura.
+- Bajo contraste.
+- Navegacion imposible con teclado.
+- Imagenes sin texto alternativo.
+- Tablas mal marcadas.
+- Componentes dinamicos sin roles/estado.
+- Apps moviles sin soporte lector pantalla.
+
+
+============================================================
+5. ACCESIBILIDAD EN SEDE ELECTRONICA
+============================================================
+
+Critico:
+- Identificacion.
+- Formularios.
+- Firma.
+- Registro.
+- Pago si existe.
+- Notificaciones.
+- Consulta expediente.
+- Descarga de documentos.
+
+Riesgo juridico:
+Si un ciudadano no puede acceder o presentar por barreras digitales, se afecta igualdad y eficacia del procedimiento.
+
+
+============================================================
+6. PRUEBAS DE ACCESIBILIDAD
+============================================================
+
+Tipos:
+- Automaticas.
+- Manuales.
+- Con teclado.
+- Con lector de pantalla.
+- Revision de documentos.
+- Pruebas con usuarios.
+
+Herramientas:
+- Validadores automaticos.
+- Navegador/inspector.
+- Lectores de pantalla.
+- Checklist WCAG.
+
+Trampa:
+Un test automatico no garantiza accesibilidad completa.
+
+
+============================================================
+7. DECLARACION Y GOBIERNO
+============================================================
+
+Debe contemplarse:
+- Responsable.
+- Declaracion de accesibilidad.
+- Canal de comunicacion de incumplimientos.
+- Revision periodica.
+- Correccion.
+- Formacion a equipos.
+- Accesibilidad en pliegos.
+
+En contratos:
+- Exigir cumplimiento.
+- Pruebas.
+- Evidencias.
+- Correccion de defectos.
+- Penalizaciones si procede.
+
+
+============================================================
+8. SUPUESTO MODELO
+============================================================
+
+Enunciado:
+La sede electronica tiene quejas porque usuarios con lector de pantalla no pueden presentar solicitudes y los PDFs de resolucion no son accesibles.
+
+Respuesta esperada:
+- Auditoria de accesibilidad web/app/documentos.
+- Priorizacion de procesos criticos.
+- Correccion formularios, etiquetas, errores, teclado, contraste.
+- PDFs accesibles y plantillas.
+- Pruebas manuales y con usuarios.
+- Declaracion de accesibilidad.
+- Incluir accesibilidad en ciclo de vida y pliegos.
+- Indicadores y seguimiento.
+
+
+============================================================
+9. TEST
+============================================================
+
+1. POUR significa:
+A. Perceptible, Operable, Comprensible y Robusto.
+B. Privado, Oficial, Unico, Rapido.
+C. Portatil, Optico, Universal, Remoto.
+D. Protocolo, Objeto, Usuario, Red.
+Respuesta: A.
+
+2. La accesibilidad en sector publico:
+A. Es obligacion y garantia de igualdad, no solo estetica.
+B. Es opcional siempre.
+C. Sustituye ENS.
+D. Solo afecta a colores.
+Respuesta: A.
+
+3. Un test automatico:
+A. No garantiza por si solo accesibilidad completa.
+B. Sustituye pruebas manuales siempre.
+C. Elimina necesidad de teclado.
+D. No detecta nada.
+Respuesta: A.
+
+4. En formularios accesibles son importantes:
+A. Etiquetas, errores comprensibles y navegacion por teclado.
+B. Solo animaciones.
+C. Solo PDFs escaneados.
+D. Solo color.
+Respuesta: A.
+
+5. La accesibilidad debe estar:
+A. En diseño, desarrollo, pruebas, documentos, pliegos y mantenimiento.
+B. Solo al final si sobra tiempo.
+C. Solo en marketing.
+D. Solo en bases de datos.
+Respuesta: A.

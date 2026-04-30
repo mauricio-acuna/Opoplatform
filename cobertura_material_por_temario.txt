@@ -65,8 +65,8 @@ Supuestos:
 Constitucion/TREBEP:
 - fichas_constitucion_ebep.txt
 - banco_test_inicial_100.txt
+- test_normativa_200.txt
 Falta:
-- Test especifico ampliado.
 - Tabla de articulos constitucionales y relacion TIC.
 - Igualdad, transparencia y administracion abierta mas desarrollado.
 
@@ -115,12 +115,12 @@ Falta:
 - Ficha especifica de auditoria informatica, auditoria ENS y proteccion de datos.
 
 Redes avanzadas:
-- Parcial en fichas_redes_detalladas.
+- Cubierto en fichas_redes_detalladas y fichas_redes_avanzadas_teleco.
 Falta:
-- GPON/FTTH, LTE/5G, MPLS, SD-WAN, NGN/IMS, VoIP, videoconferencia.
+- NGN/IMS mas detallado si se requiere.
 
 Telecomunicaciones/normativa CNMC:
-- Pendiente.
+- Cubierto de forma inicial en fichas_redes_avanzadas_teleco y fuentes_actualizadas_2026.
 
 Blockchain/EBSI:
 - Pendiente.

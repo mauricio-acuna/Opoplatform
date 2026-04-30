@@ -40,16 +40,19 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 
 - `fichas_tecnicas_nucleo_tic.txt`
 - `fichas_redes_detalladas.txt`
+- `fichas_redes_avanzadas_teleco.txt`
 - `fichas_sistemas_cloud_detalladas.txt`
 - `fichas_bases_datos_sql.txt`
 - `fichas_desarrollo_web_apis.txt`
 - `fichas_java_jakarta_dotnet.txt`
 - `fichas_datos_ia_avanzado.txt`
+- `fichas_accesibilidad_web_movil.txt`
 
 ## Practica
 
 - `banco_test_inicial_100.txt`
 - `test_tecnico_100.txt`
+- `test_normativa_200.txt`
 - `banco_supuestos_a1_a2.txt`
 - `banco_supuestos_30.txt`
 - `casos_ens_rgpd.txt`

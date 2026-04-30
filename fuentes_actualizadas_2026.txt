@@ -224,6 +224,51 @@ Relevancia TIC:
 - Informacion presupuestaria TIC.
 
 
+## Ley 11/2022 - General de Telecomunicaciones
+
+Fuente:
+- BOE-A-2022-10757
+- Ley 11/2022, de 28 de junio, General de Telecomunicaciones.
+- URL: https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10757
+- Texto consolidado PDF: https://www.boe.es/buscar/pdf/2022/BOE-A-2022-10757-consolidado.pdf
+
+Relevancia TIC:
+- Telecomunicaciones como servicios de interes general.
+- Redes y servicios de comunicaciones electronicas.
+- Servicio universal.
+- Derechos de usuarios.
+- Seguridad e integridad de redes.
+- Competencias y marco regulatorio.
+
+
+## CNMC - Telecomunicaciones
+
+Fuente:
+- CNMC, sector telecomunicaciones.
+- URL: https://www.cnmc.es/sectores-que-regulamos/telecomunicaciones
+
+Relevancia:
+- Supervision de mercados de comunicaciones electronicas.
+- Obligaciones de operadores.
+- Ofertas mayoristas reguladas.
+- Calidad de servicios.
+- Portabilidad.
+- Resolucion de conflictos e infracciones.
+
+
+## RD 1112/2018 - Accesibilidad web y aplicaciones moviles del sector publico
+
+Fuente:
+- BOE-A-2018-12699
+- Real Decreto 1112/2018, de 7 de septiembre.
+- Texto consolidado: https://boe.es/buscar/act.php?id=BOE-A-2018-12699
+
+Relevancia TIC:
+- Accesibilidad de sitios web y aplicaciones moviles del sector publico.
+- Aplicable al diseño, construccion, mantenimiento y actualizacion de sitios y apps.
+- Imprescindible en sede electronica, portales y servicios digitales.
+
+
 ============================================================
 3. REGLA DE USO PARA EL MATERIAL
 ============================================================
