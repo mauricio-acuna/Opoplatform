@@ -1,0 +1,298 @@
+### Datos e IA avanzada - A1/A2 TIC
+Fecha de trabajo: 30/04/2026
+
+Objetivo:
+Cubrir gobierno del dato, plataformas analiticas, IA, MLOps y tecnologias de proteccion de confidencialidad con enfoque de Administracion Publica.
+
+
+============================================================
+1. ESTRATEGIA Y GOBIERNO DEL DATO
+============================================================
+
+Gobierno del dato:
+- Define responsabilidades, politicas, calidad, seguridad, catalogo, linaje, ciclo de vida y uso del dato.
+
+Roles:
+- Data owner / responsable del dato.
+- Data steward.
+- Responsable de seguridad.
+- DPD si hay datos personales.
+- Usuarios consumidores.
+
+Componentes:
+- Catalogo de datos.
+- Metadatos.
+- Linaje.
+- Calidad.
+- Glosario de negocio.
+- Politicas de acceso.
+- Clasificacion.
+
+Frase:
+"Una plataforma de datos publica debe partir de gobierno del dato: responsables, catalogo, calidad, linaje, seguridad, privacidad, interoperabilidad semantica y criterios de reutilizacion."
+
+
+============================================================
+2. DATA WAREHOUSE, DATA LAKE, LAKEHOUSE
+============================================================
+
+Data warehouse:
+- Datos estructurados.
+- Orientado a analitica.
+- Esquemas definidos.
+- BI/cuadros de mando.
+
+Data lake:
+- Datos estructurados, semiestructurados y no estructurados.
+- Almacenamiento flexible.
+- Riesgo de convertirse en data swamp si no hay gobierno.
+
+Lakehouse:
+- Combina flexibilidad de data lake con capacidades de gestion/consulta de data warehouse.
+- Busca transacciones, catalogo, calidad y analitica sobre lago.
+
+Trampa:
+Un data lake sin catalogo, calidad y responsables no es estrategia de dato: es acumulacion de ficheros.
+
+
+============================================================
+3. DATA FABRIC Y DATA MESH
+============================================================
+
+Data fabric:
+- Arquitectura que integra datos distribuidos mediante metadatos, automatizacion, catalogo, gobierno e interoperabilidad.
+- Busca acceso coherente a datos heterogeneos.
+
+Data mesh:
+- Enfoque organizativo/arquitectonico donde dominios gestionan datos como producto.
+- Principios: dominio, dato como producto, plataforma autoservicio, gobierno federado.
+
+Comparacion:
+| Concepto | Foco |
+|---|---|
+| Data fabric | Integracion tecnica y metadatos en entornos distribuidos. |
+| Data mesh | Organizacion por dominios y responsabilidad distribuida. |
+
+En Administracion:
+- Puede ayudar en ministerios/organismos con datos distribuidos, pero exige gobernanza fuerte y semantica comun.
+
+
+============================================================
+4. CALIDAD DEL DATO
+============================================================
+
+Dimensiones:
+- Exactitud.
+- Completitud.
+- Consistencia.
+- Validez.
+- Actualidad.
+- Unicidad.
+- Trazabilidad.
+
+Controles:
+- Reglas de calidad.
+- Validaciones.
+- Deduplicacion.
+- Monitorizacion.
+- Responsables.
+- Cuadros de calidad.
+
+Frase:
+"La calidad del dato debe medirse y gobernarse; no basta con integrar fuentes si los datos son incoherentes, duplicados o no trazables."
+
+
+============================================================
+5. IA, ML, DEEP LEARNING, NLP
+============================================================
+
+IA:
+- Campo general de sistemas que realizan tareas asociadas a inteligencia.
+
+Machine Learning:
+- Modelos que aprenden patrones desde datos.
+
+Deep Learning:
+- Redes neuronales profundas.
+
+NLP:
+- Procesamiento de lenguaje natural.
+
+Vision artificial:
+- Analisis de imagen/video.
+
+Sistemas expertos:
+- Reglas/conocimiento experto.
+
+Agentes inteligentes:
+- Sistemas que perciben, deciden y actuan para lograr objetivos.
+
+
+============================================================
+6. CICLO DE VIDA ML / MLOPS
+============================================================
+
+Fases:
+1. Definir problema y finalidad.
+2. Obtener datos.
+3. Preparar/preprocesar.
+4. Entrenar.
+5. Validar.
+6. Desplegar.
+7. Monitorizar.
+8. Reentrenar/retirar.
+
+MLOps:
+- Practicas para gestionar ciclo de vida de modelos en produccion.
+- Versionado de datos/modelos/codigo.
+- Pipelines.
+- Monitorizacion de rendimiento.
+- Deteccion de deriva.
+- Reproducibilidad.
+- Gobierno y auditoria.
+
+En Administracion:
+- Añadir base juridica, transparencia, explicabilidad, supervision humana y trazabilidad.
+
+
+============================================================
+7. RIESGOS DE IA PUBLICA
+============================================================
+
+Riesgos:
+- Sesgos.
+- Discriminacion.
+- Falta de explicabilidad.
+- Datos de baja calidad.
+- Automatizacion indebida.
+- Opacidad.
+- Deriva del modelo.
+- Seguridad del modelo/datos.
+- Reidentificacion.
+
+Controles:
+- EIPD si procede.
+- Evaluacion de sesgos.
+- Supervisión humana.
+- Explicabilidad.
+- Auditoria.
+- Registro de recomendaciones.
+- Calidad de datos.
+- Pruebas.
+- Monitorizacion continua.
+
+Frase:
+"La IA en Administracion debe ser proporcionada, explicable, supervisada, trazable y respetuosa con el procedimiento administrativo y los derechos de las personas."
+
+
+============================================================
+8. PET - PRIVACY ENHANCING TECHNOLOGIES
+============================================================
+
+PET:
+Tecnologias para proteger privacidad/confidencialidad al tratar o compartir datos.
+
+Ejemplos:
+- Anonimizacion.
+- Seudonimizacion.
+- Privacidad diferencial.
+- Cifrado homomorfico.
+- Computacion multipartita segura.
+- Entornos seguros de tratamiento.
+- Federated learning.
+
+Uso publico:
+- Comparticion de datos.
+- Analitica interadministrativa.
+- Datos sensibles.
+- Publicacion de estadisticas.
+
+Trampa:
+Seudonimizar no es anonimizar. Si puede reidentificarse con informacion adicional, sigue siendo dato personal.
+
+
+============================================================
+9. DATOS ABIERTOS Y REUTILIZACION
+============================================================
+
+Principios:
+- Formatos abiertos.
+- Metadatos.
+- Licencias claras.
+- Calidad.
+- Actualizacion.
+- No publicar datos personales salvo base y garantias adecuadas.
+- Anonimizacion/agregacion cuando proceda.
+
+Valor:
+- Transparencia.
+- Innovacion.
+- Rendicion de cuentas.
+- Mejora de politicas publicas.
+
+
+============================================================
+10. SUPUESTO MODELO
+============================================================
+
+Enunciado:
+Un ministerio quiere crear un data lake para cruzar datos de subvenciones, empleo y formacion, y usar IA para priorizar inspecciones.
+
+Respuesta esperada:
+- Finalidad publica y base juridica.
+- Gobierno del dato, catalogo, calidad, linaje.
+- Separar datos operacionales/analiticos.
+- Minimizar y clasificar datos.
+- EIPD si alto riesgo.
+- ENS y control de accesos.
+- IA como apoyo, supervision humana.
+- Sesgos, explicabilidad y auditoria.
+- MLOps y monitorizacion.
+- Indicadores.
+
+
+============================================================
+11. TEST
+============================================================
+
+1. Un data lake sin gobierno puede convertirse en:
+A. Data swamp.
+B. SLA.
+C. Firewall.
+D. Sede electronica.
+Respuesta: A.
+
+2. Data mesh se centra especialmente en:
+A. Dominios que gestionan datos como producto.
+B. Solo cifrado TLS.
+C. Solo redes LAN.
+D. Solo contratos.
+Respuesta: A.
+
+3. MLOps busca:
+A. Gestionar ciclo de vida de modelos en produccion.
+B. Sustituir RGPD.
+C. Eliminar monitorizacion.
+D. Hacer solo dashboards.
+Respuesta: A.
+
+4. Seudonimizacion:
+A. No equivale necesariamente a anonimizacion.
+B. Elimina siempre RGPD.
+C. Publica datos.
+D. Es un protocolo de red.
+Respuesta: A.
+
+5. En IA publica debe haber:
+A. Supervision humana, explicabilidad, trazabilidad y control de sesgos.
+B. Opacidad total.
+C. Decision irrecurrible.
+D. Sin auditoria.
+Respuesta: A.
+
+6. PET significa:
+A. Tecnologias de mejora/proteccion de privacidad.
+B. Protocolo Ethernet tecnico.
+C. Plan estatal tributario.
+D. Prueba electronica temporal.
+Respuesta: A.

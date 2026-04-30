@@ -86,10 +86,9 @@ Falta:
 Gobierno del dato/IA:
 - fichas_tecnicas_nucleo_tic.txt
 - fichas_bases_datos_sql.txt
+- fichas_datos_ia_avanzado.txt
 - simulacro_a1_1.txt
 Falta:
-- Ficha especifica data lake/lakehouse/data mesh/data fabric/PET.
-- Ficha MLOps/IA publica.
 - Test de datos/IA.
 
 

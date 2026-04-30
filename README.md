@@ -44,6 +44,7 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 - `fichas_bases_datos_sql.txt`
 - `fichas_desarrollo_web_apis.txt`
 - `fichas_java_jakarta_dotnet.txt`
+- `fichas_datos_ia_avanzado.txt`
 
 ## Practica
 

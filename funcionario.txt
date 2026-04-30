@@ -1097,6 +1097,17 @@ Contiene:
 - Comparativa Java vs .NET.
 - Uso en supuestos publicos y test.
 
+48. fichas_datos_ia_avanzado.txt
+Contiene:
+- Gobierno del dato.
+- Data warehouse, data lake y lakehouse.
+- Data fabric y data mesh.
+- Calidad del dato.
+- IA, ML, deep learning, NLP y agentes inteligentes.
+- MLOps.
+- Riesgos de IA publica.
+- PET, datos abiertos, supuesto modelo y test.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 
