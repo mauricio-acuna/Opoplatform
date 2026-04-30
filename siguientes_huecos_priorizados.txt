@@ -1,0 +1,93 @@
+### Siguientes huecos priorizados
+Fecha de trabajo: 30/04/2026
+
+Objetivo:
+Mantener avance coherente. No todo pendiente tiene el mismo valor.
+
+
+============================================================
+PRIORIDAD ALTA
+============================================================
+
+1. test_gestion_100.txt
+Por que:
+- Ya hay fichas de gobernanza, proyectos, ITIL/COBIT, auditoria y contratacion.
+- Falta banco especifico de test para gestion A1/A2.
+
+2. test_datos_ia_100.txt
+Por que:
+- El temario A1 incluye datos, IA, privacidad, tecnologias emergentes.
+- Ya hay ficha avanzada, falta practica.
+
+3. respuestas_modelo_10_nuevas.txt
+Por que:
+- Hay 30 supuestos, pero pocas respuestas desarrolladas.
+- Las respuestas modelo enseñan estructura real.
+
+4. fichas_igualdad_transparencia_administracion_abierta.txt
+Por que:
+- Bloque comun normativo.
+- Suele caer en test.
+- Falta cobertura especifica.
+
+
+============================================================
+PRIORIDAD MEDIA
+============================================================
+
+5. fichas_software_libre_propiedad_intelectual.txt
+Por que:
+- Temas de software libre, licencias, propiedad intelectual y control de software aparecen en A1/A2.
+
+6. fichas_blockchain_ebsi.txt
+Por que:
+- Tema emergente A1.
+- Conviene cubrirlo con prudencia tecnica y juridica.
+
+7. fichas_gis_ocr_biometria.txt
+Por que:
+- Aparecen en temario A1 como tecnologias concretas.
+
+8. fichas_php_crm_erp_elearning.txt
+Por que:
+- Bloques tecnicos especificos pendientes.
+
+
+============================================================
+PRIORIDAD BAJA / REFINAMIENTO
+============================================================
+
+9. convertir_tarjetas_a_csv.txt
+Por que:
+- Facilitaria importacion a Anki u otra herramienta.
+
+10. indice_por_oposicion_c1_a2_a1.txt
+Por que:
+- Separaria itinerario especifico si se decide preparar una oposicion concreta antes.
+
+11. simulacro_c1_1.txt
+Por que:
+- C1 es plan de seguridad, pero aun no tiene simulacro propio.
+
+
+============================================================
+REGLA DE SELECCION
+============================================================
+
+Si el objetivo principal es A1:
+1. test_gestion_100.
+2. test_datos_ia_100.
+3. respuestas_modelo_10_nuevas.
+4. blockchain/software libre/GIS.
+
+Si el objetivo principal es A2:
+1. test_gestion_100.
+2. respuestas_modelo_10_nuevas.
+3. igualdad/transparencia.
+4. simulacro A2 adicional.
+
+Si el objetivo principal es C1:
+1. simulacro_c1_1.
+2. test_tecnico adicional.
+3. administracion electronica.
+4. sistemas/redes.

@@ -77,6 +77,7 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 - `dashboard_mensual_oposiciones.txt`
 - `matriz_temario_oficial_2026.txt`
 - `cobertura_material_por_temario.txt`
+- `siguientes_huecos_priorizados.txt`
 
 ## Regla de trabajo
 

@@ -1134,6 +1134,14 @@ Contiene:
 - LCSP/contratacion.
 - Constitucion, EBEP, gobernanza, accesibilidad, telecomunicaciones y auditoria.
 
+52. siguientes_huecos_priorizados.txt
+Contiene:
+- Proximos huecos ordenados por prioridad.
+- Tests pendientes.
+- Respuestas modelo pendientes.
+- Temas especificos pendientes: igualdad/transparencia, software libre, blockchain, GIS, OCR, biometria, PHP, CRM, ERP, e-learning.
+- Regla de seleccion segun objetivo A1/A2/C1.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 
