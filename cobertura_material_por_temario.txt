@@ -1,0 +1,177 @@
+### Cobertura del material por bloque de temario
+Fecha de trabajo: 30/04/2026
+
+Objetivo:
+Saber que cubre ya Opoplatform y que falta desarrollar con mas profundidad.
+
+
+============================================================
+1. COBERTURA ALTA
+============================================================
+
+Administracion digital:
+- fichas_ley_39_40_admon_digital.txt
+- tabla_plazos_ley_39.txt
+- fichas_rd_203_2021.txt
+- tabla_eni_nti.txt
+- banco_supuestos_30.txt
+- simulacro_a2_1.txt
+
+ENS:
+- tabla_ens_rd_311_2022.txt
+- casos_ens_rgpd.txt
+- banco_test_inicial_100.txt
+- rubricas_correccion_supuestos.txt
+
+RGPD/LOPDGDD:
+- fichas_rgpd_lopdgdd.txt
+- tabla_bases_juridicas_rgpd_sector_publico.txt
+- casos_ens_rgpd.txt
+
+Contratacion TIC:
+- fichas_contratacion_publica_tic.txt
+- plantilla_ppt_tic.txt
+- plantillas_respuesta_examen_a1_a2.txt
+- banco_supuestos_30.txt
+
+Gobernanza TIC:
+- fichas_gobernanza_tic_age.txt
+- fuentes_actualizadas_2026.txt
+- simulacro_a1_1.txt
+
+Redes/sistemas/cloud:
+- fichas_redes_detalladas.txt
+- fichas_sistemas_cloud_detalladas.txt
+- test_tecnico_100.txt
+
+Bases de datos/desarrollo/APIs:
+- fichas_bases_datos_sql.txt
+- fichas_desarrollo_web_apis.txt
+- test_tecnico_100.txt
+
+Supuestos:
+- banco_supuestos_a1_a2.txt
+- banco_supuestos_30.txt
+- simulacro_a1_1.txt
+- simulacro_a2_1.txt
+- respuestas_modelo_desarrolladas.txt
+- rubricas_correccion_supuestos.txt
+
+
+============================================================
+2. COBERTURA MEDIA
+============================================================
+
+Constitucion/TREBEP:
+- fichas_constitucion_ebep.txt
+- banco_test_inicial_100.txt
+Falta:
+- Test especifico ampliado.
+- Tabla de articulos constitucionales y relacion TIC.
+- Igualdad, transparencia y administracion abierta mas desarrollado.
+
+ITIL/COBIT/calidad:
+- fichas_itil_cobit_calidad.txt
+Falta:
+- Casos especificos de CAU, CMDB, cambios y SLAs.
+- Test ampliado.
+
+Direccion de proyectos:
+- fichas_direccion_proyectos.txt
+Falta:
+- GANTT/PERT mas detallado.
+- Lean/agil/Scrum/Kanban mas detallado.
+- Casos de planificacion y riesgos.
+
+Gobierno del dato/IA:
+- fichas_tecnicas_nucleo_tic.txt
+- fichas_bases_datos_sql.txt
+- simulacro_a1_1.txt
+Falta:
+- Ficha especifica data lake/lakehouse/data mesh/data fabric/PET.
+- Ficha MLOps/IA publica.
+- Test de datos/IA.
+
+
+============================================================
+3. COBERTURA BAJA O PENDIENTE
+============================================================
+
+Java/Jakarta EE:
+- Cubierto solo a nivel general en fichas_desarrollo_web_apis.txt.
+Falta:
+- Ficha especifica Java/Jakarta EE.
+
+.NET:
+- Cubierto solo a nivel general.
+Falta:
+- Ficha especifica .NET.
+
+PHP:
+- Pendiente.
+
+Auditoria informatica:
+- Parcial en ENS/COBIT.
+Falta:
+- Ficha especifica de auditoria informatica, auditoria ENS y proteccion de datos.
+
+Redes avanzadas:
+- Parcial en fichas_redes_detalladas.
+Falta:
+- GPON/FTTH, LTE/5G, MPLS, SD-WAN, NGN/IMS, VoIP, videoconferencia.
+
+Telecomunicaciones/normativa CNMC:
+- Pendiente.
+
+Blockchain/EBSI:
+- Pendiente.
+
+GIS:
+- Pendiente.
+
+E-learning:
+- Pendiente.
+
+CRM/ERP:
+- Pendiente.
+
+OCR/biometria/imagen:
+- Pendiente.
+
+Software libre/licencias:
+- Pendiente especifico.
+
+Propiedad intelectual/software:
+- Parcial en contratacion.
+- Falta ficha especifica.
+
+
+============================================================
+4. SIGUIENTES ARCHIVOS RECOMENDADOS
+============================================================
+
+1. fichas_auditoria_informatica.txt
+2. fichas_java_jakarta_dotnet.txt
+3. fichas_datos_ia_avanzado.txt
+4. fichas_redes_avanzadas_teleco.txt
+5. test_normativa_200.txt
+6. test_gestion_100.txt
+7. test_datos_ia_100.txt
+
+
+============================================================
+5. CRITERIO DE CIERRE POR BLOQUE
+============================================================
+
+Un bloque se considera cerrado para primera vuelta si tiene:
+- 1 ficha principal.
+- 1 tabla/resumen de memoria.
+- 30 preguntas.
+- 1 supuesto o caso corto.
+- 1 respuesta modelo o parrafo reutilizable.
+
+Un bloque se considera listo para examen si:
+- Test >= 80%.
+- Puede explicarse en 5 minutos.
+- Puede integrarse en un supuesto.
+- Tiene errores frecuentes identificados.

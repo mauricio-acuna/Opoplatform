@@ -24,7 +24,7 @@ ESTADO GENERAL
 | Constitucion/EBEP | Medio | fichas_constitucion_ebep | Test ampliado y plazos/derechos |
 | RGPD/LOPDGDD | Medio-alto | fichas_rgpd_lopdgdd, casos_ens_rgpd, tabla_bases_juridicas_rgpd_sector_publico | Test ampliado RGPD/ENS |
 | Contratacion TIC | Medio-alto | fichas_contratacion_publica_tic, plantilla_ppt_tic | PCAP detallado y mas casos |
-| Gobernanza/gestion A1-A2 | Medio-alto | fichas_gobernanza_tic_age, fichas_direccion_proyectos, fichas_itil_cobit_calidad | Casos de gobierno, auditoria y priorizacion |
+| Gobernanza/gestion A1-A2 | Alto | fichas_gobernanza_tic_age, fichas_direccion_proyectos, fichas_itil_cobit_calidad, fichas_auditoria_informatica | Casos de gobierno y priorizacion |
 | Sistemas/redes/cloud | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_redes_detalladas, fichas_sistemas_cloud_detalladas, test_tecnico_100 | Mas preguntas por dificultad |
 | Desarrollo/datos/IA | Medio-alto | fichas_tecnicas_nucleo_tic, fichas_bases_datos_sql, fichas_desarrollo_web_apis, test_tecnico_100 | Java/.NET especifico |
 | Supuestos | Alto | banco_supuestos, banco_supuestos_30, respuestas_modelo, plantillas, simulacro_a1_1, simulacro_a2_1 | Mas respuestas desarrolladas |

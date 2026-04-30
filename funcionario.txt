@@ -1064,6 +1064,30 @@ Contiene:
 - Plantilla de autocorreccion.
 - Penalizaciones tipicas.
 
+44. matriz_temario_oficial_2026.txt
+Contiene:
+- Matriz de temario oficial A1/A2/C1 basada en BOE.
+- Bloques comunes.
+- Bloques especificos A1.
+- Bloques relevantes A2.
+- Bloques operativos C1.
+- Priorizacion del repositorio.
+
+45. cobertura_material_por_temario.txt
+Contiene:
+- Cobertura alta, media y baja del material.
+- Archivos que cubren cada bloque.
+- Pendientes claros.
+- Criterios de cierre por bloque.
+
+46. fichas_auditoria_informatica.txt
+Contiene:
+- Auditoria informatica.
+- Objetivos, tipos, fases y evidencias.
+- Auditoria ENS, RGPD y contratos TIC.
+- COBIT/ITIL en auditoria.
+- Informe, mini supuesto y test.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

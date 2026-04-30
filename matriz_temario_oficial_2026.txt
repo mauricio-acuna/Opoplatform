@@ -1,0 +1,154 @@
+### Matriz de temario oficial TIC AGE 2026 - A1/A2/C1
+Fecha de trabajo: 30/04/2026
+
+Fuentes oficiales:
+- A1 TIC: BOE-A-2025-25938, convocatoria publicada el 18/12/2025.
+  https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-25938
+- A2 GSI y C1 TAI: BOE-A-2025-26262, convocatoria publicada el 22/12/2025.
+  https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262
+
+Objetivo:
+Tener un mapa trazable del temario real. Este archivo no sustituye el BOE; sirve para ordenar el estudio y detectar cobertura.
+
+
+============================================================
+1. LECTURA ESTRATEGICA
+============================================================
+
+A1 TIC:
+- Es el temario mas amplio y directivo.
+- Incluye marco general, organizacion publica, gobernanza TIC, compra publica, interoperabilidad, seguridad, sistemas, desarrollo, datos, redes, comunicaciones y tecnologias emergentes.
+- La convocatoria A1 valora expresamente la capacidad de vincular conocimiento tecnico con marco normativo y organizacion administrativa.
+- El segundo ejercicio exige supuesto practico y analisis pormenorizado del marco juridico/contexto.
+
+A2 GSI:
+- Es tecnico-gestor.
+- Tiene una base comun fuerte con A1, pero menor profundidad estrategica.
+- Bloques claros: administracion digital/normativa, tecnologia basica, desarrollo, sistemas y comunicaciones.
+
+C1 TAI:
+- Es tecnico operativo.
+- Comparte muchos bloques con A2: administracion electronica, desarrollo, sistemas, redes, seguridad, bases de datos.
+- La profundidad esperada es menor, pero exige soltura de test.
+
+
+============================================================
+2. BLOQUES COMUNES A LOS TRES NIVELES
+============================================================
+
+| Bloque | C1 | A2 | A1 | Prioridad |
+|---|---|---|---|---|
+| Constitucion, empleo publico, igualdad | Media | Alta | Alta | Alta |
+| Ley 39/2015 y procedimiento electronico | Alta | Alta | Alta | Muy alta |
+| Ley 40/2015 y funcionamiento electronico | Alta | Alta | Alta | Muy alta |
+| RD 203/2021 | Alta | Alta | Alta | Alta |
+| ENS | Alta | Alta | Alta | Muy alta |
+| ENI y NTI | Alta | Alta | Alta | Muy alta |
+| RGPD/LOPDGDD | Alta | Alta | Alta | Muy alta |
+| Servicios comunes AGE | Alta | Alta | Alta | Alta |
+| Sistemas operativos | Alta | Alta | Media | Alta |
+| Redes TCP/IP/OSI/Internet | Alta | Alta | Alta | Alta |
+| Bases de datos y SQL | Alta | Alta | Alta | Alta |
+| Desarrollo web/APIs | Alta | Alta | Alta | Alta |
+| Seguridad tecnica | Alta | Alta | Alta | Muy alta |
+| Cloud/virtualizacion/contenedores | Media | Alta | Alta | Alta |
+| Accesibilidad/usabilidad | Media | Alta | Alta | Alta |
+
+
+============================================================
+3. BLOQUES ESPECIFICOS O MAS IMPORTANTES EN A1
+============================================================
+
+| Area A1 | Enfoque esperado |
+|---|---|
+| Gobernanza TIC AGE | RD 1125/2024, CETIC, Agencia Estatal de Administracion Digital, CMAD, Estrategia TIC, servicios comunes/transversales. |
+| Directivo TIC | Estrategia, cuadro de mando, planificacion, toma de decisiones, organizacion TIC. |
+| Compra publica TIC | Alternativas, viabilidad, inversiones, adquisicion, rentabilidad, control de software. |
+| Auditoria informatica | Objetivos, alcance, metodologia, infraestructura, seguridad, operacion. |
+| Tecnologias emergentes | IA, blockchain, IoT, industria 4.0, datos, aspectos juridicos y eticos. |
+| Redes avanzadas | MPLS, NGN/IMS, LTE, GPON/FTTH, IoT, videoconferencia, comunicaciones moviles. |
+| Ciencia y estrategia del dato | Data lake, lakehouse, data mesh/fabric, PET, catalogos, ontologias, gobierno del dato. |
+| Analisis y diseño | BPMN, UML, modelado dominio/dinamico/no funcional, arquitectura y calidad. |
+
+
+============================================================
+4. BLOQUES ESPECIFICOS O MUY RELEVANTES EN A2
+============================================================
+
+| Area A2 | Enfoque esperado |
+|---|---|
+| Arquitectura ANSI/SPARC y SGBD | Bases de datos, SQL, interoperabilidad entre gestores. |
+| Cliente-servidor/multicapas/multidispositivo | Arquitecturas y servicios web. |
+| Contenedores y microservicios | Despliegue, monitorizacion, escalado. |
+| Auditoria ENS/proteccion de datos | Seguridad fisica/logica, ciberseguridad, forense. |
+| Gestion atencion usuarios/CRM/IVR | Soporte, multicanalidad, contacto ciudadano/usuario. |
+| Desarrollo Java/Jakarta EE y .NET | Persistencia, seguridad, herramientas. |
+| Almacenamiento/backup/CPD | Alta disponibilidad, balanceo, recuperacion ante desastre. |
+| Redes LAN/WAN/inalambricas | SNMP, MPLS, SD-WAN, seguridad, moviles. |
+
+
+============================================================
+5. BLOQUES OPERATIVOS MUY RELEVANTES EN C1
+============================================================
+
+| Area C1 | Enfoque esperado |
+|---|---|
+| Administracion electronica | Registro, notificaciones, sede, identificacion, ENS, ENI. |
+| Hardware/software/sistemas | Instalacion, mantenimiento, reparacion, sistemas operativos. |
+| Bases de datos | Relacionales, OO, NoSQL, componentes. |
+| Desarrollo | Modelado, programacion, web, Java/.NET a nivel operativo. |
+| Sistemas y comunicaciones | Backup, contenedores, redes LAN, TCP/IP, Internet, seguridad fisica/logica. |
+| Seguridad | Amenazas, vulnerabilidades, criptografia, firma, CPD, incidencias, control remoto. |
+
+
+============================================================
+6. PRIORIZACION PARA ESTE REPOSITORIO
+============================================================
+
+Prioridad 1 - Ya debe estar fuerte:
+- Ley 39/2015, Ley 40/2015, RD 203/2021.
+- ENS.
+- ENI.
+- RGPD.
+- Supuestos de sede, expediente, notificacion, ciberincidente.
+
+Prioridad 2 - Tecnica comun:
+- Redes.
+- Sistemas/cloud.
+- Bases de datos.
+- Desarrollo/APIs.
+- Seguridad tecnica.
+
+Prioridad 3 - A1 diferencial:
+- Gobernanza TIC RD 1125/2024.
+- Direccion de proyectos.
+- Compra publica TIC.
+- Gobierno del dato e IA.
+- Auditoria informatica.
+- Cuadro de mando/directivo TIC.
+
+Prioridad 4 - Profundizacion:
+- Java/Jakarta EE.
+- .NET.
+- PHP.
+- Blockchain.
+- GIS.
+- E-learning.
+- CRM/ERP.
+- Redes avanzadas.
+- Movilidad/MDM.
+
+
+============================================================
+7. REGLA DE ESTUDIO
+============================================================
+
+No estudiar por "archivo".
+Estudiar por bloque oficial:
+1. Leer fuente BOE para ubicar el tema.
+2. Leer ficha del repo.
+3. Hacer test.
+4. Escribir mini supuesto o parrafo de examen.
+5. Registrar fallos.
+
+Si un bloque no tiene test y supuesto, no esta cerrado.

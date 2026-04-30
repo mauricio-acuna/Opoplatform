@@ -1,0 +1,278 @@
+### Auditoria informatica - A1/A2 TIC
+Fecha de trabajo: 30/04/2026
+
+Objetivo:
+Cubrir auditoria informatica para test, supuesto y respuesta A1/A2. La auditoria no es "pasar una checklist": es obtener evidencias para evaluar control, seguridad, cumplimiento, eficacia y riesgos.
+
+
+============================================================
+1. IDEA FUERZA
+============================================================
+
+La auditoria informatica es la revision independiente y sistematica de sistemas, procesos, controles, seguridad, datos, servicios y gobierno TIC para evaluar si cumplen objetivos, normativa, buenas practicas y niveles de riesgo aceptables.
+
+Frase de examen:
+"La auditoria informatica debe planificarse en funcion de riesgos, alcance y objetivos, recopilando evidencias suficientes y trazables sobre gobierno, seguridad, cumplimiento, operacion, datos, continuidad y controles, para emitir hallazgos, recomendaciones y plan de mejora."
+
+
+============================================================
+2. OBJETIVOS DE AUDITORIA
+============================================================
+
+| Objetivo | Pregunta clave |
+|---|---|
+| Cumplimiento | Se cumplen normas, politicas, contratos y procedimientos? |
+| Seguridad | Los controles protegen confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad? |
+| Eficacia | El sistema cumple su finalidad publica? |
+| Eficiencia | Se usan adecuadamente recursos TIC? |
+| Fiabilidad | Los datos y procesos son correctos y consistentes? |
+| Continuidad | El servicio puede recuperarse ante incidentes? |
+| Gobierno | Hay responsables, decisiones, indicadores y control? |
+
+
+============================================================
+3. TIPOS DE AUDITORIA TIC
+============================================================
+
+| Tipo | Enfoque |
+|---|---|
+| Auditoria de seguridad | Controles, vulnerabilidades, accesos, logs, incidentes. |
+| Auditoria ENS | Adecuacion al ENS, categoria, medidas, declaracion de aplicabilidad. |
+| Auditoria RGPD | Tratamientos, bases juridicas, derechos, DPD, encargados, brechas. |
+| Auditoria de sistemas | Infraestructura, operacion, disponibilidad, backup, cambios. |
+| Auditoria de aplicaciones | Requisitos, controles, seguridad aplicativa, trazabilidad, calidad. |
+| Auditoria de datos | Calidad, integridad, linaje, accesos, conservacion. |
+| Auditoria de contratos TIC | SLAs, entregables, seguridad, reversibilidad, cumplimiento. |
+| Auditoria de proyectos | Alcance, plazos, costes, riesgos, calidad, beneficios. |
+
+
+============================================================
+4. FASES DE AUDITORIA
+============================================================
+
+1. Planificacion:
+- Objetivo.
+- Alcance.
+- Criterios.
+- Riesgos.
+- Equipo.
+- Calendario.
+
+2. Recopilacion de informacion:
+- Documentacion.
+- Entrevistas.
+- Inventarios.
+- Politicas.
+- Logs.
+- Configuraciones.
+- Contratos.
+
+3. Trabajo de campo:
+- Pruebas de controles.
+- Muestreo.
+- Revision tecnica.
+- Evidencias.
+- Contraste con responsables.
+
+4. Informe:
+- Hallazgos.
+- Evidencias.
+- Riesgo.
+- Impacto.
+- Recomendaciones.
+- Prioridad.
+
+5. Seguimiento:
+- Plan de accion.
+- Responsables.
+- Fechas.
+- Verificacion de cierre.
+
+
+============================================================
+5. EVIDENCIAS
+============================================================
+
+Ejemplos:
+- Politica de seguridad.
+- Analisis de riesgos.
+- Declaracion de aplicabilidad.
+- Inventario de activos.
+- Matriz de permisos.
+- Logs de acceso.
+- Informes de vulnerabilidades.
+- Pruebas de restauracion.
+- Actas de comite.
+- SLAs e informes de servicio.
+- Contratos y pliegos.
+- Registro de incidencias.
+- Plan de continuidad.
+
+Regla:
+Sin evidencia, una afirmacion no vale.
+
+
+============================================================
+6. AUDITORIA ENS
+============================================================
+
+Revisar:
+- Categoria del sistema.
+- Analisis de riesgos.
+- Declaracion de aplicabilidad.
+- Medidas del Anexo II.
+- Roles y responsabilidades.
+- Politica y normativa de seguridad.
+- Gestion de accesos.
+- Registro de actividad.
+- Continuidad.
+- Incidentes.
+- Auditorias previas y plan de mejora.
+
+Trampa:
+Auditar ENS no es solo revisar firewalls; incluye marco organizativo, operacional y medidas de proteccion.
+
+
+============================================================
+7. AUDITORIA RGPD
+============================================================
+
+Revisar:
+- Registro de actividades.
+- Bases juridicas.
+- Clausulas informativas.
+- Contratos de encargado.
+- Derechos.
+- Conservacion.
+- Medidas de seguridad.
+- Brechas.
+- EIPD.
+- DPD.
+- Transferencias/subencargados.
+
+Trampa:
+La auditoria RGPD no se limita a consentimiento.
+
+
+============================================================
+8. AUDITORIA DE CONTRATO TIC
+============================================================
+
+Revisar:
+- Cumplimiento de SLAs.
+- Entregables.
+- Documentacion.
+- Seguridad.
+- Incidentes.
+- Penalidades.
+- Cambios.
+- Subcontratacion.
+- Transferencia.
+- Reversibilidad.
+
+Frase:
+"En contratos TIC criticos, la auditoria debe verificar no solo servicio prestado, sino tambien capacidad de control publico y salida ordenada."
+
+
+============================================================
+9. COBIT, ITIL Y AUDITORIA
+============================================================
+
+COBIT:
+- Gobierno.
+- Objetivos de control.
+- Riesgos.
+- Cumplimiento.
+- Medicion.
+
+ITIL:
+- Operacion de servicios.
+- Incidencias.
+- Problemas.
+- Cambios.
+- SLAs.
+- Mejora continua.
+
+Uso:
+COBIT ayuda a auditar gobierno; ITIL ayuda a auditar operacion.
+
+
+============================================================
+10. INFORME DE AUDITORIA
+============================================================
+
+Estructura:
+1. Resumen ejecutivo.
+2. Alcance y objetivos.
+3. Criterios.
+4. Metodologia.
+5. Hallazgos.
+6. Riesgos e impacto.
+7. Recomendaciones.
+8. Plan de accion.
+9. Limitaciones.
+10. Anexos/evidencias.
+
+Hallazgo bien redactado:
+- Condicion: que ocurre.
+- Criterio: contra que se compara.
+- Causa: por que ocurre.
+- Efecto: que riesgo genera.
+- Recomendacion: que hacer.
+
+
+============================================================
+11. MINI SUPUESTO
+============================================================
+
+Enunciado:
+Un organismo ha externalizado una plataforma de expedientes. Hay que auditarla tras varias incidencias de disponibilidad y una sospecha de accesos indebidos.
+
+Respuesta esperada:
+- Definir alcance: disponibilidad, seguridad, accesos, contrato, datos.
+- Revisar ENS: categoria, riesgos, declaracion aplicabilidad, controles.
+- Revisar RGPD: roles, accesos, brechas, encargados.
+- Revisar logs y matriz de permisos.
+- Revisar SLAs, incidencias, penalidades.
+- Revisar continuidad: backups, pruebas, RTO/RPO.
+- Emitir hallazgos y plan de mejora.
+
+
+============================================================
+12. TEST
+============================================================
+
+1. Una auditoria informatica debe basarse en:
+A. Evidencias.
+B. Opiniones sin contraste.
+C. Preferencias de marca.
+D. Rumores.
+Respuesta: A.
+
+2. Una auditoria ENS revisa:
+A. Solo antivirus.
+B. Categoria, riesgos, declaracion de aplicabilidad, medidas, roles y continuidad.
+C. Solo presupuesto.
+D. Solo diseño web.
+Respuesta: B.
+
+3. Un hallazgo debe incluir:
+A. Condicion, criterio, causa, efecto y recomendacion.
+B. Solo una queja.
+C. Solo una captura sin contexto.
+D. Solo opinion personal.
+Respuesta: A.
+
+4. COBIT ayuda especialmente en:
+A. Gobierno y control TIC.
+B. Solo CSS.
+C. Solo DHCP.
+D. Solo accesibilidad.
+Respuesta: A.
+
+5. En contrato TIC, auditoria debe revisar:
+A. SLAs, entregables, seguridad, reversibilidad y cumplimiento.
+B. Solo color de interfaz.
+C. Solo nombre del proveedor.
+D. Nada si el servicio funciona.
+Respuesta: A.

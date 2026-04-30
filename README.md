@@ -34,6 +34,7 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 - `plantilla_ppt_tic.txt`
 - `fichas_direccion_proyectos.txt`
 - `fichas_itil_cobit_calidad.txt`
+- `fichas_auditoria_informatica.txt`
 
 ## Tecnica
 
@@ -69,6 +70,8 @@ Material de preparacion para oposiciones TIC de la Administracion General del Es
 - `plan_semanal_operativo.txt`
 - `control_estudio_oposiciones.txt`
 - `dashboard_mensual_oposiciones.txt`
+- `matriz_temario_oficial_2026.txt`
+- `cobertura_material_por_temario.txt`
 
 ## Regla de trabajo
 
