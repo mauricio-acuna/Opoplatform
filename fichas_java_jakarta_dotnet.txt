@@ -1,0 +1,247 @@
+### Java/Jakarta EE y .NET - Oposiciones TIC
+Fecha de trabajo: 30/04/2026
+
+Objetivo:
+Cubrir Java/Jakarta EE y .NET con nivel suficiente para test y supuestos. No se trata de programar en examen, sino de entender arquitectura, componentes, persistencia, seguridad, despliegue e integracion.
+
+
+============================================================
+1. JAVA / JAKARTA EE - IDEA GENERAL
+============================================================
+
+Java:
+- Lenguaje orientado a objetos.
+- Independencia de plataforma mediante JVM.
+- Tipado estatico.
+- Ecosistema maduro para aplicaciones empresariales.
+
+Jakarta EE:
+- Evolucion de Java EE bajo Eclipse Foundation.
+- Plataforma de especificaciones para aplicaciones empresariales.
+- Orientada a aplicaciones web, servicios, persistencia, transacciones, seguridad e integracion.
+
+Frase de examen:
+"Java/Jakarta EE proporciona un ecosistema empresarial basado en especificaciones para construir aplicaciones web y servicios robustos, con componentes para persistencia, transacciones, seguridad e integracion."
+
+
+============================================================
+2. COMPONENTES JAVA/JAKARTA EE
+============================================================
+
+| Componente | Funcion |
+|---|---|
+| Servlet | Gestiona peticiones/respuestas HTTP. |
+| JSP/JSF | Presentacion web tradicional. |
+| JPA | Persistencia objeto-relacional. |
+| EJB | Componentes empresariales/transacciones en arquitecturas clasicas. |
+| CDI | Inyeccion de dependencias y gestion de contexto. |
+| JAX-RS | Servicios REST. |
+| JAX-WS | Servicios SOAP. |
+| Bean Validation | Validacion declarativa. |
+| JMS | Mensajeria asincrona. |
+| Jakarta Security | Seguridad/autenticacion/autorizacion. |
+
+
+============================================================
+3. PERSISTENCIA EN JAVA
+============================================================
+
+JPA:
+- Mapeo objeto-relacional.
+- Entidades.
+- EntityManager.
+- JPQL.
+- Relaciones.
+- Transacciones.
+
+Riesgos:
+- N+1 queries.
+- Transacciones mal delimitadas.
+- Lazy loading mal gestionado.
+- SQL injection si se construyen consultas inseguras.
+
+Buenas practicas:
+- Parametrizar consultas.
+- Controlar transacciones.
+- Diseñar modelo coherente.
+- Medir rendimiento.
+
+
+============================================================
+4. SEGURIDAD EN JAVA/JAKARTA
+============================================================
+
+Controles:
+- Autenticacion.
+- Autorizacion por roles/atributos.
+- Validacion de entrada.
+- Proteccion CSRF/XSS.
+- Gestion de sesiones.
+- TLS.
+- Gestion de secretos.
+- Logs.
+
+En Administracion:
+- Integrar con identidad corporativa o sistemas admitidos.
+- Trazabilidad.
+- ENS.
+- RGPD.
+
+
+============================================================
+5. .NET - IDEA GENERAL
+============================================================
+
+.NET:
+- Plataforma de desarrollo de Microsoft multiplataforma en versiones modernas.
+- Lenguaje habitual: C#.
+- Usada para aplicaciones web, APIs, servicios, escritorio, nube y microservicios.
+
+ASP.NET Core:
+- Framework web moderno.
+- APIs REST.
+- Middleware.
+- Inyeccion de dependencias.
+- Configuracion.
+- Autenticacion/autorizacion.
+
+Frase de examen:
+".NET, especialmente ASP.NET Core, permite construir aplicaciones web y APIs empresariales con soporte de inyeccion de dependencias, middleware, seguridad, persistencia, pruebas y despliegue en entornos modernos."
+
+
+============================================================
+6. COMPONENTES .NET
+============================================================
+
+| Componente | Funcion |
+|---|---|
+| C# | Lenguaje principal. |
+| CLR | Entorno de ejecucion. |
+| ASP.NET Core | Web/APIs. |
+| Middleware | Canalizacion de peticiones HTTP. |
+| Entity Framework Core | ORM/persistencia. |
+| LINQ | Consultas integradas en lenguaje. |
+| NuGet | Gestion de paquetes. |
+| Identity | Gestion de usuarios/autenticacion en escenarios .NET. |
+
+
+============================================================
+7. PERSISTENCIA EN .NET
+============================================================
+
+Entity Framework Core:
+- ORM.
+- DbContext.
+- Entidades.
+- Migraciones.
+- LINQ.
+- Transacciones.
+
+Riesgos:
+- Consultas ineficientes.
+- Carga excesiva.
+- Migraciones no controladas.
+- Inyeccion si se usa SQL bruto inseguro.
+
+
+============================================================
+8. JAVA VS .NET EN EXAMEN
+============================================================
+
+| Aspecto | Java/Jakarta EE | .NET |
+|---|---|---|
+| Lenguaje | Java | C# principalmente |
+| Ejecucion | JVM | CLR/.NET runtime |
+| Web/APIs | Servlets, JAX-RS, frameworks | ASP.NET Core |
+| Persistencia | JPA | Entity Framework Core |
+| Paquetes | Maven/Gradle | NuGet |
+| Ecosistema | Multiplataforma, empresarial, abierto | Multiplataforma moderno, fuerte integracion Microsoft |
+
+Respuesta madura:
+No elegir por gusto personal. Elegir por requisitos, ecosistema existente, equipo, integracion, licencias, soporte, seguridad, mantenibilidad y estrategia tecnologica.
+
+
+============================================================
+9. ARQUITECTURA EMPRESARIAL
+============================================================
+
+Patron comun:
+- Frontend.
+- API/backend.
+- Capa de negocio.
+- Persistencia.
+- Integracion.
+- Seguridad.
+- Observabilidad.
+
+En ambos ecosistemas:
+- CI/CD.
+- Contenedores.
+- Logs.
+- Tests.
+- Gestion de dependencias.
+- Analisis de seguridad.
+
+
+============================================================
+10. EN SUPUESTOS PUBLICOS
+============================================================
+
+Si se menciona Java/.NET:
+- Justificar encaje con arquitectura existente.
+- Evitar dependencia injustificada.
+- Exigir documentacion.
+- Controlar seguridad.
+- Integrar CI/CD.
+- Asegurar mantenibilidad.
+- Considerar contratacion, licencias y transferencia.
+
+Frase:
+"La eleccion de Java/Jakarta EE o .NET se justificaria por el ecosistema existente, capacidades del equipo, requisitos de integracion, soporte, seguridad, mantenibilidad y coste total, evitando decisiones basadas solo en preferencia tecnologica."
+
+
+============================================================
+11. TEST
+============================================================
+
+1. JPA se relaciona con:
+A. Persistencia objeto-relacional en Java.
+B. DNS.
+C. Contratacion.
+D. Accesibilidad.
+Respuesta: A.
+
+2. JAX-RS se usa para:
+A. Servicios REST en Java/Jakarta.
+B. Solo bases de datos.
+C. Solo CSS.
+D. Solo DHCP.
+Respuesta: A.
+
+3. ASP.NET Core se asocia con:
+A. Desarrollo web/APIs en .NET.
+B. Redes MPLS.
+C. Firma manuscrita.
+D. Backup fisico.
+Respuesta: A.
+
+4. Entity Framework Core es:
+A. ORM/persistencia en .NET.
+B. Firewall.
+C. Protocolo de correo.
+D. Norma constitucional.
+Respuesta: A.
+
+5. NuGet se usa para:
+A. Gestion de paquetes en .NET.
+B. DNS.
+C. VPN.
+D. SQL estandar.
+Respuesta: A.
+
+6. Una eleccion Java vs .NET debe basarse en:
+A. Requisitos, ecosistema, equipo, soporte, seguridad y mantenibilidad.
+B. Gusto personal exclusivamente.
+C. Moda.
+D. Color del logotipo.
+Respuesta: A.

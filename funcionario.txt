@@ -1088,6 +1088,15 @@ Contiene:
 - COBIT/ITIL en auditoria.
 - Informe, mini supuesto y test.
 
+47. fichas_java_jakarta_dotnet.txt
+Contiene:
+- Java/Jakarta EE.
+- Componentes: Servlet, JPA, JAX-RS, JAX-WS, CDI, JMS.
+- Persistencia y seguridad en Java.
+- .NET, ASP.NET Core, Entity Framework Core, LINQ, NuGet.
+- Comparativa Java vs .NET.
+- Uso en supuestos publicos y test.
+
 Conclusion:
 El material ya paso de esquema inicial a sistema de preparacion basico viable. Aun falta desarrollar fichas completas por cada tema del programa oficial y ampliar el banco de test, pero ya existe una base organizada, actualizada con BOE y orientada a examen.
 

@@ -98,14 +98,14 @@ Falta:
 ============================================================
 
 Java/Jakarta EE:
-- Cubierto solo a nivel general en fichas_desarrollo_web_apis.txt.
+- Cubierto en fichas_java_jakarta_dotnet.txt.
 Falta:
-- Ficha especifica Java/Jakarta EE.
+- Preguntas ampliadas especificas.
 
 .NET:
-- Cubierto solo a nivel general.
+- Cubierto en fichas_java_jakarta_dotnet.txt.
 Falta:
-- Ficha especifica .NET.
+- Preguntas ampliadas especificas.
 
 PHP:
 - Pendiente.
